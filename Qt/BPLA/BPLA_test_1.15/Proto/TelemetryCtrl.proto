@@ -1,0 +1,98 @@
+syntax = "proto2";
+
+package TELEMETRY_CTRL;
+
+enum TelemetryCtrlMsgType
+{
+	CtrlMsgType_Telemetry = 0;
+	CtrlMsgType_Subscribe = 1;
+	CtrlMsgType_Unsubscribe = 2;
+}
+
+enum Error
+{
+	Error_NoError = 0;
+	Error_General = 1;
+}
+
+message Navigation
+{
+	required double latitude = 1;
+	required double longitude = 2;
+	required float altitude = 3;	// Meters
+}
+
+message Orientation
+{
+	required float roll = 1;	// Degrees -180..+180. Counter-clockwise +, clockwise -
+	required float pitch = 2;	// Degrees -180..+180. Up +, down -
+	required float yaw = 3;		// Degrees 0..360 Clockwise
+}
+
+message AirTelemetry
+{
+	optional float altBaro = 1;		// Meters
+	optional float airSpeed = 2;	// Meters/sec
+}
+
+enum AutopilotMode
+{
+	AutopilotMode_GPS = 0;
+	AutopilotMode_FailSafe = 1;
+	AutopilotMode_ATT = 2;
+}
+
+enum FixType
+{
+	FixType_2D = 0;
+	FixType_3D = 1;
+}
+
+message MRTelemetry
+{
+	optional float batteryVoltage = 1;	// Volts
+	optional AutopilotMode autopilotMode  = 2;
+	optional uint32 batteryChargePercent = 3;
+}
+
+message Telemetry
+{
+	required uint32 boardId = 1;
+	optional uint32 unix_time = 2;			// Seconds
+	optional Navigation gpsNavigation = 3;
+	optional Orientation orientation = 4;
+	optional float gps_course = 5;			// Degrees 0..360 Clockwise
+	optional float gps_speed = 6;			// Meters/sec
+
+	// Board type dependend telemetries
+	optional AirTelemetry AirTelemetry = 7;
+	optional MRTelemetry mrTelemetry = 8;
+
+	optional FixType fixType = 9;
+	optional uint32 satellitesCount = 10;
+
+    optional float mag_course = 11;
+	optional uint32 servo_angle = 12;
+}
+
+message TelemetryList
+{
+	repeated Telemetry list = 1;
+}
+
+message SubscriberList
+{
+	repeated uint32 boardId = 1;
+	optional bool isSubscribeToAll = 2 [default = false];
+}
+
+message Ctrl
+{
+	required TelemetryCtrlMsgType msgType = 1;
+	optional Error error = 2 [default = Error_NoError];
+
+	oneof CommandData {
+		TelemetryList telemetryList = 3;
+		SubscriberList subscriberList = 4;
+	}
+}

@@ -1,0 +1,775 @@
+G:\SuhProjects\C#\UDP\UDP_FPGA\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+G:\SuhProjects\C#\UDP\UDP_FPGA\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+G:\SuhProjects\C#\UDP\UDP_FPGA\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+G:\SuhProjects\C#\UDP\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+G:\SuhProjects\C#\UDP\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+G:\SuhProjects\C#\UDP\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+G:\SuhProjects\C#\UDP\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+G:\SuhProjects\C#\UDP\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+G:\SuhProjects\C#\UDP\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+G:\Quartus\DAA\Soft\UDP_FPGA\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+G:\Quartus\DAA\Soft\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+G:\Quartus\DAA\Soft\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+G:\Quartus\DAA\Soft\UDP_FPGA\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+G:\Quartus\DAA\Soft\UDP_FPGA\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+G:\Quartus\DAA\Soft\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+G:\Quartus\DAA\Soft\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+G:\Quartus\DAA\Soft\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+G:\Quartus\DAA\Soft\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+g:\Quartus\DAA\Soft\small\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+g:\Quartus\DAA\Soft\small\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+g:\Quartus\DAA\Soft\small\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+g:\Quartus\DAA\Soft\small\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+g:\Quartus\DAA\Soft\small\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+g:\Quartus\DAA\Soft\small\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+g:\Quartus\DAA\Soft\small\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+g:\Quartus\DAA\Soft\small\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+g:\Quartus\DAA\Soft\small\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+g:\Quartus\Izluchatel\Soft\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+g:\Quartus\Izluchatel\Soft\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+g:\Quartus\Izluchatel\Soft\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+g:\Quartus\Izluchatel\Soft\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+g:\Quartus\Izluchatel\Soft\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+g:\Quartus\Izluchatel\Soft\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+g:\Quartus\Izluchatel\Soft\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+g:\Quartus\Izluchatel\Soft\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+g:\Quartus\Izluchatel\Soft\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+C:\Users\Afanasiev_MA\Desktop\Излучатель\Soft\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+C:\Users\Afanasiev_MA\Desktop\Излучатель\Soft\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+C:\Users\Afanasiev_MA\Desktop\Излучатель\Soft\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+C:\Users\Afanasiev_MA\Desktop\Излучатель\Soft\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+C:\Users\Afanasiev_MA\Desktop\Излучатель\Soft\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+C:\Users\Afanasiev_MA\Desktop\Излучатель\Soft\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+C:\Users\Afanasiev_MA\Desktop\Излучатель\Soft\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+C:\Users\Afanasiev_MA\Desktop\Излучатель\Soft\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+C:\Users\Afanasiev_MA\Desktop\Излучатель\Soft\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+e:\Quartus\Izluchatel\Soft\v2\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+e:\Quartus\Izluchatel\Soft\v2\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+e:\Quartus\Izluchatel\Soft\v2\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+e:\Quartus\Izluchatel\Soft\v2\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+e:\Quartus\Izluchatel\Soft\v2\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+e:\Quartus\Izluchatel\Soft\v2\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+e:\Quartus\Izluchatel\Soft\v2\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+e:\Quartus\Izluchatel\Soft\v2\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+e:\Quartus\Izluchatel\Soft\v2\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+C:\Users\Afanasiev_MA\Desktop\2017.12.22 Излучатель Soft\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+C:\Users\Afanasiev_MA\Desktop\2017.12.22 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+C:\Users\Afanasiev_MA\Desktop\2017.12.22 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+C:\Users\Afanasiev_MA\Desktop\2017.12.22 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+C:\Users\Afanasiev_MA\Desktop\2017.12.22 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+C:\Users\Afanasiev_MA\Desktop\2017.12.22 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+C:\Users\Afanasiev_MA\Desktop\2017.12.22 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+C:\Users\Afanasiev_MA\Desktop\2017.12.22 Излучатель Soft\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+C:\Users\Afanasiev_MA\Desktop\2017.12.22 Излучатель Soft\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+C:\Users\Afanasiev_MA\Desktop\2017.12.25 Излучатель Soft\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+C:\Users\Afanasiev_MA\Desktop\2017.12.25 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+C:\Users\Afanasiev_MA\Desktop\2017.12.25 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+C:\Users\Afanasiev_MA\Desktop\2017.12.25 Излучатель Soft\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+C:\Users\Afanasiev_MA\Desktop\2017.12.25 Излучатель Soft\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+C:\Users\Afanasiev_MA\Desktop\2017.12.25 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+C:\Users\Afanasiev_MA\Desktop\2017.12.25 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+C:\Users\Afanasiev_MA\Desktop\2017.12.25 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+C:\Users\Afanasiev_MA\Desktop\2017.12.25 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+C:\Users\Afanasiev_MA\Desktop\2017.12.25 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.Compass.resources
+C:\Users\Afanasiev_MA\Desktop\2017.12.25 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.GPS.resources
+C:\Users\Afanasiev_MA\Desktop\2017.12.26 Излучатель Soft\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+C:\Users\Afanasiev_MA\Desktop\2017.12.26 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+C:\Users\Afanasiev_MA\Desktop\2017.12.26 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+D:\ИЗЛУЧАТЕЛЬ\Soft\2017.12.26 Излучатель Soft\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+D:\ИЗЛУЧАТЕЛЬ\Soft\2017.12.26 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+D:\ИЗЛУЧАТЕЛЬ\Soft\2017.12.26 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+D:\ИЗЛУЧАТЕЛЬ\Soft\2017.12.26 Излучатель Soft\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+D:\ИЗЛУЧАТЕЛЬ\Soft\2017.12.26 Излучатель Soft\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+D:\ИЗЛУЧАТЕЛЬ\Soft\2017.12.26 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+D:\ИЗЛУЧАТЕЛЬ\Soft\2017.12.26 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.Compass.resources
+D:\ИЗЛУЧАТЕЛЬ\Soft\2017.12.26 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.GPS.resources
+D:\ИЗЛУЧАТЕЛЬ\Soft\2017.12.26 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+D:\ИЗЛУЧАТЕЛЬ\Soft\2017.12.26 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+D:\ИЗЛУЧАТЕЛЬ\Soft\2017.12.26 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+E:\2018_NIL-44\Izluchatel\Soft\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+E:\2018_NIL-44\Izluchatel\Soft\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+E:\2018_NIL-44\Izluchatel\Soft\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+E:\2018_NIL-44\Izluchatel\Soft\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+E:\2018_NIL-44\Izluchatel\Soft\UDP_FPGA\obj\Debug\UDP_FPGA.Compass.resources
+E:\2018_NIL-44\Izluchatel\Soft\UDP_FPGA\obj\Debug\UDP_FPGA.GPS.resources
+E:\2018_NIL-44\Izluchatel\Soft\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+E:\2018_NIL-44\Izluchatel\Soft\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+E:\2018_NIL-44\Izluchatel\Soft\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+E:\2018_NIL-44\Izluchatel\Soft\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+E:\2018_NIL-44\Izluchatel\Soft\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+Z:\nil-44\Izluchatel\Soft\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+Z:\nil-44\Izluchatel\Soft\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+Z:\nil-44\Izluchatel\Soft\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+Z:\nil-44\Izluchatel\Soft\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+Z:\nil-44\Izluchatel\Soft\UDP_FPGA\obj\Debug\UDP_FPGA.Compass.resources
+Z:\nil-44\Izluchatel\Soft\UDP_FPGA\obj\Debug\UDP_FPGA.GPS.resources
+Z:\nil-44\Izluchatel\Soft\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+Z:\nil-44\Izluchatel\Soft\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+Z:\nil-44\Izluchatel\Soft\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+Z:\nil-44\Izluchatel\Soft\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+Z:\nil-44\Izluchatel\Soft\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+E:\2018_NIL-44\Izluchatel\Soft\UDP_FPGA\obj\Debug\UDP_FPGA.Rotator.resources
+Z:\nil-44\Izluchatel\Soft\UDP_FPGA\obj\Debug\UDP_FPGA.Rotator.resources
+F:\2018.01.11 Излучатель Soft\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+F:\2018.01.11 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+F:\2018.01.11 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+C:\Users\Admin-NIO4-1\Desktop\2018.01.11 Излучатель Soft\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+C:\Users\Admin-NIO4-1\Desktop\2018.01.11 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+C:\Users\Admin-NIO4-1\Desktop\2018.01.11 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+C:\Users\Admin-NIO4-1\Desktop\2018.01.11 Излучатель Soft\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+C:\Users\Admin-NIO4-1\Desktop\2018.01.11 Излучатель Soft\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+C:\Users\Admin-NIO4-1\Desktop\2018.01.11 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+C:\Users\Admin-NIO4-1\Desktop\2018.01.11 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.Compass.resources
+C:\Users\Admin-NIO4-1\Desktop\2018.01.11 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.GPS.resources
+C:\Users\Admin-NIO4-1\Desktop\2018.01.11 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+C:\Users\Admin-NIO4-1\Desktop\2018.01.11 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+C:\Users\Admin-NIO4-1\Desktop\2018.01.11 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.Rotator.resources
+C:\Users\Admin-NIO4-1\Desktop\2018.01.11 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+D:\NIL-44\2018.01.11 Излучатель Soft\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+D:\NIL-44\2018.01.11 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+D:\NIL-44\2018.01.11 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+D:\NIL-44\2018.01.11 Излучатель Soft\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+D:\NIL-44\2018.01.11 Излучатель Soft\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+D:\NIL-44\2018.01.11 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+D:\NIL-44\2018.01.11 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.Compass.resources
+D:\NIL-44\2018.01.11 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.GPS.resources
+D:\NIL-44\2018.01.11 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+D:\NIL-44\2018.01.11 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+D:\NIL-44\2018.01.11 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.Rotator.resources
+D:\NIL-44\2018.01.11 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+C:\Users\Afanasiev_MA\Desktop\2018.01.11 Излучатель Soft\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+C:\Users\Afanasiev_MA\Desktop\2018.01.11 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+C:\Users\Afanasiev_MA\Desktop\2018.01.11 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+C:\Users\Afanasiev_MA\Desktop\2018.01.11 Излучатель Soft\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+C:\Users\Afanasiev_MA\Desktop\2018.01.11 Излучатель Soft\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+C:\Users\Afanasiev_MA\Desktop\2018.01.11 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+C:\Users\Afanasiev_MA\Desktop\2018.01.11 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.Compass.resources
+C:\Users\Afanasiev_MA\Desktop\2018.01.11 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.GPS.resources
+C:\Users\Afanasiev_MA\Desktop\2018.01.11 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+C:\Users\Afanasiev_MA\Desktop\2018.01.11 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+C:\Users\Afanasiev_MA\Desktop\2018.01.11 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.Rotator.resources
+C:\Users\Afanasiev_MA\Desktop\2018.01.11 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+C:\Users\Afanasiev_MA\Desktop\2018.01.12 Излучатель Soft\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+C:\Users\Afanasiev_MA\Desktop\2018.01.12 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+C:\Users\Afanasiev_MA\Desktop\2018.01.12 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+C:\Users\Afanasiev_MA\Desktop\2018.01.12 Излучатель Soft\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+C:\Users\Afanasiev_MA\Desktop\2018.01.12 Излучатель Soft\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+C:\Users\Afanasiev_MA\Desktop\2018.01.12 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+C:\Users\Afanasiev_MA\Desktop\2018.01.12 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.Compass.resources
+C:\Users\Afanasiev_MA\Desktop\2018.01.12 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.GPS.resources
+C:\Users\Afanasiev_MA\Desktop\2018.01.12 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+C:\Users\Afanasiev_MA\Desktop\2018.01.12 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+C:\Users\Afanasiev_MA\Desktop\2018.01.12 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.Rotator.resources
+C:\Users\Afanasiev_MA\Desktop\2018.01.12 Излучатель Soft\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+C:\Users\Afanasiev_MA\Desktop\2018.01.12 Излучатель Soft fall\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+C:\Users\Afanasiev_MA\Desktop\2018.01.12 Излучатель Soft fall\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+C:\Users\Afanasiev_MA\Desktop\2018.01.12 Излучатель Soft fall\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+Z:\nil-44\Izluchatel\Soft\2018.01.12 Излучатель Soft float\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+Z:\nil-44\Izluchatel\Soft\2018.01.12 Излучатель Soft float\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+Z:\nil-44\Izluchatel\Soft\2018.01.12 Излучатель Soft float\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+Z:\nil-44\Izluchatel\Soft\2018.01.12 Излучатель Soft float\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+Z:\nil-44\Izluchatel\Soft\2018.01.12 Излучатель Soft float\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+Z:\nil-44\Izluchatel\Soft\2018.01.12 Излучатель Soft float\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+Z:\nil-44\Izluchatel\Soft\2018.01.12 Излучатель Soft float\UDP_FPGA\obj\Debug\UDP_FPGA.Compass.resources
+Z:\nil-44\Izluchatel\Soft\2018.01.12 Излучатель Soft float\UDP_FPGA\obj\Debug\UDP_FPGA.GPS.resources
+Z:\nil-44\Izluchatel\Soft\2018.01.12 Излучатель Soft float\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+Z:\nil-44\Izluchatel\Soft\2018.01.12 Излучатель Soft float\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+Z:\nil-44\Izluchatel\Soft\2018.01.12 Излучатель Soft float\UDP_FPGA\obj\Debug\UDP_FPGA.Rotator.resources
+Z:\nil-44\Izluchatel\Soft\2018.01.12 Излучатель Soft float\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+Z:\nil-44\Izluchatel\Soft\2018.01.15 Излучатель Soft float\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+Z:\nil-44\Izluchatel\Soft\2018.01.15 Излучатель Soft float\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+Z:\nil-44\Izluchatel\Soft\2018.01.15 Излучатель Soft float\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+Z:\nil-44\Izluchatel\Soft\2018.01.15 Излучатель Soft float\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+Z:\nil-44\Izluchatel\Soft\2018.01.15 Излучатель Soft float\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+Z:\nil-44\Izluchatel\Soft\2018.01.15 Излучатель Soft float\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+Z:\nil-44\Izluchatel\Soft\2018.01.15 Излучатель Soft float\UDP_FPGA\obj\Debug\UDP_FPGA.Compass.resources
+Z:\nil-44\Izluchatel\Soft\2018.01.15 Излучатель Soft float\UDP_FPGA\obj\Debug\UDP_FPGA.GPS.resources
+Z:\nil-44\Izluchatel\Soft\2018.01.15 Излучатель Soft float\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+Z:\nil-44\Izluchatel\Soft\2018.01.15 Излучатель Soft float\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+Z:\nil-44\Izluchatel\Soft\2018.01.15 Излучатель Soft float\UDP_FPGA\obj\Debug\UDP_FPGA.Rotator.resources
+Z:\nil-44\Izluchatel\Soft\2018.01.15 Излучатель Soft float\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+F:\! IZLUCHATEL SOFT\2018.01.16 Излучатель Soft swr5000\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+F:\! IZLUCHATEL SOFT\2018.01.16 Излучатель Soft swr5000\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+F:\! IZLUCHATEL SOFT\2018.01.16 Излучатель Soft swr5000\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+F:\! IZLUCHATEL SOFT\2018.01.16 Излучатель Soft swr5000\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+F:\! IZLUCHATEL SOFT\2018.01.16 Излучатель Soft swr5000\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+F:\! IZLUCHATEL SOFT\2018.01.16 Излучатель Soft swr5000\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+F:\! IZLUCHATEL SOFT\2018.01.16 Излучатель Soft swr5000\UDP_FPGA\obj\Debug\UDP_FPGA.Compass.resources
+F:\! IZLUCHATEL SOFT\2018.01.16 Излучатель Soft swr5000\UDP_FPGA\obj\Debug\UDP_FPGA.GPS.resources
+F:\! IZLUCHATEL SOFT\2018.01.16 Излучатель Soft swr5000\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+F:\! IZLUCHATEL SOFT\2018.01.16 Излучатель Soft swr5000\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+F:\! IZLUCHATEL SOFT\2018.01.16 Излучатель Soft swr5000\UDP_FPGA\obj\Debug\UDP_FPGA.Rotator.resources
+F:\! IZLUCHATEL SOFT\2018.01.16 Излучатель Soft swr5000\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+D:\ИЗЛУЧАТЕЛЬ\! IZLUCHATEL SOFT\2018.01.16 Излучатель Soft swr5000\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+D:\ИЗЛУЧАТЕЛЬ\! IZLUCHATEL SOFT\2018.01.16 Излучатель Soft swr5000\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+D:\ИЗЛУЧАТЕЛЬ\! IZLUCHATEL SOFT\2018.01.16 Излучатель Soft swr5000\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+D:\ИЗЛУЧАТЕЛЬ\! IZLUCHATEL SOFT\2018.01.16 Излучатель Soft swr5000\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+D:\ИЗЛУЧАТЕЛЬ\! IZLUCHATEL SOFT\2018.01.16 Излучатель Soft swr5000\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+D:\ИЗЛУЧАТЕЛЬ\! IZLUCHATEL SOFT\2018.01.16 Излучатель Soft swr5000\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+D:\ИЗЛУЧАТЕЛЬ\! IZLUCHATEL SOFT\2018.01.16 Излучатель Soft swr5000\UDP_FPGA\obj\Debug\UDP_FPGA.Compass.resources
+D:\ИЗЛУЧАТЕЛЬ\! IZLUCHATEL SOFT\2018.01.16 Излучатель Soft swr5000\UDP_FPGA\obj\Debug\UDP_FPGA.CheckParams.resources
+D:\ИЗЛУЧАТЕЛЬ\! IZLUCHATEL SOFT\2018.01.16 Излучатель Soft swr5000\UDP_FPGA\obj\Debug\UDP_FPGA.GPS.resources
+D:\ИЗЛУЧАТЕЛЬ\! IZLUCHATEL SOFT\2018.01.16 Излучатель Soft swr5000\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+D:\ИЗЛУЧАТЕЛЬ\! IZLUCHATEL SOFT\2018.01.16 Излучатель Soft swr5000\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+D:\ИЗЛУЧАТЕЛЬ\! IZLUCHATEL SOFT\2018.01.16 Излучатель Soft swr5000\UDP_FPGA\obj\Debug\UDP_FPGA.Rotator.resources
+D:\ИЗЛУЧАТЕЛЬ\! IZLUCHATEL SOFT\2018.01.16 Излучатель Soft swr5000\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+Z:\nil-44\Izluchatel\Soft\2018.02.01 Излучатель Soft controllerData\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+Z:\nil-44\Izluchatel\Soft\2018.02.01 Излучатель Soft controllerData\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+Z:\nil-44\Izluchatel\Soft\2018.02.01 Излучатель Soft controllerData\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+Z:\nil-44\Izluchatel\Soft\2018.02.01 Излучатель Soft controllerData\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+Z:\nil-44\Izluchatel\Soft\2018.02.01 Излучатель Soft controllerData\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+Z:\nil-44\Izluchatel\Soft\2018.02.01 Излучатель Soft controllerData\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+Z:\nil-44\Izluchatel\Soft\2018.02.01 Излучатель Soft controllerData\UDP_FPGA\obj\Debug\UDP_FPGA.Compass.resources
+Z:\nil-44\Izluchatel\Soft\2018.02.01 Излучатель Soft controllerData\UDP_FPGA\obj\Debug\UDP_FPGA.CheckParams.resources
+Z:\nil-44\Izluchatel\Soft\2018.02.01 Излучатель Soft controllerData\UDP_FPGA\obj\Debug\UDP_FPGA.GPS.resources
+Z:\nil-44\Izluchatel\Soft\2018.02.01 Излучатель Soft controllerData\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+Z:\nil-44\Izluchatel\Soft\2018.02.01 Излучатель Soft controllerData\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+Z:\nil-44\Izluchatel\Soft\2018.02.01 Излучатель Soft controllerData\UDP_FPGA\obj\Debug\UDP_FPGA.Rotator.resources
+Z:\nil-44\Izluchatel\Soft\2018.02.01 Излучатель Soft controllerData\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+e:\2018_NIL-44\Izluchatel\2018.02.01 Излучатель Soft controllerData\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+e:\2018_NIL-44\Izluchatel\2018.02.01 Излучатель Soft controllerData\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+e:\2018_NIL-44\Izluchatel\2018.02.01 Излучатель Soft controllerData\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+e:\2018_NIL-44\Izluchatel\2018.02.01 Излучатель Soft controllerData\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+e:\2018_NIL-44\Izluchatel\2018.02.01 Излучатель Soft controllerData\UDP_FPGA\obj\Debug\UDP_FPGA.Compass.resources
+e:\2018_NIL-44\Izluchatel\2018.02.01 Излучатель Soft controllerData\UDP_FPGA\obj\Debug\UDP_FPGA.CheckParams.resources
+e:\2018_NIL-44\Izluchatel\2018.02.01 Излучатель Soft controllerData\UDP_FPGA\obj\Debug\UDP_FPGA.GPS.resources
+e:\2018_NIL-44\Izluchatel\2018.02.01 Излучатель Soft controllerData\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+e:\2018_NIL-44\Izluchatel\2018.02.01 Излучатель Soft controllerData\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+e:\2018_NIL-44\Izluchatel\2018.02.01 Излучатель Soft controllerData\UDP_FPGA\obj\Debug\UDP_FPGA.Rotator.resources
+e:\2018_NIL-44\Izluchatel\2018.02.01 Излучатель Soft controllerData\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+e:\2018_NIL-44\Izluchatel\2018.02.01 Излучатель Soft controllerData\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+e:\2018_NIL-44\Izluchatel\2018.02.01 Излучатель Soft controllerData\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+Z:\nil-44\Izluchatel\Soft\2018.02.02 IzluchatelVoltagePkl\UDP_FPGA\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+Z:\nil-44\Izluchatel\Soft\2018.02.02 IzluchatelVoltagePkl\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+Z:\nil-44\Izluchatel\Soft\2018.02.02 IzluchatelVoltagePkl\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+Z:\nil-44\Izluchatel\Soft\2018.02.02 IzluchatelVoltagePkl\UDP_FPGA\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+Z:\nil-44\Izluchatel\Soft\2018.02.02 IzluchatelVoltagePkl\UDP_FPGA\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+Z:\nil-44\Izluchatel\Soft\2018.02.02 IzluchatelVoltagePkl\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+Z:\nil-44\Izluchatel\Soft\2018.02.02 IzluchatelVoltagePkl\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.Compass.resources
+Z:\nil-44\Izluchatel\Soft\2018.02.02 IzluchatelVoltagePkl\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.CheckParams.resources
+Z:\nil-44\Izluchatel\Soft\2018.02.02 IzluchatelVoltagePkl\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.GPS.resources
+Z:\nil-44\Izluchatel\Soft\2018.02.02 IzluchatelVoltagePkl\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+Z:\nil-44\Izluchatel\Soft\2018.02.02 IzluchatelVoltagePkl\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+Z:\nil-44\Izluchatel\Soft\2018.02.02 IzluchatelVoltagePkl\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.Rotator.resources
+Z:\nil-44\Izluchatel\Soft\2018.02.02 IzluchatelVoltagePkl\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+Z:\nil-44\Izluchatel\Soft\2018.02.02 IzluchatelVoltagePkl\UDP_FPGA\UDP_FPGA\bin\Debug\Newtonsoft.Json.dll
+Z:\nil-44\Izluchatel\Soft\2018.02.02 IzluchatelVoltagePkl\UDP_FPGA\UDP_FPGA\bin\Debug\PacketDotNet.dll
+Z:\nil-44\Izluchatel\Soft\2018.02.02 IzluchatelVoltagePkl\UDP_FPGA\UDP_FPGA\bin\Debug\SharpPcap.dll
+Z:\nil-44\Izluchatel\Soft\2018.02.02 IzluchatelVoltagePkl\UDP_FPGA\UDP_FPGA\bin\Debug\PacketDotNet.xml
+Z:\nil-44\Izluchatel\Soft\2018.02.02 IzluchatelVoltagePkl\UDP_FPGA\UDP_FPGA\bin\Debug\SharpPcap.pdb
+Z:\nil-44\Izluchatel\Soft\2018.02.02 IzluchatelVoltagePkl\UDP_FPGA\UDP_FPGA\bin\Debug\SharpPcap.xml
+E:\Программирование\UDP_FPGA\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+E:\Программирование\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+E:\Программирование\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+E:\Программирование\UDP_FPGA\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+E:\Программирование\UDP_FPGA\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+E:\Программирование\UDP_FPGA\UDP_FPGA\bin\Debug\Newtonsoft.Json.dll
+E:\Программирование\UDP_FPGA\UDP_FPGA\bin\Debug\PacketDotNet.dll
+E:\Программирование\UDP_FPGA\UDP_FPGA\bin\Debug\SharpPcap.dll
+E:\Программирование\UDP_FPGA\UDP_FPGA\bin\Debug\PacketDotNet.xml
+E:\Программирование\UDP_FPGA\UDP_FPGA\bin\Debug\SharpPcap.pdb
+E:\Программирование\UDP_FPGA\UDP_FPGA\bin\Debug\SharpPcap.xml
+E:\Программирование\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+E:\Программирование\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.Compass.resources
+E:\Программирование\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.CheckParams.resources
+E:\Программирование\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.GPS.resources
+E:\Программирование\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+E:\Программирование\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+E:\Программирование\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.Rotator.resources
+E:\Программирование\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+F:\UDP_FPGA\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+F:\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+F:\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+F:\UDP_FPGA\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+F:\UDP_FPGA\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+F:\UDP_FPGA\UDP_FPGA\bin\Debug\Newtonsoft.Json.dll
+F:\UDP_FPGA\UDP_FPGA\bin\Debug\PacketDotNet.dll
+F:\UDP_FPGA\UDP_FPGA\bin\Debug\SharpPcap.dll
+F:\UDP_FPGA\UDP_FPGA\bin\Debug\PacketDotNet.xml
+F:\UDP_FPGA\UDP_FPGA\bin\Debug\SharpPcap.pdb
+F:\UDP_FPGA\UDP_FPGA\bin\Debug\SharpPcap.xml
+F:\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+F:\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.Compass.resources
+F:\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.CheckParams.resources
+F:\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.GPS.resources
+F:\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+F:\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+F:\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.Rotator.resources
+F:\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+L:\UDP_FPGA\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+L:\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+L:\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+L:\UDP_FPGA\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+L:\UDP_FPGA\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+L:\UDP_FPGA\UDP_FPGA\bin\Debug\Newtonsoft.Json.dll
+L:\UDP_FPGA\UDP_FPGA\bin\Debug\PacketDotNet.dll
+L:\UDP_FPGA\UDP_FPGA\bin\Debug\SharpPcap.dll
+L:\UDP_FPGA\UDP_FPGA\bin\Debug\PacketDotNet.xml
+L:\UDP_FPGA\UDP_FPGA\bin\Debug\SharpPcap.pdb
+L:\UDP_FPGA\UDP_FPGA\bin\Debug\SharpPcap.xml
+L:\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+L:\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.Compass.resources
+L:\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.CheckParams.resources
+L:\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.GPS.resources
+L:\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+L:\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+L:\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.Rotator.resources
+L:\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+g:\UDP_FPGA\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+g:\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+g:\UDP_FPGA\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+F:\07.02.2018 izluchatel autoOPU\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+F:\07.02.2018 izluchatel autoOPU\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+F:\07.02.2018 izluchatel autoOPU\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+F:\07.02.2018 izluchatel autoOPU\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+F:\07.02.2018 izluchatel autoOPU\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+F:\07.02.2018 izluchatel autoOPU\UDP_FPGA\bin\Debug\Newtonsoft.Json.dll
+F:\07.02.2018 izluchatel autoOPU\UDP_FPGA\bin\Debug\PacketDotNet.dll
+F:\07.02.2018 izluchatel autoOPU\UDP_FPGA\bin\Debug\SharpPcap.dll
+F:\07.02.2018 izluchatel autoOPU\UDP_FPGA\bin\Debug\PacketDotNet.xml
+F:\07.02.2018 izluchatel autoOPU\UDP_FPGA\bin\Debug\SharpPcap.pdb
+F:\07.02.2018 izluchatel autoOPU\UDP_FPGA\bin\Debug\SharpPcap.xml
+F:\07.02.2018 izluchatel autoOPU\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+F:\07.02.2018 izluchatel autoOPU\UDP_FPGA\obj\Debug\UDP_FPGA.Compass.resources
+F:\07.02.2018 izluchatel autoOPU\UDP_FPGA\obj\Debug\UDP_FPGA.CheckParams.resources
+F:\07.02.2018 izluchatel autoOPU\UDP_FPGA\obj\Debug\UDP_FPGA.GPS.resources
+F:\07.02.2018 izluchatel autoOPU\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+F:\07.02.2018 izluchatel autoOPU\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+F:\07.02.2018 izluchatel autoOPU\UDP_FPGA\obj\Debug\UDP_FPGA.Rotator.resources
+F:\07.02.2018 izluchatel autoOPU\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+g:\07.02.2018 izluchatel autoOPU\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+g:\07.02.2018 izluchatel autoOPU\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+g:\07.02.2018 izluchatel autoOPU\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+g:\07.02.2018 izluchatel autoOPU\UDP_FPGA\bin\Debug\Newtonsoft.Json.dll
+g:\07.02.2018 izluchatel autoOPU\UDP_FPGA\bin\Debug\PacketDotNet.dll
+g:\07.02.2018 izluchatel autoOPU\UDP_FPGA\bin\Debug\SharpPcap.dll
+g:\07.02.2018 izluchatel autoOPU\UDP_FPGA\bin\Debug\PacketDotNet.xml
+g:\07.02.2018 izluchatel autoOPU\UDP_FPGA\bin\Debug\SharpPcap.pdb
+g:\07.02.2018 izluchatel autoOPU\UDP_FPGA\bin\Debug\SharpPcap.xml
+g:\07.02.2018 izluchatel autoOPU\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+g:\07.02.2018 izluchatel autoOPU\UDP_FPGA\obj\Debug\UDP_FPGA.Compass.resources
+g:\07.02.2018 izluchatel autoOPU\UDP_FPGA\obj\Debug\UDP_FPGA.CheckParams.resources
+g:\07.02.2018 izluchatel autoOPU\UDP_FPGA\obj\Debug\UDP_FPGA.GPS.resources
+g:\07.02.2018 izluchatel autoOPU\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+g:\07.02.2018 izluchatel autoOPU\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+g:\07.02.2018 izluchatel autoOPU\UDP_FPGA\obj\Debug\UDP_FPGA.Rotator.resources
+g:\07.02.2018 izluchatel autoOPU\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+g:\07.02.2018 izluchatel autoOPU\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+g:\07.02.2018 izluchatel autoOPU\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+F:\07.02.2018 izluchatel autoOPU_chinaAmps\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+F:\07.02.2018 izluchatel autoOPU_chinaAmps\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+F:\07.02.2018 izluchatel autoOPU_chinaAmps\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+F:\07.02.2018 izluchatel autoOPU_chinaAmps\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+F:\07.02.2018 izluchatel autoOPU_chinaAmps\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+F:\07.02.2018 izluchatel autoOPU_chinaAmps\UDP_FPGA\bin\Debug\Newtonsoft.Json.dll
+F:\07.02.2018 izluchatel autoOPU_chinaAmps\UDP_FPGA\bin\Debug\PacketDotNet.dll
+F:\07.02.2018 izluchatel autoOPU_chinaAmps\UDP_FPGA\bin\Debug\SharpPcap.dll
+F:\07.02.2018 izluchatel autoOPU_chinaAmps\UDP_FPGA\bin\Debug\PacketDotNet.xml
+F:\07.02.2018 izluchatel autoOPU_chinaAmps\UDP_FPGA\bin\Debug\SharpPcap.pdb
+F:\07.02.2018 izluchatel autoOPU_chinaAmps\UDP_FPGA\bin\Debug\SharpPcap.xml
+F:\07.02.2018 izluchatel autoOPU_chinaAmps\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+F:\07.02.2018 izluchatel autoOPU_chinaAmps\UDP_FPGA\obj\Debug\UDP_FPGA.Compass.resources
+F:\07.02.2018 izluchatel autoOPU_chinaAmps\UDP_FPGA\obj\Debug\UDP_FPGA.CheckParams.resources
+F:\07.02.2018 izluchatel autoOPU_chinaAmps\UDP_FPGA\obj\Debug\UDP_FPGA.GPS.resources
+F:\07.02.2018 izluchatel autoOPU_chinaAmps\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+F:\07.02.2018 izluchatel autoOPU_chinaAmps\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+F:\07.02.2018 izluchatel autoOPU_chinaAmps\UDP_FPGA\obj\Debug\UDP_FPGA.Rotator.resources
+F:\07.02.2018 izluchatel autoOPU_chinaAmps\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+C:\Users\Afanasiev_MA\Desktop\07.02.2018 izluchatel autoOPU_chinaAmps\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+C:\Users\Afanasiev_MA\Desktop\07.02.2018 izluchatel autoOPU_chinaAmps\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+C:\Users\Afanasiev_MA\Desktop\07.02.2018 izluchatel autoOPU_chinaAmps\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+C:\Users\Afanasiev_MA\Desktop\07.02.2018 izluchatel autoOPU_chinaAmps\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+C:\Users\Afanasiev_MA\Desktop\07.02.2018 izluchatel autoOPU_chinaAmps\UDP_FPGA\obj\Debug\UDP_FPGA.Compass.resources
+C:\Users\Afanasiev_MA\Desktop\07.02.2018 izluchatel autoOPU_chinaAmps\UDP_FPGA\obj\Debug\UDP_FPGA.CheckParams.resources
+C:\Users\Afanasiev_MA\Desktop\07.02.2018 izluchatel autoOPU_chinaAmps\UDP_FPGA\obj\Debug\UDP_FPGA.GPS.resources
+C:\Users\Afanasiev_MA\Desktop\07.02.2018 izluchatel autoOPU_chinaAmps\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+C:\Users\Afanasiev_MA\Desktop\07.02.2018 izluchatel autoOPU_chinaAmps\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+C:\Users\Afanasiev_MA\Desktop\07.02.2018 izluchatel autoOPU_chinaAmps\UDP_FPGA\obj\Debug\UDP_FPGA.Rotator.resources
+C:\Users\Afanasiev_MA\Desktop\07.02.2018 izluchatel autoOPU_chinaAmps\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+C:\Users\Afanasiev_MA\Desktop\07.02.2018 izluchatel autoOPU_chinaAmps\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+C:\Users\Afanasiev_MA\Desktop\07.02.2018 izluchatel autoOPU_chinaAmps\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+C:\Users\Afanasiev_MA\Desktop\07.02.2018 izluchatel autoOPU_chinaAmps\UDP_FPGA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Afanasiev_MA\Desktop\07.02.2018 izluchatel autoOPU_chinaAmps\UDP_FPGA\bin\Debug\PacketDotNet.dll
+C:\Users\Afanasiev_MA\Desktop\07.02.2018 izluchatel autoOPU_chinaAmps\UDP_FPGA\bin\Debug\SharpPcap.dll
+C:\Users\Afanasiev_MA\Desktop\07.02.2018 izluchatel autoOPU_chinaAmps\UDP_FPGA\bin\Debug\PacketDotNet.xml
+C:\Users\Afanasiev_MA\Desktop\07.02.2018
+G:\2018.07.06 izluchatel _shit_2\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+G:\2018.07.06 izluchatel _shit_2\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+G:\2018.07.06 izluchatel _shit_2\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+G:\2018.07.06 izluchatel _shit_2\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+G:\2018.07.06 izluchatel _shit_2\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+G:\2018.07.06 izluchatel _shit_2\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+G:\2018.07.06 izluchatel _shit_2\UDP_FPGA\obj\Debug\UDP_FPGA.GPS.resources
+G:\2018.07.06 izluchatel _shit_2\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+G:\2018.07.06 izluchatel _shit_2\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+G:\2018.07.06 izluchatel _shit_2\UDP_FPGA\obj\Debug\UDP_FPGA.Rotator.resources
+G:\2018.07.06 izluchatel _shit_2\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+F:\2018.07.06 izluchatel _shit_2\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+F:\2018.07.06 izluchatel _shit_2\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+F:\2018.07.06 izluchatel _shit_2\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+F:\2018.07.06 izluchatel _shit_2\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+F:\2018.07.06 izluchatel _shit_2\UDP_FPGA\obj\Debug\UDP_FPGA.Compass.resources
+F:\2018.07.06 izluchatel _shit_2\UDP_FPGA\obj\Debug\UDP_FPGA.GPS.resources
+F:\2018.07.06 izluchatel _shit_2\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+F:\2018.07.06 izluchatel _shit_2\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+F:\2018.07.06 izluchatel _shit_2\UDP_FPGA\obj\Debug\UDP_FPGA.Rotator.resources
+F:\2018.07.06 izluchatel _shit_2\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.cache
+F:\2018.07.06 izluchatel _shit_2\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.CoreCompileInputs.cache
+F:\2018.07.06 izluchatel _shit_2\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+F:\2018.07.06 izluchatel _shit_2\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+G:\2018.07.06 izluchatel _shit_2\UDP_FPGA\obj\Debug\UDP_FPGA.Offsets.resources
+G:\2018.07.09 izluchatel_finalArabianShit\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+G:\2018.07.09 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+G:\2018.07.09 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+G:\2018.07.09 izluchatel_finalArabianShit\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+G:\2018.07.09 izluchatel_finalArabianShit\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+G:\2018.07.09 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+G:\2018.07.09 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.GPS.resources
+G:\2018.07.09 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+G:\2018.07.09 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.Offsets.resources
+G:\2018.07.09 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+G:\2018.07.09 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.Rotator.resources
+G:\2018.07.09 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+F:\! IZLUCHATEL SOFT\2018.07.18 izluchatel_finalArabianShit\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+F:\! IZLUCHATEL SOFT\2018.07.18 izluchatel_finalArabianShit\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+F:\! IZLUCHATEL SOFT\2018.07.18 izluchatel_finalArabianShit\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+F:\! IZLUCHATEL SOFT\2018.07.18 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+F:\! IZLUCHATEL SOFT\2018.07.18 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+F:\! IZLUCHATEL SOFT\2018.07.18 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.Offsets.resources
+F:\! IZLUCHATEL SOFT\2018.07.18 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+F:\! IZLUCHATEL SOFT\2018.07.18 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.Rotator.resources
+F:\! IZLUCHATEL SOFT\2018.07.18 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.cache
+F:\! IZLUCHATEL SOFT\2018.07.18 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.CoreCompileInputs.cache
+F:\! IZLUCHATEL SOFT\2018.07.18 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+F:\! IZLUCHATEL SOFT\2018.07.18 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+H:\! IZLUCHATEL SOFT\2018.07.18 izluchatel_finalArabianShit\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+H:\! IZLUCHATEL SOFT\2018.07.18 izluchatel_finalArabianShit\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+H:\! IZLUCHATEL SOFT\2018.07.18 izluchatel_finalArabianShit\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+H:\! IZLUCHATEL SOFT\2018.07.18 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+H:\! IZLUCHATEL SOFT\2018.07.18 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+H:\! IZLUCHATEL SOFT\2018.07.18 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.Offsets.resources
+H:\! IZLUCHATEL SOFT\2018.07.18 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+H:\! IZLUCHATEL SOFT\2018.07.18 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.Rotator.resources
+H:\! IZLUCHATEL SOFT\2018.07.18 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.cache
+H:\! IZLUCHATEL SOFT\2018.07.18 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.CoreCompileInputs.cache
+H:\! IZLUCHATEL SOFT\2018.07.18 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+H:\! IZLUCHATEL SOFT\2018.07.18 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+C:\Users\Afanasiev_MA\Desktop\2018.08.13 izluchatel_finalArabianShit\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+C:\Users\Afanasiev_MA\Desktop\2018.08.13 izluchatel_finalArabianShit\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+C:\Users\Afanasiev_MA\Desktop\2018.08.13 izluchatel_finalArabianShit\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+C:\Users\Afanasiev_MA\Desktop\2018.08.13 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+C:\Users\Afanasiev_MA\Desktop\2018.08.13 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+C:\Users\Afanasiev_MA\Desktop\2018.08.13 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.Offsets.resources
+C:\Users\Afanasiev_MA\Desktop\2018.08.13 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+C:\Users\Afanasiev_MA\Desktop\2018.08.13 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.Rotator.resources
+C:\Users\Afanasiev_MA\Desktop\2018.08.13 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.cache
+C:\Users\Afanasiev_MA\Desktop\2018.08.13 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.CoreCompileInputs.cache
+C:\Users\Afanasiev_MA\Desktop\2018.08.13 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+C:\Users\Afanasiev_MA\Desktop\2018.08.13 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+G:\Новая папка\2018.08.13 izluchatel_finalArabianShit\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+G:\Новая папка\2018.08.13 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+G:\Новая папка\2018.08.13 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+G:\Новая папка\2018.08.13 izluchatel_finalArabianShit\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+G:\Новая папка\2018.08.13 izluchatel_finalArabianShit\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+G:\Новая папка\2018.08.13 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+G:\Новая папка\2018.08.13 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+G:\Новая папка\2018.08.13 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.Offsets.resources
+G:\Новая папка\2018.08.13 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+G:\Новая папка\2018.08.13 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.Rotator.resources
+G:\Новая папка\2018.08.13 izluchatel_finalArabianShit\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+G:\! IZLUCHATEL SOFT\2018.08.13 izluchatel_finalArabianShit_newAmp\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+G:\! IZLUCHATEL SOFT\2018.08.13 izluchatel_finalArabianShit_newAmp\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+G:\! IZLUCHATEL SOFT\2018.08.13 izluchatel_finalArabianShit_newAmp\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+G:\! IZLUCHATEL SOFT\2018.08.13 izluchatel_finalArabianShit_newAmp\UDP_FPGA\obj\Debug\UDP_FPGA.csprojAssemblyReference.cache
+G:\! IZLUCHATEL SOFT\2018.08.13 izluchatel_finalArabianShit_newAmp\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+G:\! IZLUCHATEL SOFT\2018.08.13 izluchatel_finalArabianShit_newAmp\UDP_FPGA\obj\Debug\UDP_FPGA.Offsets.resources
+G:\! IZLUCHATEL SOFT\2018.08.13 izluchatel_finalArabianShit_newAmp\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+G:\! IZLUCHATEL SOFT\2018.08.13 izluchatel_finalArabianShit_newAmp\UDP_FPGA\obj\Debug\UDP_FPGA.Rotator.resources
+G:\! IZLUCHATEL SOFT\2018.08.13 izluchatel_finalArabianShit_newAmp\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.cache
+G:\! IZLUCHATEL SOFT\2018.08.13 izluchatel_finalArabianShit_newAmp\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.CoreCompileInputs.cache
+G:\! IZLUCHATEL SOFT\2018.08.13 izluchatel_finalArabianShit_newAmp\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+G:\! IZLUCHATEL SOFT\2018.08.13 izluchatel_finalArabianShit_newAmp\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+z:\nil-44\Общие дела\2018.08.16 Программы от Миши\Излучатель\2018.08.13 izluchatel_finalArabianShit_newAmp\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+z:\nil-44\Общие дела\2018.08.16 Программы от Миши\Излучатель\2018.08.13 izluchatel_finalArabianShit_newAmp\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+z:\nil-44\Общие дела\2018.08.16 Программы от Миши\Излучатель\2018.08.13 izluchatel_finalArabianShit_newAmp\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+D:\nil-44\IZLUCHATEL\2018.08.13 izluchatel_finalArabianShit_newAmp\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+D:\nil-44\IZLUCHATEL\2018.08.13 izluchatel_finalArabianShit_newAmp\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+D:\nil-44\IZLUCHATEL\2018.08.13 izluchatel_finalArabianShit_newAmp\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+D:\nil-44\IZLUCHATEL\2018.08.13 izluchatel_finalArabianShit_newAmp\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+D:\nil-44\IZLUCHATEL\2018.08.13 izluchatel_finalArabianShit_newAmp\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+D:\nil-44\IZLUCHATEL\2018.08.13 izluchatel_finalArabianShit_newAmp\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+D:\nil-44\IZLUCHATEL\2018.08.13 izluchatel_finalArabianShit_newAmp\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+D:\nil-44\IZLUCHATEL\2018.08.13 izluchatel_finalArabianShit_newAmp\UDP_FPGA\obj\Debug\UDP_FPGA.Offsets.resources
+D:\nil-44\IZLUCHATEL\2018.08.13 izluchatel_finalArabianShit_newAmp\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+D:\nil-44\IZLUCHATEL\2018.08.13 izluchatel_finalArabianShit_newAmp\UDP_FPGA\obj\Debug\UDP_FPGA.Rotator.resources
+D:\nil-44\IZLUCHATEL\2018.08.13 izluchatel_finalArabianShit_newAmp\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+C:\Users\Admin-NIO4-1\Desktop\2018.08.13 izluchatel_finalArabianShit_newAmp\2018.08.13 izluchatel_finalArabianShit_newAmp\2018.08.13 izluchatel_finalArabianShit_newAmp\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+C:\Users\Admin-NIO4-1\Desktop\2018.08.13 izluchatel_finalArabianShit_newAmp\2018.08.13 izluchatel_finalArabianShit_newAmp\2018.08.13 izluchatel_finalArabianShit_newAmp\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+C:\Users\Admin-NIO4-1\Desktop\2018.08.13 izluchatel_finalArabianShit_newAmp\2018.08.13 izluchatel_finalArabianShit_newAmp\2018.08.13 izluchatel_finalArabianShit_newAmp\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+C:\Users\NIO4\Desktop\2018.09.11 izluchatel_final\2018.09.11 izluchatel_final\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+C:\Users\NIO4\Desktop\2018.09.11 izluchatel_final\2018.09.11 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+C:\Users\NIO4\Desktop\2018.09.11 izluchatel_final\2018.09.11 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+C:\Users\NIO4\Desktop\2018.09.11 izluchatel_final\2018.09.11 izluchatel_final\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+C:\Users\NIO4\Desktop\2018.09.11 izluchatel_final\2018.09.11 izluchatel_final\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+C:\Users\NIO4\Desktop\2018.09.11 izluchatel_final\2018.09.11 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+C:\Users\NIO4\Desktop\2018.09.11 izluchatel_final\2018.09.11 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+C:\Users\NIO4\Desktop\2018.09.11 izluchatel_final\2018.09.11 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.Offsets.resources
+C:\Users\NIO4\Desktop\2018.09.11 izluchatel_final\2018.09.11 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+C:\Users\NIO4\Desktop\2018.09.11 izluchatel_final\2018.09.11 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.Rotator.resources
+C:\Users\NIO4\Desktop\2018.09.11 izluchatel_final\2018.09.11 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+C:\Users\NIO4\Desktop\2018.09.11 izluchatel_final\2018.09.11 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.GPSsettings.resources
+C:\Users\NIO4\Desktop\2018.09.27 izluchatel_final\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+C:\Users\NIO4\Desktop\2018.09.27 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+C:\Users\NIO4\Desktop\2018.09.27 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+C:\Users\NIO4\Desktop\2018.09.27 izluchatel_final\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+C:\Users\NIO4\Desktop\2018.09.27 izluchatel_final\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+C:\Users\NIO4\Desktop\2018.09.27 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+C:\Users\NIO4\Desktop\2018.09.27 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.GPSsettings.resources
+C:\Users\NIO4\Desktop\2018.09.27 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+C:\Users\NIO4\Desktop\2018.09.27 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.Offsets.resources
+C:\Users\NIO4\Desktop\2018.09.27 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+C:\Users\NIO4\Desktop\2018.09.27 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.Rotator.resources
+C:\Users\NIO4\Desktop\2018.09.27 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+C:\Users\NIO4\Desktop\2018.10.01 izluchatel_final\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+C:\Users\NIO4\Desktop\2018.10.01 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+C:\Users\NIO4\Desktop\2018.10.01 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+C:\Users\NIO4\Desktop\2018.10.01 izluchatel_final\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+C:\Users\NIO4\Desktop\2018.10.01 izluchatel_final\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+C:\Users\NIO4\Desktop\2018.10.01 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.GPSsettings.resources
+C:\Users\NIO4\Desktop\2018.10.01 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+C:\Users\NIO4\Desktop\2018.10.01 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.Offsets.resources
+C:\Users\NIO4\Desktop\2018.10.01 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+C:\Users\NIO4\Desktop\2018.10.01 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+C:\Users\NIO4\Desktop\2018.10.01 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.ExternalControlSettings.resources
+C:\Users\NIO4\Desktop\2018.10.01 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.Settings.resources
+C:\Users\NIO4\Desktop\2018.10.01 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+C:\Users\NIO4\Desktop\Командировка\2018.10.02 izluchatel_final\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+C:\Users\NIO4\Desktop\Командировка\2018.10.02 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+C:\Users\NIO4\Desktop\Командировка\2018.10.02 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+C:\Users\NIO4\Desktop\Командировка\2018.10.02 izluchatel_final\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+C:\Users\NIO4\Desktop\Командировка\2018.10.02 izluchatel_final\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+C:\Users\NIO4\Desktop\Командировка\2018.10.02 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+C:\Users\NIO4\Desktop\Командировка\2018.10.02 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.ExternalControlSettings.resources
+C:\Users\NIO4\Desktop\Командировка\2018.10.02 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.GPSsettings.resources
+C:\Users\NIO4\Desktop\Командировка\2018.10.02 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+C:\Users\NIO4\Desktop\Командировка\2018.10.02 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.Offsets.resources
+C:\Users\NIO4\Desktop\Командировка\2018.10.02 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+C:\Users\NIO4\Desktop\Командировка\2018.10.02 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.Settings.resources
+C:\Users\NIO4\Desktop\Командировка\2018.10.02 izluchatel_final\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+C:\Users\NIO4\Desktop\Командировка\2018.10.02 izluchatel_final - roundRoatorAngles\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+C:\Users\NIO4\Desktop\Командировка\2018.10.02 izluchatel_final - roundRoatorAngles\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+C:\Users\NIO4\Desktop\Командировка\2018.10.02 izluchatel_final - roundRoatorAngles\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+C:\Users\NIO4\Desktop\Командировка\2018.10.02 izluchatel_final - roundRoatorAngles\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+C:\Users\NIO4\Desktop\Командировка\2018.10.02 izluchatel_final - roundRoatorAngles\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+C:\Users\NIO4\Desktop\Командировка\2018.10.02 izluchatel_final - roundRoatorAngles\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+C:\Users\NIO4\Desktop\Командировка\2018.10.02 izluchatel_final - roundRoatorAngles\UDP_FPGA\obj\Debug\UDP_FPGA.ExternalControlSettings.resources
+C:\Users\NIO4\Desktop\Командировка\2018.10.02 izluchatel_final - roundRoatorAngles\UDP_FPGA\obj\Debug\UDP_FPGA.GPSsettings.resources
+C:\Users\NIO4\Desktop\Командировка\2018.10.02 izluchatel_final - roundRoatorAngles\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+C:\Users\NIO4\Desktop\Командировка\2018.10.02 izluchatel_final - roundRoatorAngles\UDP_FPGA\obj\Debug\UDP_FPGA.Offsets.resources
+C:\Users\NIO4\Desktop\Командировка\2018.10.02 izluchatel_final - roundRoatorAngles\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+C:\Users\NIO4\Desktop\Командировка\2018.10.02 izluchatel_final - roundRoatorAngles\UDP_FPGA\obj\Debug\UDP_FPGA.Settings.resources
+C:\Users\NIO4\Desktop\Командировка\2018.10.02 izluchatel_final - roundRoatorAngles\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+C:\Users\NIO4\Desktop\Командировка\2018.10.07 izluchatel_final - roundRoatorAngles\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+C:\Users\NIO4\Desktop\Командировка\2018.10.07 izluchatel_final - roundRoatorAngles\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+C:\Users\NIO4\Desktop\Командировка\2018.10.07 izluchatel_final - roundRoatorAngles\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+C:\Users\NIO4\Desktop\Командировка\2018.10.07 izluchatel_final - roundRoatorAngles\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+C:\Users\NIO4\Desktop\Командировка\2018.10.07 izluchatel_final - roundRoatorAngles\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+C:\Users\NIO4\Desktop\Командировка\2018.10.07 izluchatel_final - roundRoatorAngles\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+C:\Users\NIO4\Desktop\Командировка\2018.10.07 izluchatel_final - roundRoatorAngles\UDP_FPGA\obj\Debug\UDP_FPGA.ExternalControlSettings.resources
+C:\Users\NIO4\Desktop\Командировка\2018.10.07 izluchatel_final - roundRoatorAngles\UDP_FPGA\obj\Debug\UDP_FPGA.GPSsettings.resources
+C:\Users\NIO4\Desktop\Командировка\2018.10.07 izluchatel_final - roundRoatorAngles\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+C:\Users\NIO4\Desktop\Командировка\2018.10.07 izluchatel_final - roundRoatorAngles\UDP_FPGA\obj\Debug\UDP_FPGA.Offsets.resources
+C:\Users\NIO4\Desktop\Командировка\2018.10.07 izluchatel_final - roundRoatorAngles\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+C:\Users\NIO4\Desktop\Командировка\2018.10.07 izluchatel_final - roundRoatorAngles\UDP_FPGA\obj\Debug\UDP_FPGA.Settings.resources
+C:\Users\NIO4\Desktop\Командировка\2018.10.07 izluchatel_final - roundRoatorAngles\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+H:\2018.10.07 izluchatel_final - roundedRotatorAngles\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+H:\2018.10.07 izluchatel_final - roundedRotatorAngles\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+H:\2018.10.07 izluchatel_final - roundedRotatorAngles\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+H:\2018.10.07 izluchatel_final - roundedRotatorAngles\UDP_FPGA\obj\Debug\UDP_FPGA.csprojAssemblyReference.cache
+H:\2018.10.07 izluchatel_final - roundedRotatorAngles\UDP_FPGA\obj\Debug\UDP_FPGA.ExternalControlSettings.resources
+H:\2018.10.07 izluchatel_final - roundedRotatorAngles\UDP_FPGA\obj\Debug\UDP_FPGA.GPSsettings.resources
+H:\2018.10.07 izluchatel_final - roundedRotatorAngles\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+H:\2018.10.07 izluchatel_final - roundedRotatorAngles\UDP_FPGA\obj\Debug\UDP_FPGA.Offsets.resources
+H:\2018.10.07 izluchatel_final - roundedRotatorAngles\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+H:\2018.10.07 izluchatel_final - roundedRotatorAngles\UDP_FPGA\obj\Debug\UDP_FPGA.Settings.resources
+H:\2018.10.07 izluchatel_final - roundedRotatorAngles\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.cache
+H:\2018.10.07 izluchatel_final - roundedRotatorAngles\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.CoreCompileInputs.cache
+H:\2018.10.07 izluchatel_final - roundedRotatorAngles\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+H:\2018.10.07 izluchatel_final - roundedRotatorAngles\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+H:\2018.10.07 izluchatel_final - megaNew\UDP_FPGA\obj\Debug\UDP_FPGA.csprojAssemblyReference.cache
+H:\2018.10.07 izluchatel_final - megaNew\UDP_FPGA\obj\Debug\UDP_FPGA.ExternalControlSettings.resources
+H:\2018.10.07 izluchatel_final - megaNew\UDP_FPGA\obj\Debug\UDP_FPGA.GPSsettings.resources
+H:\2018.10.07 izluchatel_final - megaNew\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+H:\2018.10.07 izluchatel_final - megaNew\UDP_FPGA\obj\Debug\UDP_FPGA.Offsets.resources
+H:\2018.10.07 izluchatel_final - megaNew\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+H:\2018.10.07 izluchatel_final - megaNew\UDP_FPGA\obj\Debug\UDP_FPGA.Settings.resources
+H:\2018.10.07 izluchatel_final - megaNew\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.cache
+H:\2018.10.07 izluchatel_final - megaNew\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.CoreCompileInputs.cache
+H:\2018.10.07 izluchatel_final - megaNew\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+H:\2018.10.07 izluchatel_final - megaNew\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+H:\2018.11.28 izluchatel_megaNew\UDP_FPGA\obj\Debug\UDP_FPGA.csprojAssemblyReference.cache
+H:\2018.11.28 izluchatel_megaNew\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+H:\2018.11.28 izluchatel_megaNew\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+H:\2018.11.28 izluchatel_megaNew\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.cache
+H:\2018.11.28 izluchatel_megaNew\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.CoreCompileInputs.cache
+H:\2018.11.28 izluchatel_megaNew\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+H:\2018.11.28 izluchatel_megaNew\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+H:\2018.11.28 izluchatel_megaNew\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+H:\2018.11.28 izluchatel_megaNew\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+H:\2018.11.28 izluchatel_megaNew\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+C:\Users\Afanasiev_MA\Desktop\2018.12.05 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.csprojAssemblyReference.cache
+C:\Users\Afanasiev_MA\Desktop\2018.12.05 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+C:\Users\Afanasiev_MA\Desktop\2018.12.05 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+C:\Users\Afanasiev_MA\Desktop\2018.12.05 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.cache
+C:\Users\Afanasiev_MA\Desktop\2018.12.05 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.CoreCompileInputs.cache
+C:\Users\Afanasiev_MA\Desktop\2018.12.05 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+C:\Users\Afanasiev_MA\Desktop\2018.12.05 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+C:\Users\Afanasiev_MA\Desktop\2018.12.05 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+C:\Users\Afanasiev_MA\Desktop\2018.12.05 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+C:\Users\Afanasiev_MA\Desktop\2018.12.05 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+F:\2018.12.05 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+F:\2018.12.05 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+F:\2018.12.05 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+F:\2018.12.05 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+F:\2018.12.05 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+F:\2018.12.05 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+F:\2018.12.05 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+F:\2018.12.05 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+F:\2018.12.05 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+K:\2018.12.06 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+K:\2018.12.06 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+K:\2018.12.06 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+F:\2018.12.06 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+F:\2018.12.06 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+F:\2018.12.06 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+H:\2018.12.06 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.csprojAssemblyReference.cache
+H:\2018.12.06 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+H:\2018.12.06 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+H:\2018.12.06 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.cache
+H:\2018.12.06 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.CoreCompileInputs.cache
+H:\2018.12.06 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+H:\2018.12.06 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+H:\2018.12.06 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+H:\2018.12.06 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+H:\2018.12.06 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+F:\2018.12.06 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+F:\2018.12.06 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+F:\2018.12.06 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+F:\2018.12.06 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+F:\2018.12.06 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+F:\2018.12.06 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+H:\2018.12.12 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.csprojAssemblyReference.cache
+H:\2018.12.12 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+H:\2018.12.12 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+H:\2018.12.12 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.cache
+H:\2018.12.12 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.CoreCompileInputs.cache
+H:\2018.12.12 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+H:\2018.12.12 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+H:\2018.12.12 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+H:\2018.12.12 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+H:\2018.12.12 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+F:\2018.12.12 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+F:\2018.12.12 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+F:\2018.12.12 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+F:\2018.12.12 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+F:\2018.12.12 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+F:\2018.12.12 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+F:\2018.12.12 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+F:\2018.12.12 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+F:\2018.12.12 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+K:\2018.12.12 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+K:\2018.12.12 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+K:\2018.12.12 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+G:\2018.12.12 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+G:\2018.12.12 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+G:\2018.12.12 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+H:\2018.12.17 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+H:\2018.12.17 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+H:\2018.12.17 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+H:\2018.12.17 Serp_1.5\UDP_FPGA\bin\Debug\MySql.Data.dll
+H:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.csprojAssemblyReference.cache
+H:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+H:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+H:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.cache
+H:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.CoreCompileInputs.cache
+H:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.CopyComplete
+H:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+H:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+F:\2018.12.17 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+F:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+F:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+F:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+F:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+F:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+F:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+F:\2018.12.17 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+F:\2018.12.17 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+F:\2018.12.17 Serp_1.5\UDP_FPGA\bin\Debug\MySql.Data.dll
+H:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+G:\2018.12.17 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+G:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+G:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+G:\2018.12.17 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+G:\2018.12.17 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+G:\2018.12.17 Serp_1.5\UDP_FPGA\bin\Debug\MySql.Data.dll
+G:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+G:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+G:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+G:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+F:\2018.12.19 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+F:\2018.12.19 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+F:\2018.12.19 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+F:\2018.12.19 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+F:\2018.12.19 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+F:\2018.12.19 Serp_1.5\UDP_FPGA\bin\Debug\MySql.Data.dll
+F:\2018.12.19 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+F:\2018.12.19 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+F:\2018.12.19 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+F:\2018.12.19 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+H:\2018.12.19 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+H:\2018.12.19 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+H:\2018.12.19 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+H:\2018.12.19 Serp_1.5\UDP_FPGA\bin\Debug\MySql.Data.dll
+H:\2018.12.19 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.csprojAssemblyReference.cache
+H:\2018.12.19 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+H:\2018.12.19 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+H:\2018.12.19 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.cache
+H:\2018.12.19 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.CoreCompileInputs.cache
+H:\2018.12.19 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.CopyComplete
+H:\2018.12.19 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+H:\2018.12.19 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+F:\!SERP\2018.12.19 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+F:\!SERP\2018.12.19 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+F:\!SERP\2018.12.19 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+F:\актуальное\2018.12.19 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+F:\актуальное\2018.12.19 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+F:\актуальное\2018.12.19 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+F:\актуальное\2018.12.19 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+F:\актуальное\2018.12.19 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+F:\актуальное\2018.12.19 Serp_1.5\UDP_FPGA\bin\Debug\MySql.Data.dll
+F:\актуальное\2018.12.19 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+F:\актуальное\2018.12.19 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+F:\актуальное\2018.12.19 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+F:\актуальное\2018.12.19 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+C:\Users\NIO4\Desktop\актуальное\2018.12.19 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+C:\Users\NIO4\Desktop\актуальное\2018.12.19 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+C:\Users\NIO4\Desktop\актуальное\2018.12.19 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.pdb
+C:\Users\NIO4\Desktop\актуальное\2018.12.19 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+C:\Users\NIO4\Desktop\актуальное\2018.12.19 Serp_1.5\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+C:\Users\NIO4\Desktop\актуальное\2018.12.19 Serp_1.5\UDP_FPGA\bin\Debug\MySql.Data.dll
+C:\Users\NIO4\Desktop\актуальное\2018.12.19 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.csprojResolveAssemblyReference.cache
+C:\Users\NIO4\Desktop\актуальное\2018.12.19 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+C:\Users\NIO4\Desktop\актуальное\2018.12.19 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+C:\Users\NIO4\Desktop\актуальное\2018.12.19 Serp_1.5\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.Cache
+C:\Users\Afanasiev_MA\Desktop\2018.12.19 Serp_1.5 (Березин)\UDP_FPGA\bin\Debug\UDP_FPGA.exe.config
+C:\Users\Afanasiev_MA\Desktop\2018.12.19 Serp_1.5 (Березин)\UDP_FPGA\bin\Debug\UDP_FPGA.exe
+C:\Users\Afanasiev_MA\Desktop\2018.12.19 Serp_1.5 (Березин)\UDP_FPGA\bin\Debug\UDP_FPGA.pdb
+C:\Users\Afanasiev_MA\Desktop\2018.12.19 Serp_1.5 (Березин)\UDP_FPGA\bin\Debug\MySql.Data.dll
+C:\Users\Afanasiev_MA\Desktop\2018.12.19 Serp_1.5 (Березин)\UDP_FPGA\obj\Debug\UDP_FPGA.csprojAssemblyReference.cache
+C:\Users\Afanasiev_MA\Desktop\2018.12.19 Serp_1.5 (Березин)\UDP_FPGA\obj\Debug\UDP_FPGA.FormUDP.resources
+C:\Users\Afanasiev_MA\Desktop\2018.12.19 Serp_1.5 (Березин)\UDP_FPGA\obj\Debug\UDP_FPGA.Properties.Resources.resources
+C:\Users\Afanasiev_MA\Desktop\2018.12.19 Serp_1.5 (Березин)\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.GenerateResource.cache
+C:\Users\Afanasiev_MA\Desktop\2018.12.19 Serp_1.5 (Березин)\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.CoreCompileInputs.cache
+C:\Users\Afanasiev_MA\Desktop\2018.12.19 Serp_1.5 (Березин)\UDP_FPGA\obj\Debug\UDP_FPGA.csproj.CopyComplete
+C:\Users\Afanasiev_MA\Desktop\2018.12.19 Serp_1.5 (Березин)\UDP_FPGA\obj\Debug\UDP_FPGA.exe
+C:\Users\Afanasiev_MA\Desktop\2018.12.19 Serp_1.5 (Березин)\UDP_FPGA\obj\Debug\UDP_FPGA.pdb

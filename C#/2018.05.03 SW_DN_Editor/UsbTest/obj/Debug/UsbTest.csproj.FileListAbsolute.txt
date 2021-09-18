@@ -1,0 +1,918 @@
+D:\NIL-44\UsbTest3\UsbTest\bin\Debug\UsbTest.exe.config
+D:\NIL-44\UsbTest3\UsbTest\bin\Debug\UsbTest.exe
+D:\NIL-44\UsbTest3\UsbTest\bin\Debug\DataSaver.dll
+D:\NIL-44\UsbTest3\UsbTest\bin\Debug\FTD3XX_NET.dll
+D:\NIL-44\UsbTest3\UsbTest\bin\Debug\NAudio.dll
+D:\NIL-44\UsbTest3\UsbTest\bin\Debug\ZedGraph.dll
+D:\NIL-44\UsbTest3\UsbTest\bin\Debug\DataSaver.pdb
+D:\NIL-44\UsbTest3\UsbTest\obj\Debug\UsbTest.Form1.resources
+D:\NIL-44\UsbTest3\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+D:\NIL-44\UsbTest3\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+D:\NIL-44\UsbTest3\UsbTest\obj\Debug\UsbTest.exe
+D:\NIL-44\UsbTest3\UsbTest\obj\Debug\UsbTest.pdb
+D:\NIL-44\UsbTest3\UsbTest\bin\Debug\UsbTest.pdb
+D:\NIL-44\UsbTest3\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+g:\SuhProjects\C#\!Receiver40MHz\UsbTest3\UsbTest\bin\Debug\UsbTest.exe.config
+g:\SuhProjects\C#\!Receiver40MHz\UsbTest3\UsbTest\obj\Debug\UsbTest.exe
+g:\SuhProjects\C#\!Receiver40MHz\UsbTest3\UsbTest\obj\Debug\UsbTest.pdb
+g:\SuhProjects\C#\!Receiver40MHz\UsbTest3\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+g:\SuhProjects\C#\!Receiver40MHz\UsbTest3\UsbTest\obj\Debug\UsbTest.Form1.resources
+g:\SuhProjects\C#\!Receiver40MHz\UsbTest3\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+g:\SuhProjects\C#\!Receiver40MHz\UsbTest3\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+G:\SuhProjects\C#\!Receiver40MHz\UsbTest4\UsbTest\bin\Debug\UsbTest.exe.config
+G:\SuhProjects\C#\!Receiver40MHz\UsbTest4\UsbTest\obj\Debug\UsbTest.exe
+G:\SuhProjects\C#\!Receiver40MHz\UsbTest4\UsbTest\obj\Debug\UsbTest.pdb
+G:\SuhProjects\C#\!Receiver40MHz\UsbTest4\UsbTest\bin\Debug\UsbTest.exe
+G:\SuhProjects\C#\!Receiver40MHz\UsbTest4\UsbTest\bin\Debug\UsbTest.pdb
+G:\SuhProjects\C#\!Receiver40MHz\UsbTest4\UsbTest\bin\Debug\DataSaver.dll
+G:\SuhProjects\C#\!Receiver40MHz\UsbTest4\UsbTest\bin\Debug\FTD3XX_NET.dll
+G:\SuhProjects\C#\!Receiver40MHz\UsbTest4\UsbTest\bin\Debug\NAudio.dll
+G:\SuhProjects\C#\!Receiver40MHz\UsbTest4\UsbTest\bin\Debug\ZedGraph.dll
+G:\SuhProjects\C#\!Receiver40MHz\UsbTest4\UsbTest\bin\Debug\DataSaver.pdb
+G:\SuhProjects\C#\!Receiver40MHz\UsbTest4\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+G:\SuhProjects\C#\!Receiver40MHz\UsbTest4\UsbTest\obj\Debug\UsbTest.Form1.resources
+G:\SuhProjects\C#\!Receiver40MHz\UsbTest4\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+G:\SuhProjects\C#\!Receiver40MHz\UsbTest4\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+D:\NIL-44\UsbTest5\UsbTest\bin\Debug\UsbTest.exe.config
+D:\NIL-44\UsbTest5\UsbTest\obj\Debug\UsbTest.exe
+D:\NIL-44\UsbTest5\UsbTest\obj\Debug\UsbTest.pdb
+D:\NIL-44\UsbTest5\UsbTest\bin\Debug\UsbTest.exe
+D:\NIL-44\UsbTest5\UsbTest\bin\Debug\UsbTest.pdb
+D:\NIL-44\UsbTest5\UsbTest\bin\Debug\DataSaver.dll
+D:\NIL-44\UsbTest5\UsbTest\bin\Debug\FTD3XX_NET.dll
+D:\NIL-44\UsbTest5\UsbTest\bin\Debug\NAudio.dll
+D:\NIL-44\UsbTest5\UsbTest\bin\Debug\ZedGraph.dll
+D:\NIL-44\UsbTest5\UsbTest\bin\Debug\DataSaver.pdb
+D:\NIL-44\UsbTest5\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+D:\NIL-44\UsbTest5\UsbTest\obj\Debug\UsbTest.Form1.resources
+D:\NIL-44\UsbTest5\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+D:\NIL-44\UsbTest5\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+F:\2017.10.11 ПО приемник\UsbTest5\UsbTest\bin\Debug\UsbTest.exe.config
+F:\2017.10.11 ПО приемник\UsbTest5\UsbTest\obj\Debug\UsbTest.exe
+F:\2017.10.11 ПО приемник\UsbTest5\UsbTest\obj\Debug\UsbTest.pdb
+F:\2017.10.11 ПО приемник\UsbTest5\UsbTest\bin\Debug\UsbTest.exe
+F:\2017.10.11 ПО приемник\UsbTest5\UsbTest\bin\Debug\UsbTest.pdb
+F:\2017.10.11 ПО приемник\UsbTest5\UsbTest\bin\Debug\DataSaver.dll
+F:\2017.10.11 ПО приемник\UsbTest5\UsbTest\bin\Debug\FTD3XX_NET.dll
+F:\2017.10.11 ПО приемник\UsbTest5\UsbTest\bin\Debug\NAudio.dll
+F:\2017.10.11 ПО приемник\UsbTest5\UsbTest\bin\Debug\ZedGraph.dll
+F:\2017.10.11 ПО приемник\UsbTest5\UsbTest\bin\Debug\DataSaver.pdb
+F:\2017.10.11 ПО приемник\UsbTest5\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+F:\2017.10.11 ПО приемник\UsbTest5\UsbTest\obj\Debug\UsbTest.Form1.resources
+F:\2017.10.11 ПО приемник\UsbTest5\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+F:\2017.10.11 ПО приемник\UsbTest5\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+D:\NIL-44\UsbTest6\UsbTest\bin\Debug\UsbTest.exe
+D:\NIL-44\UsbTest6\UsbTest\bin\Debug\NAudio.dll
+D:\NIL-44\UsbTest6\UsbTest\bin\Debug\ZedGraph.dll
+D:\NIL-44\UsbTest6\UsbTest\bin\Debug\UsbTest.exe.config
+D:\NIL-44\UsbTest6\UsbTest\bin\Debug\DataSaver.dll
+D:\NIL-44\UsbTest6\UsbTest\bin\Debug\FTD3XX_NET.dll
+D:\NIL-44\UsbTest6\UsbTest\bin\Debug\DataSaver.pdb
+D:\NIL-44\UsbTest6\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+D:\NIL-44\UsbTest6\UsbTest\obj\Debug\UsbTest.CalibrationForm.resources
+D:\NIL-44\UsbTest6\UsbTest\obj\Debug\UsbTest.Form1.resources
+D:\NIL-44\UsbTest6\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+D:\NIL-44\UsbTest6\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+D:\NIL-44\UsbTest6\UsbTest\obj\Debug\UsbTest.exe
+D:\NIL-44\UsbTest6\UsbTest\obj\Debug\UsbTest.pdb
+D:\NIL-44\UsbTest6\UsbTest\bin\Debug\UsbTest.pdb
+C:\Users\Afanasiev_MA\Desktop\UsbTest6\UsbTest\bin\Debug\UsbTest.exe.config
+C:\Users\Afanasiev_MA\Desktop\UsbTest6\UsbTest\obj\Debug\UsbTest.exe
+C:\Users\Afanasiev_MA\Desktop\UsbTest6\UsbTest\obj\Debug\UsbTest.pdb
+C:\Users\Afanasiev_MA\Desktop\UsbTest6\UsbTest\bin\Debug\UsbTest.exe
+C:\Users\Afanasiev_MA\Desktop\UsbTest6\UsbTest\bin\Debug\UsbTest.pdb
+C:\Users\Afanasiev_MA\Desktop\UsbTest6\UsbTest\bin\Debug\DataSaver.dll
+C:\Users\Afanasiev_MA\Desktop\UsbTest6\UsbTest\bin\Debug\FTD3XX_NET.dll
+C:\Users\Afanasiev_MA\Desktop\UsbTest6\UsbTest\bin\Debug\NAudio.dll
+C:\Users\Afanasiev_MA\Desktop\UsbTest6\UsbTest\bin\Debug\ZedGraph.dll
+C:\Users\Afanasiev_MA\Desktop\UsbTest6\UsbTest\bin\Debug\DataSaver.pdb
+C:\Users\Afanasiev_MA\Desktop\UsbTest6\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+C:\Users\Afanasiev_MA\Desktop\UsbTest6\UsbTest\obj\Debug\UsbTest.CalibrationForm.resources
+C:\Users\Afanasiev_MA\Desktop\UsbTest6\UsbTest\obj\Debug\UsbTest.Form1.resources
+C:\Users\Afanasiev_MA\Desktop\UsbTest6\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+C:\Users\Afanasiev_MA\Desktop\UsbTest6\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+F:\ReceiverLast\Interface\UsbTest\bin\Debug\UsbTest.exe.config
+F:\ReceiverLast\Interface\UsbTest\obj\Debug\UsbTest.exe
+F:\ReceiverLast\Interface\UsbTest\obj\Debug\UsbTest.pdb
+F:\ReceiverLast\Interface\UsbTest\bin\Debug\UsbTest.exe
+F:\ReceiverLast\Interface\UsbTest\bin\Debug\UsbTest.pdb
+F:\ReceiverLast\Interface\UsbTest\bin\Debug\DataSaver.dll
+F:\ReceiverLast\Interface\UsbTest\bin\Debug\FTD3XX_NET.dll
+F:\ReceiverLast\Interface\UsbTest\bin\Debug\NAudio.dll
+F:\ReceiverLast\Interface\UsbTest\bin\Debug\ZedGraph.dll
+F:\ReceiverLast\Interface\UsbTest\bin\Debug\DataSaver.pdb
+F:\ReceiverLast\Interface\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+F:\ReceiverLast\Interface\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+F:\ReceiverLast\Interface\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+F:\ReceiverLast\Interface\UsbTest\obj\Debug\UsbTest.Settings.resources
+F:\ReceiverLast\Interface\UsbTest\obj\Debug\UsbTest.Main.resources
+D:\NIL-44\Interface\UsbTest\bin\Debug\UsbTest.exe.config
+D:\NIL-44\Interface\UsbTest\obj\Debug\UsbTest.exe
+D:\NIL-44\Interface\UsbTest\obj\Debug\UsbTest.pdb
+D:\NIL-44\Interface\UsbTest\bin\Debug\UsbTest.exe
+D:\NIL-44\Interface\UsbTest\bin\Debug\UsbTest.pdb
+D:\NIL-44\Interface\UsbTest\bin\Debug\DataSaver.dll
+D:\NIL-44\Interface\UsbTest\bin\Debug\FTD3XX_NET.dll
+D:\NIL-44\Interface\UsbTest\bin\Debug\NAudio.dll
+D:\NIL-44\Interface\UsbTest\bin\Debug\ZedGraph.dll
+D:\NIL-44\Interface\UsbTest\bin\Debug\DataSaver.pdb
+D:\NIL-44\Interface\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+D:\NIL-44\Interface\UsbTest\obj\Debug\UsbTest.Main.resources
+D:\NIL-44\Interface\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+D:\NIL-44\Interface\UsbTest\obj\Debug\UsbTest.Settings.resources
+D:\NIL-44\Interface\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+D:\NIL-44\Interface\UsbTest\obj\Debug\UsbTest.Calibration.resources
+Z:\НИЛ-44\КВУКВ\2017.11.13 ПО приемник ВЗОР\Interface\UsbTest\bin\Debug\UsbTest.exe.config
+Z:\НИЛ-44\КВУКВ\2017.11.13 ПО приемник ВЗОР\Interface\UsbTest\obj\Debug\UsbTest.exe
+Z:\НИЛ-44\КВУКВ\2017.11.13 ПО приемник ВЗОР\Interface\UsbTest\obj\Debug\UsbTest.pdb
+Z:\НИЛ-44\КВУКВ\2017.11.13 ПО приемник ВЗОР\Interface\UsbTest\bin\Debug\UsbTest.exe
+Z:\НИЛ-44\КВУКВ\2017.11.13 ПО приемник ВЗОР\Interface\UsbTest\bin\Debug\UsbTest.pdb
+Z:\НИЛ-44\КВУКВ\2017.11.13 ПО приемник ВЗОР\Interface\UsbTest\bin\Debug\DataSaver.dll
+Z:\НИЛ-44\КВУКВ\2017.11.13 ПО приемник ВЗОР\Interface\UsbTest\bin\Debug\FTD3XX_NET.dll
+Z:\НИЛ-44\КВУКВ\2017.11.13 ПО приемник ВЗОР\Interface\UsbTest\bin\Debug\NAudio.dll
+Z:\НИЛ-44\КВУКВ\2017.11.13 ПО приемник ВЗОР\Interface\UsbTest\bin\Debug\ZedGraph.dll
+Z:\НИЛ-44\КВУКВ\2017.11.13 ПО приемник ВЗОР\Interface\UsbTest\bin\Debug\DataSaver.pdb
+Z:\НИЛ-44\КВУКВ\2017.11.13 ПО приемник ВЗОР\Interface\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+Z:\НИЛ-44\КВУКВ\2017.11.13 ПО приемник ВЗОР\Interface\UsbTest\obj\Debug\UsbTest.Calibration.resources
+Z:\НИЛ-44\КВУКВ\2017.11.13 ПО приемник ВЗОР\Interface\UsbTest\obj\Debug\UsbTest.Main.resources
+Z:\НИЛ-44\КВУКВ\2017.11.13 ПО приемник ВЗОР\Interface\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+Z:\НИЛ-44\КВУКВ\2017.11.13 ПО приемник ВЗОР\Interface\UsbTest\obj\Debug\UsbTest.Settings.resources
+Z:\НИЛ-44\КВУКВ\2017.11.13 ПО приемник ВЗОР\Interface\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+F:\2017.11.14 ПО приемник ВЗОР\Interface\UsbTest\bin\Debug\UsbTest.exe.config
+F:\2017.11.14 ПО приемник ВЗОР\Interface\UsbTest\obj\Debug\UsbTest.exe
+F:\2017.11.14 ПО приемник ВЗОР\Interface\UsbTest\obj\Debug\UsbTest.pdb
+F:\2017.11.14 ПО приемник ВЗОР\Interface\UsbTest\bin\Debug\UsbTest.exe
+F:\2017.11.14 ПО приемник ВЗОР\Interface\UsbTest\bin\Debug\UsbTest.pdb
+F:\2017.11.14 ПО приемник ВЗОР\Interface\UsbTest\bin\Debug\DataSaver.dll
+F:\2017.11.14 ПО приемник ВЗОР\Interface\UsbTest\bin\Debug\FTD3XX_NET.dll
+F:\2017.11.14 ПО приемник ВЗОР\Interface\UsbTest\bin\Debug\NAudio.dll
+F:\2017.11.14 ПО приемник ВЗОР\Interface\UsbTest\bin\Debug\ZedGraph.dll
+F:\2017.11.14 ПО приемник ВЗОР\Interface\UsbTest\bin\Debug\DataSaver.pdb
+F:\2017.11.14 ПО приемник ВЗОР\Interface\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+F:\2017.11.14 ПО приемник ВЗОР\Interface\UsbTest\obj\Debug\UsbTest.Calibration.resources
+F:\2017.11.14 ПО приемник ВЗОР\Interface\UsbTest\obj\Debug\UsbTest.Main.resources
+F:\2017.11.14 ПО приемник ВЗОР\Interface\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+F:\2017.11.14 ПО приемник ВЗОР\Interface\UsbTest\obj\Debug\UsbTest.Settings.resources
+F:\2017.11.14 ПО приемник ВЗОР\Interface\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+Z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\Interface\UsbTest\bin\Debug\UsbTest.exe.config
+Z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\Interface\UsbTest\obj\Debug\UsbTest.exe
+Z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\Interface\UsbTest\obj\Debug\UsbTest.pdb
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\Interface\UsbTest\bin\Debug\UsbTest.exe
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\Interface\UsbTest\bin\Debug\UsbTest.pdb
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\Interface\UsbTest\bin\Debug\DataSaver.dll
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\Interface\UsbTest\bin\Debug\FTD3XX_NET.dll
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\Interface\UsbTest\bin\Debug\NAudio.dll
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\Interface\UsbTest\bin\Debug\ZedGraph.dll
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\Interface\UsbTest\bin\Debug\DataSaver.pdb
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\Interface\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\Interface\UsbTest\obj\Debug\UsbTest.Calibration.resources
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\Interface\UsbTest\obj\Debug\UsbTest.Main.resources
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\Interface\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\Interface\UsbTest\obj\Debug\UsbTest.Settings.resources
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\Interface\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+C:\Users\Afanasiev_MA\Desktop\Interface\UsbTest\bin\Debug\UsbTest.exe.config
+C:\Users\Afanasiev_MA\Desktop\Interface\UsbTest\obj\Debug\UsbTest.exe
+C:\Users\Afanasiev_MA\Desktop\Interface\UsbTest\obj\Debug\UsbTest.pdb
+F:\InterfaceDemo\UsbTest\bin\Debug\UsbTest.exe.config
+F:\InterfaceDemo\UsbTest\obj\Debug\UsbTest.exe
+F:\InterfaceDemo\UsbTest\obj\Debug\UsbTest.pdb
+F:\InterfaceDemo\UsbTest\bin\Debug\UsbTest.exe
+F:\InterfaceDemo\UsbTest\bin\Debug\UsbTest.pdb
+F:\InterfaceDemo\UsbTest\bin\Debug\DataSaver.dll
+F:\InterfaceDemo\UsbTest\bin\Debug\FTD3XX_NET.dll
+F:\InterfaceDemo\UsbTest\bin\Debug\NAudio.dll
+F:\InterfaceDemo\UsbTest\bin\Debug\ZedGraph.dll
+F:\InterfaceDemo\UsbTest\bin\Debug\DataSaver.pdb
+F:\InterfaceDemo\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+F:\InterfaceDemo\UsbTest\obj\Debug\UsbTest.Calibration.resources
+F:\InterfaceDemo\UsbTest\obj\Debug\UsbTest.Main.resources
+F:\InterfaceDemo\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+F:\InterfaceDemo\UsbTest\obj\Debug\UsbTest.Settings.resources
+F:\InterfaceDemo\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+C:\Users\Afanasiev_MA\Desktop\InterfaceDemo\UsbTest\bin\Debug\UsbTest.exe.config
+C:\Users\Afanasiev_MA\Desktop\InterfaceDemo\UsbTest\obj\Debug\UsbTest.exe
+C:\Users\Afanasiev_MA\Desktop\InterfaceDemo\UsbTest\obj\Debug\UsbTest.pdb
+Z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\InterfaceDemo\UsbTest\bin\Debug\UsbTest.exe.config
+Z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\InterfaceDemo\UsbTest\obj\Debug\UsbTest.exe
+Z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\InterfaceDemo\UsbTest\obj\Debug\UsbTest.pdb
+F:\для объекта К\актуальное\InterfaceDemo\UsbTest\bin\Debug\UsbTest.exe.config
+F:\для объекта К\актуальное\InterfaceDemo\UsbTest\obj\Debug\UsbTest.exe
+F:\для объекта К\актуальное\InterfaceDemo\UsbTest\obj\Debug\UsbTest.pdb
+F:\2017.11.20 ПО приемник ВЗОР\актуальное\InterfaceDemo\UsbTest\bin\Debug\UsbTest.exe.config
+F:\2017.11.20 ПО приемник ВЗОР\актуальное\InterfaceDemo\UsbTest\obj\Debug\UsbTest.exe
+F:\2017.11.20 ПО приемник ВЗОР\актуальное\InterfaceDemo\UsbTest\obj\Debug\UsbTest.pdb
+F:\2017.11.20 ПО приемник ВЗОР\актуальное\InterfaceDemo\UsbTest\bin\Debug\UsbTest.exe
+F:\2017.11.20 ПО приемник ВЗОР\актуальное\InterfaceDemo\UsbTest\bin\Debug\UsbTest.pdb
+F:\2017.11.20 ПО приемник ВЗОР\актуальное\InterfaceDemo\UsbTest\bin\Debug\DataSaver.dll
+F:\2017.11.20 ПО приемник ВЗОР\актуальное\InterfaceDemo\UsbTest\bin\Debug\FTD3XX_NET.dll
+F:\2017.11.20 ПО приемник ВЗОР\актуальное\InterfaceDemo\UsbTest\bin\Debug\NAudio.dll
+F:\2017.11.20 ПО приемник ВЗОР\актуальное\InterfaceDemo\UsbTest\bin\Debug\ZedGraph.dll
+F:\2017.11.20 ПО приемник ВЗОР\актуальное\InterfaceDemo\UsbTest\bin\Debug\DataSaver.pdb
+F:\2017.11.20 ПО приемник ВЗОР\актуальное\InterfaceDemo\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+F:\2017.11.20 ПО приемник ВЗОР\актуальное\InterfaceDemo\UsbTest\obj\Debug\UsbTest.Calibration.resources
+F:\2017.11.20 ПО приемник ВЗОР\актуальное\InterfaceDemo\UsbTest\obj\Debug\UsbTest.Main.resources
+F:\2017.11.20 ПО приемник ВЗОР\актуальное\InterfaceDemo\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+F:\2017.11.20 ПО приемник ВЗОР\актуальное\InterfaceDemo\UsbTest\obj\Debug\UsbTest.Settings.resources
+F:\2017.11.20 ПО приемник ВЗОР\актуальное\InterfaceDemo\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+C:\Users\Afanasiev_MA\Desktop\InterfaceDemo\UsbTest\bin\Debug\UsbTest.exe
+C:\Users\Afanasiev_MA\Desktop\InterfaceDemo\UsbTest\bin\Debug\UsbTest.pdb
+C:\Users\Afanasiev_MA\Desktop\InterfaceDemo\UsbTest\bin\Debug\DataSaver.dll
+C:\Users\Afanasiev_MA\Desktop\InterfaceDemo\UsbTest\bin\Debug\FTD3XX_NET.dll
+C:\Users\Afanasiev_MA\Desktop\InterfaceDemo\UsbTest\bin\Debug\NAudio.dll
+C:\Users\Afanasiev_MA\Desktop\InterfaceDemo\UsbTest\bin\Debug\ZedGraph.dll
+C:\Users\Afanasiev_MA\Desktop\InterfaceDemo\UsbTest\bin\Debug\DataSaver.pdb
+C:\Users\Afanasiev_MA\Desktop\InterfaceDemo\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+C:\Users\Afanasiev_MA\Desktop\InterfaceDemo\UsbTest\obj\Debug\UsbTest.Calibration.resources
+C:\Users\Afanasiev_MA\Desktop\InterfaceDemo\UsbTest\obj\Debug\UsbTest.Main.resources
+C:\Users\Afanasiev_MA\Desktop\InterfaceDemo\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+C:\Users\Afanasiev_MA\Desktop\InterfaceDemo\UsbTest\obj\Debug\UsbTest.Settings.resources
+C:\Users\Afanasiev_MA\Desktop\InterfaceDemo\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+F:\InterfaceDemo\UsbTest\obj\Debug\UsbTest.TableForm.resources
+F:\InterfaceDemo\UsbTest\obj\Debug\UsbTest.AverageSettings.resources
+F:\2017.12.05 InterfaceDemo\UsbTest\bin\Debug\UsbTest.exe.config
+F:\2017.12.05 InterfaceDemo\UsbTest\obj\Debug\UsbTest.exe
+F:\2017.12.05 InterfaceDemo\UsbTest\obj\Debug\UsbTest.pdb
+F:\2017.12.05 InterfaceDemo\UsbTest\bin\Debug\UsbTest.exe
+F:\2017.12.05 InterfaceDemo\UsbTest\bin\Debug\UsbTest.pdb
+F:\2017.12.05 InterfaceDemo\UsbTest\bin\Debug\DataSaver.dll
+F:\2017.12.05 InterfaceDemo\UsbTest\bin\Debug\FTD3XX_NET.dll
+F:\2017.12.05 InterfaceDemo\UsbTest\bin\Debug\NAudio.dll
+F:\2017.12.05 InterfaceDemo\UsbTest\bin\Debug\ZedGraph.dll
+F:\2017.12.05 InterfaceDemo\UsbTest\bin\Debug\DataSaver.pdb
+F:\2017.12.05 InterfaceDemo\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+F:\2017.12.05 InterfaceDemo\UsbTest\obj\Debug\UsbTest.AverageSettings.resources
+F:\2017.12.05 InterfaceDemo\UsbTest\obj\Debug\UsbTest.Calibration.resources
+F:\2017.12.05 InterfaceDemo\UsbTest\obj\Debug\UsbTest.TableForm.resources
+F:\2017.12.05 InterfaceDemo\UsbTest\obj\Debug\UsbTest.Main.resources
+F:\2017.12.05 InterfaceDemo\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+F:\2017.12.05 InterfaceDemo\UsbTest\obj\Debug\UsbTest.Settings.resources
+F:\2017.12.05 InterfaceDemo\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+C:\Users\NIO4\Desktop\2017.12.05 InterfaceDemo\UsbTest\bin\Debug\UsbTest.exe.config
+C:\Users\NIO4\Desktop\2017.12.05 InterfaceDemo\UsbTest\obj\Debug\UsbTest.exe
+C:\Users\NIO4\Desktop\2017.12.05 InterfaceDemo\UsbTest\obj\Debug\UsbTest.pdb
+C:\Users\NIO4\Desktop\2017.12.05 InterfaceDemo\UsbTest\bin\Debug\UsbTest.exe
+C:\Users\NIO4\Desktop\2017.12.05 InterfaceDemo\UsbTest\bin\Debug\UsbTest.pdb
+C:\Users\NIO4\Desktop\2017.12.05 InterfaceDemo\UsbTest\bin\Debug\DataSaver.dll
+C:\Users\NIO4\Desktop\2017.12.05 InterfaceDemo\UsbTest\bin\Debug\FTD3XX_NET.dll
+C:\Users\NIO4\Desktop\2017.12.05 InterfaceDemo\UsbTest\bin\Debug\NAudio.dll
+C:\Users\NIO4\Desktop\2017.12.05 InterfaceDemo\UsbTest\bin\Debug\ZedGraph.dll
+C:\Users\NIO4\Desktop\2017.12.05 InterfaceDemo\UsbTest\bin\Debug\DataSaver.pdb
+C:\Users\NIO4\Desktop\2017.12.05 InterfaceDemo\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+C:\Users\NIO4\Desktop\2017.12.05 InterfaceDemo\UsbTest\obj\Debug\UsbTest.AverageSettings.resources
+C:\Users\NIO4\Desktop\2017.12.05 InterfaceDemo\UsbTest\obj\Debug\UsbTest.Calibration.resources
+C:\Users\NIO4\Desktop\2017.12.05 InterfaceDemo\UsbTest\obj\Debug\UsbTest.TableForm.resources
+C:\Users\NIO4\Desktop\2017.12.05 InterfaceDemo\UsbTest\obj\Debug\UsbTest.Main.resources
+C:\Users\NIO4\Desktop\2017.12.05 InterfaceDemo\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+C:\Users\NIO4\Desktop\2017.12.05 InterfaceDemo\UsbTest\obj\Debug\UsbTest.Settings.resources
+C:\Users\NIO4\Desktop\2017.12.05 InterfaceDemo\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+D:\НИЛ-44\2017.12.05 InterfaceDemo\UsbTest\bin\Debug\UsbTest.exe.config
+D:\НИЛ-44\2017.12.05 InterfaceDemo\UsbTest\obj\Debug\UsbTest.exe
+D:\НИЛ-44\2017.12.05 InterfaceDemo\UsbTest\obj\Debug\UsbTest.pdb
+D:\НИЛ-44\2017.12.05 InterfaceDemo\UsbTest\bin\Debug\UsbTest.exe
+D:\НИЛ-44\2017.12.05 InterfaceDemo\UsbTest\bin\Debug\UsbTest.pdb
+D:\НИЛ-44\2017.12.05 InterfaceDemo\UsbTest\bin\Debug\DataSaver.dll
+D:\НИЛ-44\2017.12.05 InterfaceDemo\UsbTest\bin\Debug\FTD3XX_NET.dll
+D:\НИЛ-44\2017.12.05 InterfaceDemo\UsbTest\bin\Debug\NAudio.dll
+D:\НИЛ-44\2017.12.05 InterfaceDemo\UsbTest\bin\Debug\ZedGraph.dll
+D:\НИЛ-44\2017.12.05 InterfaceDemo\UsbTest\bin\Debug\DataSaver.pdb
+D:\НИЛ-44\2017.12.05 InterfaceDemo\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+D:\НИЛ-44\2017.12.05 InterfaceDemo\UsbTest\obj\Debug\UsbTest.AverageSettings.resources
+D:\НИЛ-44\2017.12.05 InterfaceDemo\UsbTest\obj\Debug\UsbTest.Calibration.resources
+D:\НИЛ-44\2017.12.05 InterfaceDemo\UsbTest\obj\Debug\UsbTest.TableForm.resources
+D:\НИЛ-44\2017.12.05 InterfaceDemo\UsbTest\obj\Debug\UsbTest.Main.resources
+D:\НИЛ-44\2017.12.05 InterfaceDemo\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+D:\НИЛ-44\2017.12.05 InterfaceDemo\UsbTest\obj\Debug\UsbTest.Settings.resources
+D:\НИЛ-44\2017.12.05 InterfaceDemo\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+C:\Users\Afanasiev_MA\Desktop\2017.12.14 InterfaceDemo\UsbTest\bin\Debug\UsbTest.exe.config
+C:\Users\Afanasiev_MA\Desktop\2017.12.14 InterfaceDemo\UsbTest\obj\Debug\UsbTest.exe
+C:\Users\Afanasiev_MA\Desktop\2017.12.14 InterfaceDemo\UsbTest\obj\Debug\UsbTest.pdb
+C:\Users\Afanasiev_MA\Desktop\2017.12.14 InterfaceDemo\UsbTest\bin\Debug\UsbTest.exe
+C:\Users\Afanasiev_MA\Desktop\2017.12.14 InterfaceDemo\UsbTest\bin\Debug\UsbTest.pdb
+C:\Users\Afanasiev_MA\Desktop\2017.12.14 InterfaceDemo\UsbTest\bin\Debug\DataSaver.dll
+C:\Users\Afanasiev_MA\Desktop\2017.12.14 InterfaceDemo\UsbTest\bin\Debug\FTD3XX_NET.dll
+C:\Users\Afanasiev_MA\Desktop\2017.12.14 InterfaceDemo\UsbTest\bin\Debug\NAudio.dll
+C:\Users\Afanasiev_MA\Desktop\2017.12.14 InterfaceDemo\UsbTest\bin\Debug\ZedGraph.dll
+C:\Users\Afanasiev_MA\Desktop\2017.12.14 InterfaceDemo\UsbTest\bin\Debug\DataSaver.pdb
+C:\Users\Afanasiev_MA\Desktop\2017.12.14 InterfaceDemo\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+C:\Users\Afanasiev_MA\Desktop\2017.12.14 InterfaceDemo\UsbTest\obj\Debug\UsbTest.AverageSettings.resources
+C:\Users\Afanasiev_MA\Desktop\2017.12.14 InterfaceDemo\UsbTest\obj\Debug\UsbTest.Calibration.resources
+C:\Users\Afanasiev_MA\Desktop\2017.12.14 InterfaceDemo\UsbTest\obj\Debug\UsbTest.TableForm.resources
+C:\Users\Afanasiev_MA\Desktop\2017.12.14 InterfaceDemo\UsbTest\obj\Debug\UsbTest.Main.resources
+C:\Users\Afanasiev_MA\Desktop\2017.12.14 InterfaceDemo\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+C:\Users\Afanasiev_MA\Desktop\2017.12.14 InterfaceDemo\UsbTest\obj\Debug\UsbTest.Settings.resources
+C:\Users\Afanasiev_MA\Desktop\2017.12.14 InterfaceDemo\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\2017.12.28 InterfaceDemo\UsbTest\bin\Debug\UsbTest.exe.config
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\2017.12.28 InterfaceDemo\UsbTest\bin\Debug\UsbTest.exe
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\2017.12.28 InterfaceDemo\UsbTest\bin\Debug\UsbTest.pdb
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\2017.12.28 InterfaceDemo\UsbTest\bin\Debug\DataSaver.dll
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\2017.12.28 InterfaceDemo\UsbTest\bin\Debug\FTD3XX_NET.dll
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\2017.12.28 InterfaceDemo\UsbTest\bin\Debug\NAudio.dll
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\2017.12.28 InterfaceDemo\UsbTest\bin\Debug\ZedGraph.dll
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\2017.12.28 InterfaceDemo\UsbTest\bin\Debug\DataSaver.pdb
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\2017.12.28 InterfaceDemo\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\2017.12.28 InterfaceDemo\UsbTest\obj\Debug\UsbTest.AverageSettings.resources
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\2017.12.28 InterfaceDemo\UsbTest\obj\Debug\UsbTest.Calibration.resources
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\2017.12.28 InterfaceDemo\UsbTest\obj\Debug\UsbTest.TableForm.resources
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\2017.12.28 InterfaceDemo\UsbTest\obj\Debug\UsbTest.Main.resources
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\2017.12.28 InterfaceDemo\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\2017.12.28 InterfaceDemo\UsbTest\obj\Debug\UsbTest.Settings.resources
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\2017.12.28 InterfaceDemo\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\2017.12.28 InterfaceDemo\UsbTest\obj\Debug\UsbTest.exe
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\2017.12.28 InterfaceDemo\UsbTest\obj\Debug\UsbTest.pdb
+C:\Users\Afanasiev_MA\Desktop\2018.01.09 InterfaceDemo\UsbTest\bin\Debug\UsbTest.exe.config
+C:\Users\Afanasiev_MA\Desktop\2018.01.09 InterfaceDemo\UsbTest\obj\Debug\UsbTest.exe
+C:\Users\Afanasiev_MA\Desktop\2018.01.09 InterfaceDemo\UsbTest\obj\Debug\UsbTest.pdb
+C:\Users\Afanasiev_MA\Desktop\2018.01.09 InterfaceDemo\UsbTest\bin\Debug\UsbTest.exe
+C:\Users\Afanasiev_MA\Desktop\2018.01.09 InterfaceDemo\UsbTest\bin\Debug\UsbTest.pdb
+C:\Users\Afanasiev_MA\Desktop\2018.01.09 InterfaceDemo\UsbTest\bin\Debug\DataSaver.dll
+C:\Users\Afanasiev_MA\Desktop\2018.01.09 InterfaceDemo\UsbTest\bin\Debug\FTD3XX_NET.dll
+C:\Users\Afanasiev_MA\Desktop\2018.01.09 InterfaceDemo\UsbTest\bin\Debug\NAudio.dll
+C:\Users\Afanasiev_MA\Desktop\2018.01.09 InterfaceDemo\UsbTest\bin\Debug\ZedGraph.dll
+C:\Users\Afanasiev_MA\Desktop\2018.01.09 InterfaceDemo\UsbTest\bin\Debug\DataSaver.pdb
+C:\Users\Afanasiev_MA\Desktop\2018.01.09 InterfaceDemo\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+C:\Users\Afanasiev_MA\Desktop\2018.01.09 InterfaceDemo\UsbTest\obj\Debug\UsbTest.AverageSettings.resources
+C:\Users\Afanasiev_MA\Desktop\2018.01.09 InterfaceDemo\UsbTest\obj\Debug\UsbTest.Calibration.resources
+C:\Users\Afanasiev_MA\Desktop\2018.01.09 InterfaceDemo\UsbTest\obj\Debug\UsbTest.TableForm.resources
+C:\Users\Afanasiev_MA\Desktop\2018.01.09 InterfaceDemo\UsbTest\obj\Debug\UsbTest.Main.resources
+C:\Users\Afanasiev_MA\Desktop\2018.01.09 InterfaceDemo\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+C:\Users\Afanasiev_MA\Desktop\2018.01.09 InterfaceDemo\UsbTest\obj\Debug\UsbTest.Settings.resources
+C:\Users\Afanasiev_MA\Desktop\2018.01.09 InterfaceDemo\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+F:\2018.01.09 InterfaceDemo\UsbTest\bin\Debug\UsbTest.exe.config
+F:\2018.01.09 InterfaceDemo\UsbTest\obj\Debug\UsbTest.exe
+F:\2018.01.09 InterfaceDemo\UsbTest\obj\Debug\UsbTest.pdb
+F:\2018.01.09 InterfaceDemo\UsbTest\bin\Debug\UsbTest.exe
+F:\2018.01.09 InterfaceDemo\UsbTest\bin\Debug\UsbTest.pdb
+F:\2018.01.09 InterfaceDemo\UsbTest\bin\Debug\DataSaver.dll
+F:\2018.01.09 InterfaceDemo\UsbTest\bin\Debug\FTD3XX_NET.dll
+F:\2018.01.09 InterfaceDemo\UsbTest\bin\Debug\NAudio.dll
+F:\2018.01.09 InterfaceDemo\UsbTest\bin\Debug\ZedGraph.dll
+F:\2018.01.09 InterfaceDemo\UsbTest\bin\Debug\DataSaver.pdb
+F:\2018.01.09 InterfaceDemo\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+F:\2018.01.09 InterfaceDemo\UsbTest\obj\Debug\UsbTest.AverageSettings.resources
+F:\2018.01.09 InterfaceDemo\UsbTest\obj\Debug\UsbTest.Calibration.resources
+F:\2018.01.09 InterfaceDemo\UsbTest\obj\Debug\UsbTest.TableForm.resources
+F:\2018.01.09 InterfaceDemo\UsbTest\obj\Debug\UsbTest.Main.resources
+F:\2018.01.09 InterfaceDemo\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+F:\2018.01.09 InterfaceDemo\UsbTest\obj\Debug\UsbTest.Settings.resources
+F:\2018.01.09 InterfaceDemo\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+F:\2018.01.09 InterfaceDemo\UsbTest\obj\Debug\UsbTest.TestingForm.resources
+C:\Users\NIO4\Desktop\2018.01.09 InterfaceDemo\UsbTest\bin\Debug\UsbTest.exe.config
+C:\Users\NIO4\Desktop\2018.01.09 InterfaceDemo\UsbTest\obj\Debug\UsbTest.exe
+C:\Users\NIO4\Desktop\2018.01.09 InterfaceDemo\UsbTest\obj\Debug\UsbTest.pdb
+C:\Users\NIO4\Desktop\2018.01.09 InterfaceDemo\UsbTest\bin\Debug\UsbTest.exe
+C:\Users\NIO4\Desktop\2018.01.09 InterfaceDemo\UsbTest\bin\Debug\UsbTest.pdb
+C:\Users\NIO4\Desktop\2018.01.09 InterfaceDemo\UsbTest\bin\Debug\DataSaver.dll
+C:\Users\NIO4\Desktop\2018.01.09 InterfaceDemo\UsbTest\bin\Debug\FTD3XX_NET.dll
+C:\Users\NIO4\Desktop\2018.01.09 InterfaceDemo\UsbTest\bin\Debug\NAudio.dll
+C:\Users\NIO4\Desktop\2018.01.09 InterfaceDemo\UsbTest\bin\Debug\ZedGraph.dll
+C:\Users\NIO4\Desktop\2018.01.09 InterfaceDemo\UsbTest\bin\Debug\DataSaver.pdb
+C:\Users\NIO4\Desktop\2018.01.09 InterfaceDemo\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+C:\Users\NIO4\Desktop\2018.01.09 InterfaceDemo\UsbTest\obj\Debug\UsbTest.AverageSettings.resources
+C:\Users\NIO4\Desktop\2018.01.09 InterfaceDemo\UsbTest\obj\Debug\UsbTest.Calibration.resources
+C:\Users\NIO4\Desktop\2018.01.09 InterfaceDemo\UsbTest\obj\Debug\UsbTest.TableForm.resources
+C:\Users\NIO4\Desktop\2018.01.09 InterfaceDemo\UsbTest\obj\Debug\UsbTest.Main.resources
+C:\Users\NIO4\Desktop\2018.01.09 InterfaceDemo\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+C:\Users\NIO4\Desktop\2018.01.09 InterfaceDemo\UsbTest\obj\Debug\UsbTest.Settings.resources
+C:\Users\NIO4\Desktop\2018.01.09 InterfaceDemo\UsbTest\obj\Debug\UsbTest.TestingForm.resources
+C:\Users\NIO4\Desktop\2018.01.09 InterfaceDemo\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+F:\! VZOR SOFT\2018.01.16 InterfaceDemo errorsCount\UsbTest\bin\Debug\UsbTest.exe.config
+F:\! VZOR SOFT\2018.01.16 InterfaceDemo errorsCount\UsbTest\obj\Debug\UsbTest.exe
+F:\! VZOR SOFT\2018.01.16 InterfaceDemo errorsCount\UsbTest\obj\Debug\UsbTest.pdb
+F:\! VZOR SOFT\2018.01.16 InterfaceDemo errorsCount\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+F:\! VZOR SOFT\2018.01.16 InterfaceDemo errorsCount\UsbTest\obj\Debug\UsbTest.AverageSettings.resources
+F:\! VZOR SOFT\2018.01.16 InterfaceDemo errorsCount\UsbTest\obj\Debug\UsbTest.Calibration.resources
+F:\! VZOR SOFT\2018.01.16 InterfaceDemo errorsCount\UsbTest\obj\Debug\UsbTest.TableForm.resources
+F:\! VZOR SOFT\2018.01.16 InterfaceDemo errorsCount\UsbTest\obj\Debug\UsbTest.Main.resources
+F:\! VZOR SOFT\2018.01.16 InterfaceDemo errorsCount\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+F:\! VZOR SOFT\2018.01.16 InterfaceDemo errorsCount\UsbTest\obj\Debug\UsbTest.Settings.resources
+F:\! VZOR SOFT\2018.01.16 InterfaceDemo errorsCount\UsbTest\obj\Debug\UsbTest.TestingForm.resources
+F:\! VZOR SOFT\2018.01.16 InterfaceDemo errorsCount\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+F:\! VZOR SOFT\2018.01.16 InterfaceDemo errorsCount\UsbTest\bin\Debug\UsbTest.exe
+F:\! VZOR SOFT\2018.01.16 InterfaceDemo errorsCount\UsbTest\bin\Debug\UsbTest.pdb
+F:\! VZOR SOFT\2018.01.16 InterfaceDemo errorsCount\UsbTest\bin\Debug\DataSaver.dll
+F:\! VZOR SOFT\2018.01.16 InterfaceDemo errorsCount\UsbTest\bin\Debug\FTD3XX_NET.dll
+F:\! VZOR SOFT\2018.01.16 InterfaceDemo errorsCount\UsbTest\bin\Debug\NAudio.dll
+F:\! VZOR SOFT\2018.01.16 InterfaceDemo errorsCount\UsbTest\bin\Debug\ZedGraph.dll
+F:\! VZOR SOFT\2018.01.16 InterfaceDemo errorsCount\UsbTest\bin\Debug\DataSaver.pdb
+F:\! VZOR SOFT\2018.01.17 InterfaceDemo peakSearch+calibrationFix\UsbTest\bin\Debug\UsbTest.exe.config
+F:\! VZOR SOFT\2018.01.17 InterfaceDemo peakSearch+calibrationFix\UsbTest\obj\Debug\UsbTest.exe
+F:\! VZOR SOFT\2018.01.17 InterfaceDemo peakSearch+calibrationFix\UsbTest\obj\Debug\UsbTest.pdb
+F:\! VZOR SOFT\2018.01.17 InterfaceDemo peakSearch+calibrationFix\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+F:\! VZOR SOFT\2018.01.17 InterfaceDemo peakSearch+calibrationFix\UsbTest\obj\Debug\UsbTest.AverageSettings.resources
+F:\! VZOR SOFT\2018.01.17 InterfaceDemo peakSearch+calibrationFix\UsbTest\obj\Debug\UsbTest.Calibration.resources
+F:\! VZOR SOFT\2018.01.17 InterfaceDemo peakSearch+calibrationFix\UsbTest\obj\Debug\UsbTest.TableForm.resources
+F:\! VZOR SOFT\2018.01.17 InterfaceDemo peakSearch+calibrationFix\UsbTest\obj\Debug\UsbTest.Main.resources
+F:\! VZOR SOFT\2018.01.17 InterfaceDemo peakSearch+calibrationFix\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+F:\! VZOR SOFT\2018.01.17 InterfaceDemo peakSearch+calibrationFix\UsbTest\obj\Debug\UsbTest.Settings.resources
+F:\! VZOR SOFT\2018.01.17 InterfaceDemo peakSearch+calibrationFix\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+F:\! VZOR SOFT\2018.01.17 InterfaceDemo peakSearch+calibrationFix\UsbTest\bin\Debug\UsbTest.exe
+F:\! VZOR SOFT\2018.01.17 InterfaceDemo peakSearch+calibrationFix\UsbTest\bin\Debug\UsbTest.pdb
+F:\! VZOR SOFT\2018.01.17 InterfaceDemo peakSearch+calibrationFix\UsbTest\bin\Debug\DataSaver.dll
+F:\! VZOR SOFT\2018.01.17 InterfaceDemo peakSearch+calibrationFix\UsbTest\bin\Debug\FTD3XX_NET.dll
+F:\! VZOR SOFT\2018.01.17 InterfaceDemo peakSearch+calibrationFix\UsbTest\bin\Debug\NAudio.dll
+F:\! VZOR SOFT\2018.01.17 InterfaceDemo peakSearch+calibrationFix\UsbTest\bin\Debug\ZedGraph.dll
+F:\! VZOR SOFT\2018.01.17 InterfaceDemo peakSearch+calibrationFix\UsbTest\bin\Debug\DataSaver.pdb
+F:\! VZOR SOFT\2018.01.17 InterfaceDemo peakSearch+calibrationFix\UsbTest\obj\Debug\UsbTest.DN_View.resources
+D:\nil-44\2018.01.23 InterfaceDemo SKO\UsbTest\bin\Debug\UsbTest.exe.config
+D:\nil-44\2018.01.23 InterfaceDemo SKO\UsbTest\obj\Debug\UsbTest.exe
+D:\nil-44\2018.01.23 InterfaceDemo SKO\UsbTest\obj\Debug\UsbTest.pdb
+D:\nil-44\2018.01.23 InterfaceDemo SKO\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+D:\nil-44\2018.01.23 InterfaceDemo SKO\UsbTest\obj\Debug\UsbTest.AverageSettings.resources
+D:\nil-44\2018.01.23 InterfaceDemo SKO\UsbTest\obj\Debug\UsbTest.Calibration.resources
+D:\nil-44\2018.01.23 InterfaceDemo SKO\UsbTest\obj\Debug\UsbTest.DN_View.resources
+D:\nil-44\2018.01.23 InterfaceDemo SKO\UsbTest\obj\Debug\UsbTest.TableForm.resources
+D:\nil-44\2018.01.23 InterfaceDemo SKO\UsbTest\obj\Debug\UsbTest.Main.resources
+D:\nil-44\2018.01.23 InterfaceDemo SKO\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+D:\nil-44\2018.01.23 InterfaceDemo SKO\UsbTest\obj\Debug\UsbTest.Settings.resources
+D:\nil-44\2018.01.23 InterfaceDemo SKO\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+D:\nil-44\2018.01.23 InterfaceDemo SKO\UsbTest\bin\Debug\UsbTest.exe
+D:\nil-44\2018.01.23 InterfaceDemo SKO\UsbTest\bin\Debug\UsbTest.pdb
+D:\nil-44\2018.01.23 InterfaceDemo SKO\UsbTest\bin\Debug\DataSaver.dll
+D:\nil-44\2018.01.23 InterfaceDemo SKO\UsbTest\bin\Debug\FTD3XX_NET.dll
+D:\nil-44\2018.01.23 InterfaceDemo SKO\UsbTest\bin\Debug\NAudio.dll
+D:\nil-44\2018.01.23 InterfaceDemo SKO\UsbTest\bin\Debug\ZedGraph.dll
+D:\nil-44\2018.01.23 InterfaceDemo SKO\UsbTest\bin\Debug\DataSaver.pdb
+D:\nil-44\2018.01.24 InterfaceDemo SKOx10\UsbTest\bin\Debug\UsbTest.exe.config
+D:\nil-44\2018.01.24 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.exe
+D:\nil-44\2018.01.24 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.pdb
+D:\nil-44\2018.01.24 InterfaceDemo SKOx10\UsbTest\bin\Debug\UsbTest.exe
+D:\nil-44\2018.01.24 InterfaceDemo SKOx10\UsbTest\bin\Debug\UsbTest.pdb
+D:\nil-44\2018.01.24 InterfaceDemo SKOx10\UsbTest\bin\Debug\DataSaver.dll
+D:\nil-44\2018.01.24 InterfaceDemo SKOx10\UsbTest\bin\Debug\FTD3XX_NET.dll
+D:\nil-44\2018.01.24 InterfaceDemo SKOx10\UsbTest\bin\Debug\NAudio.dll
+D:\nil-44\2018.01.24 InterfaceDemo SKOx10\UsbTest\bin\Debug\ZedGraph.dll
+D:\nil-44\2018.01.24 InterfaceDemo SKOx10\UsbTest\bin\Debug\DataSaver.pdb
+D:\nil-44\2018.01.24 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+D:\nil-44\2018.01.24 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.AverageSettings.resources
+D:\nil-44\2018.01.24 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.Calibration.resources
+D:\nil-44\2018.01.24 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.DN_View.resources
+D:\nil-44\2018.01.24 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.TableForm.resources
+D:\nil-44\2018.01.24 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.Main.resources
+D:\nil-44\2018.01.24 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+D:\nil-44\2018.01.24 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.Settings.resources
+D:\nil-44\2018.01.24 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+g:\! VZOR SOFT\2018.01.24 InterfaceDemo SKOx10\UsbTest\bin\Debug\UsbTest.exe.config
+g:\! VZOR SOFT\2018.01.24 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.exe
+g:\! VZOR SOFT\2018.01.24 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.pdb
+F:\! VZOR SOFT\2018.01.24 InterfaceDemo SKOx10\UsbTest\bin\Debug\UsbTest.exe.config
+F:\! VZOR SOFT\2018.01.24 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.exe
+F:\! VZOR SOFT\2018.01.24 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.pdb
+D:\ВЗОР\! VZOR SOFT\2018.01.24 InterfaceDemo SKOx10\UsbTest\bin\Debug\UsbTest.exe.config
+D:\ВЗОР\! VZOR SOFT\2018.01.24 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.exe
+D:\ВЗОР\! VZOR SOFT\2018.01.24 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.pdb
+C:\Users\Afanasiev_MA\Desktop\2018.01.24 InterfaceDemo SKOx10\UsbTest\bin\Debug\UsbTest.exe.config
+C:\Users\Afanasiev_MA\Desktop\2018.01.24 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.exe
+C:\Users\Afanasiev_MA\Desktop\2018.01.24 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.pdb
+C:\Users\Afanasiev_MA\Desktop\2018.01.24 InterfaceDemo SKOx10\UsbTest\bin\Debug\UsbTest.exe
+C:\Users\Afanasiev_MA\Desktop\2018.01.24 InterfaceDemo SKOx10\UsbTest\bin\Debug\UsbTest.pdb
+C:\Users\Afanasiev_MA\Desktop\2018.01.24 InterfaceDemo SKOx10\UsbTest\bin\Debug\DataSaver.dll
+C:\Users\Afanasiev_MA\Desktop\2018.01.24 InterfaceDemo SKOx10\UsbTest\bin\Debug\FTD3XX_NET.dll
+C:\Users\Afanasiev_MA\Desktop\2018.01.24 InterfaceDemo SKOx10\UsbTest\bin\Debug\NAudio.dll
+C:\Users\Afanasiev_MA\Desktop\2018.01.24 InterfaceDemo SKOx10\UsbTest\bin\Debug\ZedGraph.dll
+C:\Users\Afanasiev_MA\Desktop\2018.01.24 InterfaceDemo SKOx10\UsbTest\bin\Debug\DataSaver.pdb
+C:\Users\Afanasiev_MA\Desktop\2018.01.24 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+C:\Users\Afanasiev_MA\Desktop\2018.01.24 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.AverageSettings.resources
+C:\Users\Afanasiev_MA\Desktop\2018.01.24 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.Calibration.resources
+C:\Users\Afanasiev_MA\Desktop\2018.01.24 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.DN_View.resources
+C:\Users\Afanasiev_MA\Desktop\2018.01.24 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.TableForm.resources
+C:\Users\Afanasiev_MA\Desktop\2018.01.24 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.Main.resources
+C:\Users\Afanasiev_MA\Desktop\2018.01.24 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+C:\Users\Afanasiev_MA\Desktop\2018.01.24 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.Settings.resources
+C:\Users\Afanasiev_MA\Desktop\2018.01.24 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+C:\Users\Afanasiev_MA\Desktop\2018.03.05 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.AverageSettings.resources
+C:\Users\Afanasiev_MA\Desktop\2018.03.05 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.Calibration.resources
+C:\Users\Afanasiev_MA\Desktop\2018.03.05 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.DN_View.resources
+C:\Users\Afanasiev_MA\Desktop\2018.03.05 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.TableForm.resources
+C:\Users\Afanasiev_MA\Desktop\2018.03.05 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.Main.resources
+C:\Users\Afanasiev_MA\Desktop\2018.03.05 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+C:\Users\Afanasiev_MA\Desktop\2018.03.05 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.Settings.resources
+C:\Users\Afanasiev_MA\Desktop\2018.03.05 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+C:\Users\Afanasiev_MA\Desktop\2018.03.05 InterfaceDemo SKOx10\UsbTest\bin\Debug\UsbTest.exe.config
+C:\Users\Afanasiev_MA\Desktop\2018.03.05 InterfaceDemo SKOx10\UsbTest\bin\Debug\UsbTest.exe
+C:\Users\Afanasiev_MA\Desktop\2018.03.05 InterfaceDemo SKOx10\UsbTest\bin\Debug\UsbTest.pdb
+C:\Users\Afanasiev_MA\Desktop\2018.03.05 InterfaceDemo SKOx10\UsbTest\bin\Debug\DataSaver.dll
+C:\Users\Afanasiev_MA\Desktop\2018.03.05 InterfaceDemo SKOx10\UsbTest\bin\Debug\FTD3XX_NET.dll
+C:\Users\Afanasiev_MA\Desktop\2018.03.05 InterfaceDemo SKOx10\UsbTest\bin\Debug\NAudio.dll
+C:\Users\Afanasiev_MA\Desktop\2018.03.05 InterfaceDemo SKOx10\UsbTest\bin\Debug\ZedGraph.dll
+C:\Users\Afanasiev_MA\Desktop\2018.03.05 InterfaceDemo SKOx10\UsbTest\bin\Debug\DataSaver.pdb
+C:\Users\Afanasiev_MA\Desktop\2018.03.05 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+C:\Users\Afanasiev_MA\Desktop\2018.03.05 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.exe
+C:\Users\Afanasiev_MA\Desktop\2018.03.05 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.pdb
+F:\2018.03.05 InterfaceDemo SKOx10\UsbTest\bin\Debug\UsbTest.exe.config
+F:\2018.03.05 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.exe
+F:\2018.03.05 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.pdb
+F:\2018.03.05 InterfaceDemo SKOx10\UsbTest\bin\Debug\UsbTest.exe
+F:\2018.03.05 InterfaceDemo SKOx10\UsbTest\bin\Debug\UsbTest.pdb
+F:\2018.03.05 InterfaceDemo SKOx10\UsbTest\bin\Debug\DataSaver.dll
+F:\2018.03.05 InterfaceDemo SKOx10\UsbTest\bin\Debug\FTD3XX_NET.dll
+F:\2018.03.05 InterfaceDemo SKOx10\UsbTest\bin\Debug\NAudio.dll
+F:\2018.03.05 InterfaceDemo SKOx10\UsbTest\bin\Debug\ZedGraph.dll
+F:\2018.03.05 InterfaceDemo SKOx10\UsbTest\bin\Debug\DataSaver.pdb
+F:\2018.03.05 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+F:\2018.03.05 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.AverageSettings.resources
+F:\2018.03.05 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.Calibration.resources
+F:\2018.03.05 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.DN_View.resources
+F:\2018.03.05 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.TableForm.resources
+F:\2018.03.05 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.Main.resources
+F:\2018.03.05 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+F:\2018.03.05 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.Settings.resources
+F:\2018.03.05 InterfaceDemo SKOx10\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+D:\nil-44\VZOR\SW\2018.03.14 SW_Pelengator\UsbTest\bin\Debug\UsbTest.exe.config
+D:\nil-44\VZOR\SW\2018.03.14 SW_Pelengator\UsbTest\obj\Debug\UsbTest.exe
+D:\nil-44\VZOR\SW\2018.03.14 SW_Pelengator\UsbTest\obj\Debug\UsbTest.pdb
+D:\nil-44\VZOR\SW\2018.03.14 SW_Pelengator\UsbTest\bin\Debug\UsbTest.exe
+D:\nil-44\VZOR\SW\2018.03.14 SW_Pelengator\UsbTest\bin\Debug\UsbTest.pdb
+D:\nil-44\VZOR\SW\2018.03.14 SW_Pelengator\UsbTest\bin\Debug\DataSaver.dll
+D:\nil-44\VZOR\SW\2018.03.14 SW_Pelengator\UsbTest\bin\Debug\FTD3XX_NET.dll
+D:\nil-44\VZOR\SW\2018.03.14 SW_Pelengator\UsbTest\bin\Debug\NAudio.dll
+D:\nil-44\VZOR\SW\2018.03.14 SW_Pelengator\UsbTest\bin\Debug\ZedGraph.dll
+D:\nil-44\VZOR\SW\2018.03.14 SW_Pelengator\UsbTest\bin\Debug\DataSaver.pdb
+D:\nil-44\VZOR\SW\2018.03.14 SW_Pelengator\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+D:\nil-44\VZOR\SW\2018.03.14 SW_Pelengator\UsbTest\obj\Debug\UsbTest.AverageSettings.resources
+D:\nil-44\VZOR\SW\2018.03.14 SW_Pelengator\UsbTest\obj\Debug\UsbTest.Calibration.resources
+D:\nil-44\VZOR\SW\2018.03.14 SW_Pelengator\UsbTest\obj\Debug\UsbTest.DN_View.resources
+D:\nil-44\VZOR\SW\2018.03.14 SW_Pelengator\UsbTest\obj\Debug\UsbTest.TableForm.resources
+D:\nil-44\VZOR\SW\2018.03.14 SW_Pelengator\UsbTest\obj\Debug\UsbTest.Main.resources
+D:\nil-44\VZOR\SW\2018.03.14 SW_Pelengator\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+D:\nil-44\VZOR\SW\2018.03.14 SW_Pelengator\UsbTest\obj\Debug\UsbTest.Settings.resources
+D:\nil-44\VZOR\SW\2018.03.14 SW_Pelengator\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+C:\Users\Afanasiev_MA\Desktop\2018.03.15 SW_Pelengator\UsbTest\bin\Debug\UsbTest.exe.config
+C:\Users\Afanasiev_MA\Desktop\2018.03.15 SW_Pelengator\UsbTest\obj\Debug\UsbTest.exe
+C:\Users\Afanasiev_MA\Desktop\2018.03.15 SW_Pelengator\UsbTest\obj\Debug\UsbTest.pdb
+C:\Users\Afanasiev_MA\Desktop\2018.03.15 SW_Pelengator\UsbTest\bin\Debug\UsbTest.exe
+C:\Users\Afanasiev_MA\Desktop\2018.03.15 SW_Pelengator\UsbTest\bin\Debug\UsbTest.pdb
+C:\Users\Afanasiev_MA\Desktop\2018.03.15 SW_Pelengator\UsbTest\bin\Debug\DataSaver.dll
+C:\Users\Afanasiev_MA\Desktop\2018.03.15 SW_Pelengator\UsbTest\bin\Debug\FTD3XX_NET.dll
+C:\Users\Afanasiev_MA\Desktop\2018.03.15 SW_Pelengator\UsbTest\bin\Debug\NAudio.dll
+C:\Users\Afanasiev_MA\Desktop\2018.03.15 SW_Pelengator\UsbTest\bin\Debug\ZedGraph.dll
+C:\Users\Afanasiev_MA\Desktop\2018.03.15 SW_Pelengator\UsbTest\bin\Debug\DataSaver.pdb
+C:\Users\Afanasiev_MA\Desktop\2018.03.15 SW_Pelengator\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+C:\Users\Afanasiev_MA\Desktop\2018.03.15 SW_Pelengator\UsbTest\obj\Debug\UsbTest.AverageSettings.resources
+C:\Users\Afanasiev_MA\Desktop\2018.03.15 SW_Pelengator\UsbTest\obj\Debug\UsbTest.Calibration.resources
+C:\Users\Afanasiev_MA\Desktop\2018.03.15 SW_Pelengator\UsbTest\obj\Debug\UsbTest.DN_View.resources
+C:\Users\Afanasiev_MA\Desktop\2018.03.15 SW_Pelengator\UsbTest\obj\Debug\UsbTest.TableForm.resources
+C:\Users\Afanasiev_MA\Desktop\2018.03.15 SW_Pelengator\UsbTest\obj\Debug\UsbTest.Main.resources
+C:\Users\Afanasiev_MA\Desktop\2018.03.15 SW_Pelengator\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+C:\Users\Afanasiev_MA\Desktop\2018.03.15 SW_Pelengator\UsbTest\obj\Debug\UsbTest.Settings.resources
+C:\Users\Afanasiev_MA\Desktop\2018.03.15 SW_Pelengator\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+F:\2018.03.15 SW_Pelengator Rot1\UsbTest\bin\Debug\UsbTest.exe.config
+F:\2018.03.15 SW_Pelengator Rot1\UsbTest\obj\Debug\UsbTest.exe
+F:\2018.03.15 SW_Pelengator Rot1\UsbTest\obj\Debug\UsbTest.pdb
+F:\2018.03.15 SW_Pelengator Rot1\UsbTest\bin\Debug\UsbTest.exe
+F:\2018.03.15 SW_Pelengator Rot1\UsbTest\bin\Debug\UsbTest.pdb
+F:\2018.03.15 SW_Pelengator Rot1\UsbTest\bin\Debug\DataSaver.dll
+F:\2018.03.15 SW_Pelengator Rot1\UsbTest\bin\Debug\FTD3XX_NET.dll
+F:\2018.03.15 SW_Pelengator Rot1\UsbTest\bin\Debug\NAudio.dll
+F:\2018.03.15 SW_Pelengator Rot1\UsbTest\bin\Debug\ZedGraph.dll
+F:\2018.03.15 SW_Pelengator Rot1\UsbTest\bin\Debug\DataSaver.pdb
+F:\2018.03.15 SW_Pelengator Rot1\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+F:\2018.03.15 SW_Pelengator Rot1\UsbTest\obj\Debug\UsbTest.AverageSettings.resources
+F:\2018.03.15 SW_Pelengator Rot1\UsbTest\obj\Debug\UsbTest.Calibration.resources
+F:\2018.03.15 SW_Pelengator Rot1\UsbTest\obj\Debug\UsbTest.DN_View.resources
+F:\2018.03.15 SW_Pelengator Rot1\UsbTest\obj\Debug\UsbTest.TableForm.resources
+F:\2018.03.15 SW_Pelengator Rot1\UsbTest\obj\Debug\UsbTest.Main.resources
+F:\2018.03.15 SW_Pelengator Rot1\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+F:\2018.03.15 SW_Pelengator Rot1\UsbTest\obj\Debug\UsbTest.Settings.resources
+F:\2018.03.15 SW_Pelengator Rot1\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+F:\2018.03.20 SW_Pelengator RotatorCOM\UsbTest\bin\Debug\UsbTest.exe.config
+F:\2018.03.20 SW_Pelengator RotatorCOM\UsbTest\obj\Debug\UsbTest.exe
+F:\2018.03.20 SW_Pelengator RotatorCOM\UsbTest\obj\Debug\UsbTest.pdb
+F:\2018.03.20 SW_Pelengator RotatorCOM\UsbTest\bin\Debug\UsbTest.exe
+F:\2018.03.20 SW_Pelengator RotatorCOM\UsbTest\bin\Debug\UsbTest.pdb
+F:\2018.03.20 SW_Pelengator RotatorCOM\UsbTest\bin\Debug\DataSaver.dll
+F:\2018.03.20 SW_Pelengator RotatorCOM\UsbTest\bin\Debug\FTD3XX_NET.dll
+F:\2018.03.20 SW_Pelengator RotatorCOM\UsbTest\bin\Debug\NAudio.dll
+F:\2018.03.20 SW_Pelengator RotatorCOM\UsbTest\bin\Debug\ZedGraph.dll
+F:\2018.03.20 SW_Pelengator RotatorCOM\UsbTest\bin\Debug\DataSaver.pdb
+F:\2018.03.20 SW_Pelengator RotatorCOM\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+F:\2018.03.20 SW_Pelengator RotatorCOM\UsbTest\obj\Debug\UsbTest.AverageSettings.resources
+F:\2018.03.20 SW_Pelengator RotatorCOM\UsbTest\obj\Debug\UsbTest.Calibration.resources
+F:\2018.03.20 SW_Pelengator RotatorCOM\UsbTest\obj\Debug\UsbTest.DN_View.resources
+F:\2018.03.20 SW_Pelengator RotatorCOM\UsbTest\obj\Debug\UsbTest.TableForm.resources
+F:\2018.03.20 SW_Pelengator RotatorCOM\UsbTest\obj\Debug\UsbTest.Main.resources
+F:\2018.03.20 SW_Pelengator RotatorCOM\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+F:\2018.03.20 SW_Pelengator RotatorCOM\UsbTest\obj\Debug\UsbTest.Settings.resources
+F:\2018.03.20 SW_Pelengator RotatorCOM\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+C:\Users\NIO4\Desktop\2018.03.20 SW_Pelengator RotatorCOM\UsbTest\bin\Debug\UsbTest.exe.config
+C:\Users\NIO4\Desktop\2018.03.20 SW_Pelengator RotatorCOM\UsbTest\obj\Debug\UsbTest.exe
+C:\Users\NIO4\Desktop\2018.03.20 SW_Pelengator RotatorCOM\UsbTest\obj\Debug\UsbTest.pdb
+C:\Users\NIO4\Desktop\2018.03.20 SW_Pelengator RotatorCOM\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+C:\Users\NIO4\Desktop\2018.03.20 SW_Pelengator RotatorCOM\UsbTest\obj\Debug\UsbTest.AverageSettings.resources
+C:\Users\NIO4\Desktop\2018.03.20 SW_Pelengator RotatorCOM\UsbTest\obj\Debug\UsbTest.Calibration.resources
+C:\Users\NIO4\Desktop\2018.03.20 SW_Pelengator RotatorCOM\UsbTest\obj\Debug\UsbTest.DN_View.resources
+C:\Users\NIO4\Desktop\2018.03.20 SW_Pelengator RotatorCOM\UsbTest\obj\Debug\UsbTest.MapSettings.resources
+C:\Users\NIO4\Desktop\2018.03.20 SW_Pelengator RotatorCOM\UsbTest\obj\Debug\UsbTest.TableForm.resources
+C:\Users\NIO4\Desktop\2018.03.20 SW_Pelengator RotatorCOM\UsbTest\obj\Debug\UsbTest.Main.resources
+C:\Users\NIO4\Desktop\2018.03.20 SW_Pelengator RotatorCOM\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+C:\Users\NIO4\Desktop\2018.03.20 SW_Pelengator RotatorCOM\UsbTest\obj\Debug\UsbTest.Settings.resources
+C:\Users\NIO4\Desktop\2018.03.20 SW_Pelengator RotatorCOM\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+F:\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\bin\Debug\UsbTest.exe.config
+F:\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\obj\Debug\UsbTest.exe
+F:\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\obj\Debug\UsbTest.pdb
+F:\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+F:\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\obj\Debug\UsbTest.AverageSettings.resources
+F:\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\obj\Debug\UsbTest.Calibration.resources
+F:\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\obj\Debug\UsbTest.DN_View.resources
+F:\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\obj\Debug\UsbTest.MapSettings.resources
+F:\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\obj\Debug\UsbTest.TableForm.resources
+F:\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\obj\Debug\UsbTest.Main.resources
+F:\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+F:\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\obj\Debug\UsbTest.Settings.resources
+F:\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+F:\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\bin\Debug\UsbTest.exe
+F:\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\bin\Debug\UsbTest.pdb
+F:\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\bin\Debug\DataSaver.dll
+F:\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\bin\Debug\FTD3XX_NET.dll
+F:\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\bin\Debug\NAudio.dll
+F:\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\bin\Debug\ZedGraph.dll
+F:\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\bin\Debug\DataSaver.pdb
+F:\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\bin\Debug\MySql.Data.dll
+F:\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\bin\Debug\MySql.Data.xml
+C:\Users\NIO4\Desktop\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\bin\Debug\UsbTest.exe.config
+C:\Users\NIO4\Desktop\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\obj\Debug\UsbTest.exe
+C:\Users\NIO4\Desktop\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\obj\Debug\UsbTest.pdb
+C:\Users\NIO4\Desktop\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\bin\Debug\UsbTest.exe
+C:\Users\NIO4\Desktop\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\bin\Debug\UsbTest.pdb
+C:\Users\NIO4\Desktop\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\bin\Debug\DataSaver.dll
+C:\Users\NIO4\Desktop\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\bin\Debug\FTD3XX_NET.dll
+C:\Users\NIO4\Desktop\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\bin\Debug\MySql.Data.dll
+C:\Users\NIO4\Desktop\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\bin\Debug\NAudio.dll
+C:\Users\NIO4\Desktop\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\bin\Debug\ZedGraph.dll
+C:\Users\NIO4\Desktop\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\bin\Debug\DataSaver.pdb
+C:\Users\NIO4\Desktop\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\bin\Debug\MySql.Data.xml
+C:\Users\NIO4\Desktop\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+C:\Users\NIO4\Desktop\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\obj\Debug\UsbTest.AverageSettings.resources
+C:\Users\NIO4\Desktop\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\obj\Debug\UsbTest.Calibration.resources
+C:\Users\NIO4\Desktop\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\obj\Debug\UsbTest.DN_View.resources
+C:\Users\NIO4\Desktop\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\obj\Debug\UsbTest.MapSettings.resources
+C:\Users\NIO4\Desktop\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\obj\Debug\UsbTest.TableForm.resources
+C:\Users\NIO4\Desktop\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\obj\Debug\UsbTest.Main.resources
+C:\Users\NIO4\Desktop\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+C:\Users\NIO4\Desktop\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\obj\Debug\UsbTest.Settings.resources
+C:\Users\NIO4\Desktop\2018.03.27 SW_Pelengator RotatorCOM + map\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+F:\2018.03.27 SW_Pelengator RotatorCOM + Maps\UsbTest\bin\Debug\UsbTest.exe.config
+F:\2018.03.27 SW_Pelengator RotatorCOM + Maps\UsbTest\obj\Debug\UsbTest.exe
+F:\2018.03.27 SW_Pelengator RotatorCOM + Maps\UsbTest\obj\Debug\UsbTest.pdb
+F:\2018.03.27 SW_Pelengator RotatorCOM + Maps\UsbTest\bin\Debug\UsbTest.exe
+F:\2018.03.27 SW_Pelengator RotatorCOM + Maps\UsbTest\bin\Debug\UsbTest.pdb
+F:\2018.03.27 SW_Pelengator RotatorCOM + Maps\UsbTest\bin\Debug\DataSaver.dll
+F:\2018.03.27 SW_Pelengator RotatorCOM + Maps\UsbTest\bin\Debug\FTD3XX_NET.dll
+F:\2018.03.27 SW_Pelengator RotatorCOM + Maps\UsbTest\bin\Debug\NAudio.dll
+F:\2018.03.27 SW_Pelengator RotatorCOM + Maps\UsbTest\bin\Debug\ZedGraph.dll
+F:\2018.03.27 SW_Pelengator RotatorCOM + Maps\UsbTest\bin\Debug\DataSaver.pdb
+F:\2018.03.27 SW_Pelengator RotatorCOM + Maps\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+F:\2018.03.27 SW_Pelengator RotatorCOM + Maps\UsbTest\obj\Debug\UsbTest.AverageSettings.resources
+F:\2018.03.27 SW_Pelengator RotatorCOM + Maps\UsbTest\obj\Debug\UsbTest.Calibration.resources
+F:\2018.03.27 SW_Pelengator RotatorCOM + Maps\UsbTest\obj\Debug\UsbTest.DN_View.resources
+F:\2018.03.27 SW_Pelengator RotatorCOM + Maps\UsbTest\obj\Debug\UsbTest.MapSettings.resources
+F:\2018.03.27 SW_Pelengator RotatorCOM + Maps\UsbTest\obj\Debug\UsbTest.TableForm.resources
+F:\2018.03.27 SW_Pelengator RotatorCOM + Maps\UsbTest\obj\Debug\UsbTest.Main.resources
+F:\2018.03.27 SW_Pelengator RotatorCOM + Maps\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+F:\2018.03.27 SW_Pelengator RotatorCOM + Maps\UsbTest\obj\Debug\UsbTest.Settings.resources
+F:\2018.03.27 SW_Pelengator RotatorCOM + Maps\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+F:\2018.03.28 SW_Pelengator RotatorCOM + Maps\UsbTest\bin\Debug\UsbTest.exe.config
+F:\2018.03.28 SW_Pelengator RotatorCOM + Maps\UsbTest\obj\Debug\UsbTest.exe
+F:\2018.03.28 SW_Pelengator RotatorCOM + Maps\UsbTest\obj\Debug\UsbTest.pdb
+F:\2018.03.28 SW_Pelengator RotatorCOM + Maps\UsbTest\bin\Debug\UsbTest.exe
+F:\2018.03.28 SW_Pelengator RotatorCOM + Maps\UsbTest\bin\Debug\UsbTest.pdb
+F:\2018.03.28 SW_Pelengator RotatorCOM + Maps\UsbTest\bin\Debug\DataSaver.dll
+F:\2018.03.28 SW_Pelengator RotatorCOM + Maps\UsbTest\bin\Debug\FTD3XX_NET.dll
+F:\2018.03.28 SW_Pelengator RotatorCOM + Maps\UsbTest\bin\Debug\MySql.Data.dll
+F:\2018.03.28 SW_Pelengator RotatorCOM + Maps\UsbTest\bin\Debug\NAudio.dll
+F:\2018.03.28 SW_Pelengator RotatorCOM + Maps\UsbTest\bin\Debug\ZedGraph.dll
+F:\2018.03.28 SW_Pelengator RotatorCOM + Maps\UsbTest\bin\Debug\DataSaver.pdb
+F:\2018.03.28 SW_Pelengator RotatorCOM + Maps\UsbTest\bin\Debug\MySql.Data.xml
+F:\2018.03.28 SW_Pelengator RotatorCOM + Maps\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+F:\2018.03.28 SW_Pelengator RotatorCOM + Maps\UsbTest\obj\Debug\UsbTest.AverageSettings.resources
+F:\2018.03.28 SW_Pelengator RotatorCOM + Maps\UsbTest\obj\Debug\UsbTest.Calibration.resources
+F:\2018.03.28 SW_Pelengator RotatorCOM + Maps\UsbTest\obj\Debug\UsbTest.DN_View.resources
+F:\2018.03.28 SW_Pelengator RotatorCOM + Maps\UsbTest\obj\Debug\UsbTest.MapSettings.resources
+F:\2018.03.28 SW_Pelengator RotatorCOM + Maps\UsbTest\obj\Debug\UsbTest.TableForm.resources
+F:\2018.03.28 SW_Pelengator RotatorCOM + Maps\UsbTest\obj\Debug\UsbTest.Main.resources
+F:\2018.03.28 SW_Pelengator RotatorCOM + Maps\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+F:\2018.03.28 SW_Pelengator RotatorCOM + Maps\UsbTest\obj\Debug\UsbTest.Settings.resources
+F:\2018.03.28 SW_Pelengator RotatorCOM + Maps\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+F:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\bin\Debug\UsbTest.exe.config
+F:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\obj\Debug\UsbTest.exe
+F:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\obj\Debug\UsbTest.pdb
+F:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\bin\Debug\UsbTest.exe
+F:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\bin\Debug\UsbTest.pdb
+F:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\bin\Debug\DataSaver.dll
+F:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\bin\Debug\FTD3XX_NET.dll
+F:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\bin\Debug\NAudio.dll
+F:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\bin\Debug\ZedGraph.dll
+F:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\bin\Debug\DataSaver.pdb
+F:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+F:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\obj\Debug\UsbTest.AverageSettings.resources
+F:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\obj\Debug\UsbTest.Calibration.resources
+F:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\obj\Debug\UsbTest.DN_View.resources
+F:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\obj\Debug\UsbTest.MapSettings.resources
+F:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\obj\Debug\UsbTest.TableForm.resources
+F:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\obj\Debug\UsbTest.Main.resources
+F:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+F:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\obj\Debug\UsbTest.Settings.resources
+F:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+C:\Users\NIO4\Desktop\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\bin\Debug\UsbTest.exe.config
+C:\Users\NIO4\Desktop\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\obj\Debug\UsbTest.exe
+C:\Users\NIO4\Desktop\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\obj\Debug\UsbTest.pdb
+C:\Users\NIO4\Desktop\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\bin\Debug\UsbTest.exe
+C:\Users\NIO4\Desktop\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\bin\Debug\UsbTest.pdb
+C:\Users\NIO4\Desktop\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\bin\Debug\DataSaver.dll
+C:\Users\NIO4\Desktop\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\bin\Debug\FTD3XX_NET.dll
+C:\Users\NIO4\Desktop\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\bin\Debug\MySql.Data.dll
+C:\Users\NIO4\Desktop\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\bin\Debug\NAudio.dll
+C:\Users\NIO4\Desktop\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\bin\Debug\ZedGraph.dll
+C:\Users\NIO4\Desktop\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\bin\Debug\DataSaver.pdb
+C:\Users\NIO4\Desktop\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\bin\Debug\MySql.Data.xml
+C:\Users\NIO4\Desktop\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+C:\Users\NIO4\Desktop\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\obj\Debug\UsbTest.AverageSettings.resources
+C:\Users\NIO4\Desktop\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\obj\Debug\UsbTest.Calibration.resources
+C:\Users\NIO4\Desktop\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\obj\Debug\UsbTest.DN_View.resources
+C:\Users\NIO4\Desktop\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\obj\Debug\UsbTest.MapSettings.resources
+C:\Users\NIO4\Desktop\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\obj\Debug\UsbTest.TableForm.resources
+C:\Users\NIO4\Desktop\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\obj\Debug\UsbTest.Main.resources
+C:\Users\NIO4\Desktop\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+C:\Users\NIO4\Desktop\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\obj\Debug\UsbTest.Settings.resources
+C:\Users\NIO4\Desktop\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+I:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\bin\Debug\UsbTest.exe.config
+I:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\obj\Debug\UsbTest.exe
+I:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\obj\Debug\UsbTest.pdb
+I:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+I:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\obj\Debug\UsbTest.AverageSettings.resources
+I:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\obj\Debug\UsbTest.Calibration.resources
+I:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\obj\Debug\UsbTest.DN_View.resources
+I:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\obj\Debug\UsbTest.MapSettings.resources
+I:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\obj\Debug\UsbTest.TableForm.resources
+I:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\obj\Debug\UsbTest.Main.resources
+I:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+I:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\obj\Debug\UsbTest.Settings.resources
+I:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+I:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\bin\Debug\UsbTest.exe
+I:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\bin\Debug\UsbTest.pdb
+I:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\bin\Debug\DataSaver.dll
+I:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\bin\Debug\FTD3XX_NET.dll
+I:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\bin\Debug\NAudio.dll
+I:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\bin\Debug\ZedGraph.dll
+I:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\bin\Debug\NationalInstruments.Common.Native.dll
+I:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\bin\Debug\DataSaver.pdb
+F:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\bin\Debug\NationalInstruments.Common.Native.dll
+F:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\bin\Debug\MySql.Data.dll
+F:\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\UsbTest\bin\Debug\MySql.Data.xml
+F:\2018.03.28 SW_Pelengator 1.9\UsbTest\bin\Debug\UsbTest.exe.config
+F:\2018.03.28 SW_Pelengator 1.9\UsbTest\obj\Debug\UsbTest.exe
+F:\2018.03.28 SW_Pelengator 1.9\UsbTest\obj\Debug\UsbTest.pdb
+F:\2018.03.28 SW_Pelengator 1.9\UsbTest\bin\Debug\UsbTest.exe
+F:\2018.03.28 SW_Pelengator 1.9\UsbTest\bin\Debug\UsbTest.pdb
+F:\2018.03.28 SW_Pelengator 1.9\UsbTest\bin\Debug\DataSaver.dll
+F:\2018.03.28 SW_Pelengator 1.9\UsbTest\bin\Debug\FTD3XX_NET.dll
+F:\2018.03.28 SW_Pelengator 1.9\UsbTest\bin\Debug\MySql.Data.dll
+F:\2018.03.28 SW_Pelengator 1.9\UsbTest\bin\Debug\NAudio.dll
+F:\2018.03.28 SW_Pelengator 1.9\UsbTest\bin\Debug\ZedGraph.dll
+F:\2018.03.28 SW_Pelengator 1.9\UsbTest\bin\Debug\DataSaver.pdb
+F:\2018.03.28 SW_Pelengator 1.9\UsbTest\bin\Debug\MySql.Data.xml
+F:\2018.03.28 SW_Pelengator 1.9\UsbTest\obj\Debug\UsbTest.AverageSettings.resources
+F:\2018.03.28 SW_Pelengator 1.9\UsbTest\obj\Debug\UsbTest.Calibration.resources
+F:\2018.03.28 SW_Pelengator 1.9\UsbTest\obj\Debug\UsbTest.DN_View.resources
+F:\2018.03.28 SW_Pelengator 1.9\UsbTest\obj\Debug\UsbTest.MapSettings.resources
+F:\2018.03.28 SW_Pelengator 1.9\UsbTest\obj\Debug\UsbTest.TableForm.resources
+F:\2018.03.28 SW_Pelengator 1.9\UsbTest\obj\Debug\UsbTest.Main.resources
+F:\2018.03.28 SW_Pelengator 1.9\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+F:\2018.03.28 SW_Pelengator 1.9\UsbTest\obj\Debug\UsbTest.Settings.resources
+F:\2018.03.28 SW_Pelengator 1.9\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+F:\! VZOR SOFT\2018.03.28 SW_Pelengator 1.9\UsbTest\bin\Debug\UsbTest.exe.config
+F:\! VZOR SOFT\2018.03.28 SW_Pelengator 1.9\UsbTest\obj\Debug\UsbTest.exe
+F:\! VZOR SOFT\2018.03.28 SW_Pelengator 1.9\UsbTest\obj\Debug\UsbTest.pdb
+F:\! VZOR SOFT\2018.03.28 SW_Pelengator 1.9\UsbTest\bin\Debug\UsbTest.exe
+F:\! VZOR SOFT\2018.03.28 SW_Pelengator 1.9\UsbTest\bin\Debug\UsbTest.pdb
+F:\! VZOR SOFT\2018.03.28 SW_Pelengator 1.9\UsbTest\bin\Debug\DataSaver.dll
+F:\! VZOR SOFT\2018.03.28 SW_Pelengator 1.9\UsbTest\bin\Debug\FTD3XX_NET.dll
+F:\! VZOR SOFT\2018.03.28 SW_Pelengator 1.9\UsbTest\bin\Debug\MySql.Data.dll
+F:\! VZOR SOFT\2018.03.28 SW_Pelengator 1.9\UsbTest\bin\Debug\NAudio.dll
+F:\! VZOR SOFT\2018.03.28 SW_Pelengator 1.9\UsbTest\bin\Debug\ZedGraph.dll
+F:\! VZOR SOFT\2018.03.28 SW_Pelengator 1.9\UsbTest\bin\Debug\DataSaver.pdb
+F:\! VZOR SOFT\2018.03.28 SW_Pelengator 1.9\UsbTest\bin\Debug\MySql.Data.xml
+F:\! VZOR SOFT\2018.03.28 SW_Pelengator 1.9\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+F:\! VZOR SOFT\2018.03.28 SW_Pelengator 1.9\UsbTest\obj\Debug\UsbTest.AverageSettings.resources
+F:\! VZOR SOFT\2018.03.28 SW_Pelengator 1.9\UsbTest\obj\Debug\UsbTest.Calibration.resources
+F:\! VZOR SOFT\2018.03.28 SW_Pelengator 1.9\UsbTest\obj\Debug\UsbTest.DN_View.resources
+F:\! VZOR SOFT\2018.03.28 SW_Pelengator 1.9\UsbTest\obj\Debug\UsbTest.MapSettings.resources
+F:\! VZOR SOFT\2018.03.28 SW_Pelengator 1.9\UsbTest\obj\Debug\UsbTest.TableForm.resources
+F:\! VZOR SOFT\2018.03.28 SW_Pelengator 1.9\UsbTest\obj\Debug\UsbTest.Main.resources
+F:\! VZOR SOFT\2018.03.28 SW_Pelengator 1.9\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+F:\! VZOR SOFT\2018.03.28 SW_Pelengator 1.9\UsbTest\obj\Debug\UsbTest.Settings.resources
+F:\! VZOR SOFT\2018.03.28 SW_Pelengator 1.9\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+F:\! VZOR SOFT\2018.04.05 SW_Pelengator 1.95\UsbTest\bin\Debug\UsbTest.exe.config
+F:\! VZOR SOFT\2018.04.05 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.exe
+F:\! VZOR SOFT\2018.04.05 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.pdb
+F:\! VZOR SOFT\2018.04.06 SW_Pelengator 1.95\UsbTest\bin\Debug\UsbTest.exe.config
+F:\! VZOR SOFT\2018.04.06 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.exe
+F:\! VZOR SOFT\2018.04.06 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.pdb
+F:\! VZOR SOFT\2018.04.06 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+F:\! VZOR SOFT\2018.04.06 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.AverageSettings.resources
+F:\! VZOR SOFT\2018.04.06 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.Calibration.resources
+F:\! VZOR SOFT\2018.04.06 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.DN_View.resources
+F:\! VZOR SOFT\2018.04.06 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.MapSettings.resources
+F:\! VZOR SOFT\2018.04.06 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.TableForm.resources
+F:\! VZOR SOFT\2018.04.06 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.Main.resources
+F:\! VZOR SOFT\2018.04.06 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+F:\! VZOR SOFT\2018.04.06 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.Settings.resources
+F:\! VZOR SOFT\2018.04.06 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+F:\! VZOR SOFT\2018.04.06 SW_Pelengator 1.95\UsbTest\bin\Debug\UsbTest.exe
+F:\! VZOR SOFT\2018.04.06 SW_Pelengator 1.95\UsbTest\bin\Debug\UsbTest.pdb
+F:\! VZOR SOFT\2018.04.06 SW_Pelengator 1.95\UsbTest\bin\Debug\DataSaver.dll
+F:\! VZOR SOFT\2018.04.06 SW_Pelengator 1.95\UsbTest\bin\Debug\FTD3XX_NET.dll
+F:\! VZOR SOFT\2018.04.06 SW_Pelengator 1.95\UsbTest\bin\Debug\NAudio.dll
+F:\! VZOR SOFT\2018.04.06 SW_Pelengator 1.95\UsbTest\bin\Debug\ZedGraph.dll
+F:\! VZOR SOFT\2018.04.06 SW_Pelengator 1.95\UsbTest\bin\Debug\DataSaver.pdb
+G:\! VZOR SOFT\2018.04.06 SW_Pelengator 1.95\UsbTest\bin\Debug\UsbTest.exe.config
+G:\! VZOR SOFT\2018.04.06 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.exe
+G:\! VZOR SOFT\2018.04.06 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.pdb
+D:\nil-44\VZOR\SW\2018.04.06 SW_Pelengator 1.95\UsbTest\bin\Debug\UsbTest.exe.config
+D:\nil-44\VZOR\SW\2018.04.06 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.exe
+D:\nil-44\VZOR\SW\2018.04.06 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.pdb
+D:\nil-44\VZOR\SW\2018.04.06 SW_Pelengator 1.95\UsbTest\bin\Debug\UsbTest.exe
+D:\nil-44\VZOR\SW\2018.04.06 SW_Pelengator 1.95\UsbTest\bin\Debug\UsbTest.pdb
+D:\nil-44\VZOR\SW\2018.04.06 SW_Pelengator 1.95\UsbTest\bin\Debug\DataSaver.dll
+D:\nil-44\VZOR\SW\2018.04.06 SW_Pelengator 1.95\UsbTest\bin\Debug\FTD3XX_NET.dll
+D:\nil-44\VZOR\SW\2018.04.06 SW_Pelengator 1.95\UsbTest\bin\Debug\MySql.Data.dll
+D:\nil-44\VZOR\SW\2018.04.06 SW_Pelengator 1.95\UsbTest\bin\Debug\NAudio.dll
+D:\nil-44\VZOR\SW\2018.04.06 SW_Pelengator 1.95\UsbTest\bin\Debug\ZedGraph.dll
+D:\nil-44\VZOR\SW\2018.04.06 SW_Pelengator 1.95\UsbTest\bin\Debug\DataSaver.pdb
+D:\nil-44\VZOR\SW\2018.04.06 SW_Pelengator 1.95\UsbTest\bin\Debug\MySql.Data.xml
+D:\nil-44\VZOR\SW\2018.04.06 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+D:\nil-44\VZOR\SW\2018.04.06 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.AverageSettings.resources
+D:\nil-44\VZOR\SW\2018.04.06 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.Calibration.resources
+D:\nil-44\VZOR\SW\2018.04.06 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.DN_View.resources
+D:\nil-44\VZOR\SW\2018.04.06 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.MapSettings.resources
+D:\nil-44\VZOR\SW\2018.04.06 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.TableForm.resources
+D:\nil-44\VZOR\SW\2018.04.06 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.Main.resources
+D:\nil-44\VZOR\SW\2018.04.06 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+D:\nil-44\VZOR\SW\2018.04.06 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.Settings.resources
+D:\nil-44\VZOR\SW\2018.04.06 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+D:\nil-44\VZOR\SW\2018.04.25 SW_Pelengator 1.95\UsbTest\bin\Debug\UsbTest.exe.config
+D:\nil-44\VZOR\SW\2018.04.25 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.exe
+D:\nil-44\VZOR\SW\2018.04.25 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.pdb
+D:\nil-44\VZOR\SW\2018.04.25 SW_Pelengator 1.95\UsbTest\bin\Debug\UsbTest.exe
+D:\nil-44\VZOR\SW\2018.04.25 SW_Pelengator 1.95\UsbTest\bin\Debug\UsbTest.pdb
+D:\nil-44\VZOR\SW\2018.04.25 SW_Pelengator 1.95\UsbTest\bin\Debug\DataSaver.dll
+D:\nil-44\VZOR\SW\2018.04.25 SW_Pelengator 1.95\UsbTest\bin\Debug\FTD3XX_NET.dll
+D:\nil-44\VZOR\SW\2018.04.25 SW_Pelengator 1.95\UsbTest\bin\Debug\MySql.Data.dll
+D:\nil-44\VZOR\SW\2018.04.25 SW_Pelengator 1.95\UsbTest\bin\Debug\NAudio.dll
+D:\nil-44\VZOR\SW\2018.04.25 SW_Pelengator 1.95\UsbTest\bin\Debug\ZedGraph.dll
+D:\nil-44\VZOR\SW\2018.04.25 SW_Pelengator 1.95\UsbTest\bin\Debug\DataSaver.pdb
+D:\nil-44\VZOR\SW\2018.04.25 SW_Pelengator 1.95\UsbTest\bin\Debug\MySql.Data.xml
+D:\nil-44\VZOR\SW\2018.04.25 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+D:\nil-44\VZOR\SW\2018.04.25 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.AverageSettings.resources
+D:\nil-44\VZOR\SW\2018.04.25 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.Calibration.resources
+D:\nil-44\VZOR\SW\2018.04.25 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.DN_View.resources
+D:\nil-44\VZOR\SW\2018.04.25 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.MapSettings.resources
+D:\nil-44\VZOR\SW\2018.04.25 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.TableForm.resources
+D:\nil-44\VZOR\SW\2018.04.25 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.Main.resources
+D:\nil-44\VZOR\SW\2018.04.25 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+D:\nil-44\VZOR\SW\2018.04.25 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.Settings.resources
+D:\nil-44\VZOR\SW\2018.04.25 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+F:\! VZOR SOFT\2018.04.25 SW_Pelengator 1.95\UsbTest\bin\Debug\UsbTest.exe.config
+F:\! VZOR SOFT\2018.04.25 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.exe
+F:\! VZOR SOFT\2018.04.25 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.pdb
+C:\Users\Afanasiev_MA\Desktop\2018.04.25 SW_Pelengator 1.95\UsbTest\bin\Debug\UsbTest.exe.config
+C:\Users\Afanasiev_MA\Desktop\2018.04.25 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.exe
+C:\Users\Afanasiev_MA\Desktop\2018.04.25 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.pdb
+C:\Users\Afanasiev_MA\Desktop\2018.04.25 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+C:\Users\Afanasiev_MA\Desktop\2018.04.25 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.DN_View.resources
+C:\Users\Afanasiev_MA\Desktop\2018.04.25 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+C:\Users\Afanasiev_MA\Desktop\2018.04.25 SW_Pelengator 1.95\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+C:\Users\Afanasiev_MA\Desktop\2018.04.25 SW_Pelengator 1.95\UsbTest\bin\Debug\UsbTest.exe
+C:\Users\Afanasiev_MA\Desktop\2018.04.25 SW_Pelengator 1.95\UsbTest\bin\Debug\UsbTest.pdb
+C:\Users\Afanasiev_MA\Desktop\2018.04.25 SW_Pelengator 1.95\UsbTest\bin\Debug\DataSaver.dll
+C:\Users\Afanasiev_MA\Desktop\2018.04.25 SW_Pelengator 1.95\UsbTest\bin\Debug\FTD3XX_NET.dll
+C:\Users\Afanasiev_MA\Desktop\2018.04.25 SW_Pelengator 1.95\UsbTest\bin\Debug\ZedGraph.dll
+C:\Users\Afanasiev_MA\Desktop\2018.04.25 SW_Pelengator 1.95\UsbTest\bin\Debug\DataSaver.pdb
+C:\Users\Afanasiev_MA\Desktop\2018.04.26 SW_DN_Viewer\UsbTest\bin\Debug\UsbTest.exe
+C:\Users\Afanasiev_MA\Desktop\2018.04.26 SW_DN_Viewer\UsbTest\bin\Debug\ZedGraph.dll
+C:\Users\Afanasiev_MA\Desktop\2018.04.26 SW_DN_Viewer\UsbTest\bin\Debug\UsbTest.exe.config
+C:\Users\Afanasiev_MA\Desktop\2018.04.26 SW_DN_Viewer\UsbTest\obj\Debug\UsbTest.exe
+C:\Users\Afanasiev_MA\Desktop\2018.04.26 SW_DN_Viewer\UsbTest\obj\Debug\UsbTest.pdb
+C:\Users\Afanasiev_MA\Desktop\2018.04.26 SW_DN_Viewer\UsbTest\bin\Debug\UsbTest.pdb
+C:\Users\Afanasiev_MA\Desktop\2018.04.26 SW_DN_Viewer\UsbTest\bin\Debug\DataSaver.dll
+C:\Users\Afanasiev_MA\Desktop\2018.04.26 SW_DN_Viewer\UsbTest\bin\Debug\FTD3XX_NET.dll
+C:\Users\Afanasiev_MA\Desktop\2018.04.26 SW_DN_Viewer\UsbTest\bin\Debug\DataSaver.pdb
+C:\Users\Afanasiev_MA\Desktop\2018.04.26 SW_DN_Viewer\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+C:\Users\Afanasiev_MA\Desktop\2018.04.26 SW_DN_Viewer\UsbTest\obj\Debug\UsbTest.DN_View.resources
+C:\Users\Afanasiev_MA\Desktop\2018.04.26 SW_DN_Viewer\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+C:\Users\Afanasiev_MA\Desktop\2018.04.26 SW_DN_Viewer\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+C:\Users\Afanasiev_MA\Desktop\2018.04.28 SW_DN_Editor\UsbTest\bin\Debug\UsbTest.exe.config
+C:\Users\Afanasiev_MA\Desktop\2018.04.28 SW_DN_Editor\UsbTest\obj\Debug\UsbTest.exe
+C:\Users\Afanasiev_MA\Desktop\2018.04.28 SW_DN_Editor\UsbTest\obj\Debug\UsbTest.pdb
+C:\Users\Afanasiev_MA\Desktop\2018.04.28 SW_DN_Editor\UsbTest\bin\Debug\UsbTest.exe
+C:\Users\Afanasiev_MA\Desktop\2018.04.28 SW_DN_Editor\UsbTest\bin\Debug\UsbTest.pdb
+C:\Users\Afanasiev_MA\Desktop\2018.04.28 SW_DN_Editor\UsbTest\bin\Debug\DataSaver.dll
+C:\Users\Afanasiev_MA\Desktop\2018.04.28 SW_DN_Editor\UsbTest\bin\Debug\FTD3XX_NET.dll
+C:\Users\Afanasiev_MA\Desktop\2018.04.28 SW_DN_Editor\UsbTest\bin\Debug\ZedGraph.dll
+C:\Users\Afanasiev_MA\Desktop\2018.04.28 SW_DN_Editor\UsbTest\bin\Debug\DataSaver.pdb
+C:\Users\Afanasiev_MA\Desktop\2018.04.28 SW_DN_Editor\UsbTest\obj\Debug\UsbTest.csprojResolveAssemblyReference.cache
+C:\Users\Afanasiev_MA\Desktop\2018.04.28 SW_DN_Editor\UsbTest\obj\Debug\UsbTest.DN_View.resources
+C:\Users\Afanasiev_MA\Desktop\2018.04.28 SW_DN_Editor\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+C:\Users\Afanasiev_MA\Desktop\2018.04.28 SW_DN_Editor\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.Cache
+D:\ВЗОР\! VZOR SOFT\2018.05.03 SW_DN_Editor\UsbTest\bin\Debug\UsbTest.exe.config
+D:\ВЗОР\! VZOR SOFT\2018.05.03 SW_DN_Editor\UsbTest\obj\Debug\UsbTest.exe
+D:\ВЗОР\! VZOR SOFT\2018.05.03 SW_DN_Editor\UsbTest\obj\Debug\UsbTest.pdb

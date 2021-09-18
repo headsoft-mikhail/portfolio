@@ -1,0 +1,135 @@
+G:\2018.07.09 izluchatel_finalArabianShit\UDP_FPGA\bin\Release\UDP_FPGA.exe.config
+G:\2018.07.09 izluchatel_finalArabianShit\UDP_FPGA\bin\Release\UDP_FPGA.exe
+G:\2018.07.09 izluchatel_finalArabianShit\UDP_FPGA\bin\Release\UDP_FPGA.pdb
+G:\2018.07.09 izluchatel_finalArabianShit\UDP_FPGA\obj\Release\UDP_FPGA.csprojResolveAssemblyReference.cache
+G:\2018.07.09 izluchatel_finalArabianShit\UDP_FPGA\obj\Release\UDP_FPGA.GPS.resources
+G:\2018.07.09 izluchatel_finalArabianShit\UDP_FPGA\obj\Release\UDP_FPGA.FormUDP.resources
+G:\2018.07.09 izluchatel_finalArabianShit\UDP_FPGA\obj\Release\UDP_FPGA.Offsets.resources
+G:\2018.07.09 izluchatel_finalArabianShit\UDP_FPGA\obj\Release\UDP_FPGA.Properties.Resources.resources
+G:\2018.07.09 izluchatel_finalArabianShit\UDP_FPGA\obj\Release\UDP_FPGA.Rotator.resources
+G:\2018.07.09 izluchatel_finalArabianShit\UDP_FPGA\obj\Release\UDP_FPGA.csproj.GenerateResource.Cache
+G:\2018.07.09 izluchatel_finalArabianShit\UDP_FPGA\obj\Release\UDP_FPGA.exe
+G:\2018.07.09 izluchatel_finalArabianShit\UDP_FPGA\obj\Release\UDP_FPGA.pdb
+G:\! IZLUCHATEL SOFT\2018.07.09 izluchatel_finalArabianShit\UDP_FPGA\bin\Release\UDP_FPGA.exe.config
+G:\! IZLUCHATEL SOFT\2018.07.09 izluchatel_finalArabianShit\UDP_FPGA\obj\Release\UDP_FPGA.exe
+G:\! IZLUCHATEL SOFT\2018.07.09 izluchatel_finalArabianShit\UDP_FPGA\obj\Release\UDP_FPGA.pdb
+F:\! IZLUCHATEL SOFT\2018.07.18 izluchatel_finalArabianShit\UDP_FPGA\bin\Release\UDP_FPGA.exe.config
+F:\! IZLUCHATEL SOFT\2018.07.18 izluchatel_finalArabianShit\UDP_FPGA\obj\Release\UDP_FPGA.exe
+F:\! IZLUCHATEL SOFT\2018.07.18 izluchatel_finalArabianShit\UDP_FPGA\obj\Release\UDP_FPGA.pdb
+G:\Новая папка\2018.08.13 izluchatel_finalArabianShit\UDP_FPGA\bin\Release\UDP_FPGA.exe.config
+G:\Новая папка\2018.08.13 izluchatel_finalArabianShit\UDP_FPGA\obj\Release\UDP_FPGA.exe
+G:\Новая папка\2018.08.13 izluchatel_finalArabianShit\UDP_FPGA\obj\Release\UDP_FPGA.pdb
+G:\Новая папка\2018.08.13 izluchatel_finalArabianShit\UDP_FPGA\bin\Release\UDP_FPGA.exe
+G:\Новая папка\2018.08.13 izluchatel_finalArabianShit\UDP_FPGA\bin\Release\UDP_FPGA.pdb
+G:\Новая папка\2018.08.13 izluchatel_finalArabianShit\UDP_FPGA\obj\Release\UDP_FPGA.FormUDP.resources
+G:\Новая папка\2018.08.13 izluchatel_finalArabianShit\UDP_FPGA\obj\Release\UDP_FPGA.Offsets.resources
+G:\Новая папка\2018.08.13 izluchatel_finalArabianShit\UDP_FPGA\obj\Release\UDP_FPGA.Properties.Resources.resources
+G:\Новая папка\2018.08.13 izluchatel_finalArabianShit\UDP_FPGA\obj\Release\UDP_FPGA.Rotator.resources
+G:\Новая папка\2018.08.13 izluchatel_finalArabianShit\UDP_FPGA\obj\Release\UDP_FPGA.csproj.GenerateResource.Cache
+G:\Новая папка\2018.08.13 izluchatel_finalArabianShit\UDP_FPGA\obj\Release\UDP_FPGA.csprojResolveAssemblyReference.cache
+H:\2018.12.05 Serp_1.5\UDP_FPGA\bin\Release\UDP_FPGA.exe.config
+H:\2018.12.05 Serp_1.5\UDP_FPGA\bin\Release\UDP_FPGA.exe
+H:\2018.12.05 Serp_1.5\UDP_FPGA\bin\Release\UDP_FPGA.pdb
+H:\2018.12.05 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.FormUDP.resources
+H:\2018.12.05 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.Properties.Resources.resources
+H:\2018.12.05 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.csproj.GenerateResource.cache
+H:\2018.12.05 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.csproj.CoreCompileInputs.cache
+H:\2018.12.05 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.exe
+H:\2018.12.05 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.pdb
+F:\2018.12.12 Serp_1.5\UDP_FPGA\bin\Release\UDP_FPGA.exe.config
+F:\2018.12.12 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.exe
+F:\2018.12.12 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.pdb
+F:\2018.12.12 Serp_1.5\UDP_FPGA\bin\Release\UDP_FPGA.exe
+F:\2018.12.12 Serp_1.5\UDP_FPGA\bin\Release\UDP_FPGA.pdb
+F:\2018.12.12 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.csprojResolveAssemblyReference.cache
+F:\2018.12.12 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.FormUDP.resources
+F:\2018.12.12 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.Properties.Resources.resources
+F:\2018.12.12 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.csproj.GenerateResource.Cache
+H:\2018.12.12 Serp_1.5\UDP_FPGA\bin\Release\UDP_FPGA.exe.config
+H:\2018.12.12 Serp_1.5\UDP_FPGA\bin\Release\UDP_FPGA.exe
+H:\2018.12.12 Serp_1.5\UDP_FPGA\bin\Release\UDP_FPGA.pdb
+H:\2018.12.12 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.FormUDP.resources
+H:\2018.12.12 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.Properties.Resources.resources
+H:\2018.12.12 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.csproj.GenerateResource.cache
+H:\2018.12.12 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.csproj.CoreCompileInputs.cache
+H:\2018.12.12 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.exe
+H:\2018.12.12 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.pdb
+H:\2018.12.12 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.csprojAssemblyReference.cache
+H:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.csprojAssemblyReference.cache
+H:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.FormUDP.resources
+H:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.Properties.Resources.resources
+H:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.csproj.GenerateResource.cache
+H:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.csproj.CoreCompileInputs.cache
+H:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.exe
+H:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.pdb
+H:\2018.12.17 Serp_1.5\UDP_FPGA\bin\Release\UDP_FPGA.exe.config
+H:\2018.12.17 Serp_1.5\UDP_FPGA\bin\Release\UDP_FPGA.exe
+H:\2018.12.17 Serp_1.5\UDP_FPGA\bin\Release\UDP_FPGA.pdb
+H:\2018.12.17 Serp_1.5\UDP_FPGA\bin\Release\MySql.Data.dll
+H:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.csproj.CopyComplete
+F:\2018.12.17 Serp_1.5\UDP_FPGA\bin\Release\UDP_FPGA.exe.config
+F:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.exe
+F:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.pdb
+F:\2018.12.17 Serp_1.5\UDP_FPGA\bin\Release\UDP_FPGA.exe
+F:\2018.12.17 Serp_1.5\UDP_FPGA\bin\Release\UDP_FPGA.pdb
+F:\2018.12.17 Serp_1.5\UDP_FPGA\bin\Release\MySql.Data.dll
+F:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.csprojResolveAssemblyReference.cache
+F:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.FormUDP.resources
+F:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.Properties.Resources.resources
+F:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.csproj.GenerateResource.Cache
+G:\2018.12.17 Serp_1.5\UDP_FPGA\bin\Release\UDP_FPGA.exe.config
+G:\2018.12.17 Serp_1.5\UDP_FPGA\bin\Release\UDP_FPGA.exe
+G:\2018.12.17 Serp_1.5\UDP_FPGA\bin\Release\UDP_FPGA.pdb
+G:\2018.12.17 Serp_1.5\UDP_FPGA\bin\Release\MySql.Data.dll
+G:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.csprojResolveAssemblyReference.cache
+G:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.FormUDP.resources
+G:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.Properties.Resources.resources
+G:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.csproj.GenerateResource.Cache
+G:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.exe
+G:\2018.12.17 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.pdb
+F:\2018.12.19 Serp_1.5\UDP_FPGA\bin\Release\UDP_FPGA.exe.config
+F:\2018.12.19 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.exe
+F:\2018.12.19 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.pdb
+F:\2018.12.19 Serp_1.5\UDP_FPGA\bin\Release\UDP_FPGA.exe
+F:\2018.12.19 Serp_1.5\UDP_FPGA\bin\Release\UDP_FPGA.pdb
+F:\2018.12.19 Serp_1.5\UDP_FPGA\bin\Release\MySql.Data.dll
+F:\2018.12.19 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.csprojResolveAssemblyReference.cache
+F:\2018.12.19 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.FormUDP.resources
+F:\2018.12.19 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.Properties.Resources.resources
+F:\2018.12.19 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.csproj.GenerateResource.Cache
+H:\2018.12.19 Serp_1.5\UDP_FPGA\bin\Release\UDP_FPGA.exe.config
+H:\2018.12.19 Serp_1.5\UDP_FPGA\bin\Release\UDP_FPGA.exe
+H:\2018.12.19 Serp_1.5\UDP_FPGA\bin\Release\UDP_FPGA.pdb
+H:\2018.12.19 Serp_1.5\UDP_FPGA\bin\Release\MySql.Data.dll
+H:\2018.12.19 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.csprojAssemblyReference.cache
+H:\2018.12.19 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.FormUDP.resources
+H:\2018.12.19 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.Properties.Resources.resources
+H:\2018.12.19 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.csproj.GenerateResource.cache
+H:\2018.12.19 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.csproj.CoreCompileInputs.cache
+H:\2018.12.19 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.csproj.CopyComplete
+H:\2018.12.19 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.exe
+H:\2018.12.19 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.pdb
+H:\актуальное\2018.12.19 Serp_1.5\UDP_FPGA\bin\Release\UDP_FPGA.exe.config
+H:\актуальное\2018.12.19 Serp_1.5\UDP_FPGA\bin\Release\UDP_FPGA.exe
+H:\актуальное\2018.12.19 Serp_1.5\UDP_FPGA\bin\Release\UDP_FPGA.pdb
+H:\актуальное\2018.12.19 Serp_1.5\UDP_FPGA\bin\Release\MySql.Data.dll
+H:\актуальное\2018.12.19 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.csprojAssemblyReference.cache
+H:\актуальное\2018.12.19 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.FormUDP.resources
+H:\актуальное\2018.12.19 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.Properties.Resources.resources
+H:\актуальное\2018.12.19 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.csproj.GenerateResource.cache
+H:\актуальное\2018.12.19 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.csproj.CoreCompileInputs.cache
+H:\актуальное\2018.12.19 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.csproj.CopyComplete
+H:\актуальное\2018.12.19 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.exe
+H:\актуальное\2018.12.19 Serp_1.5\UDP_FPGA\obj\Release\UDP_FPGA.pdb
+C:\Users\Afanasiev_MA\Desktop\2018.12.19 Serp_1.5 (Березин)\UDP_FPGA\bin\Release\UDP_FPGA.exe.config
+C:\Users\Afanasiev_MA\Desktop\2018.12.19 Serp_1.5 (Березин)\UDP_FPGA\bin\Release\UDP_FPGA.exe
+C:\Users\Afanasiev_MA\Desktop\2018.12.19 Serp_1.5 (Березин)\UDP_FPGA\bin\Release\UDP_FPGA.pdb
+C:\Users\Afanasiev_MA\Desktop\2018.12.19 Serp_1.5 (Березин)\UDP_FPGA\bin\Release\MySql.Data.dll
+C:\Users\Afanasiev_MA\Desktop\2018.12.19 Serp_1.5 (Березин)\UDP_FPGA\obj\Release\UDP_FPGA.csprojAssemblyReference.cache
+C:\Users\Afanasiev_MA\Desktop\2018.12.19 Serp_1.5 (Березин)\UDP_FPGA\obj\Release\UDP_FPGA.FormUDP.resources
+C:\Users\Afanasiev_MA\Desktop\2018.12.19 Serp_1.5 (Березин)\UDP_FPGA\obj\Release\UDP_FPGA.Properties.Resources.resources
+C:\Users\Afanasiev_MA\Desktop\2018.12.19 Serp_1.5 (Березин)\UDP_FPGA\obj\Release\UDP_FPGA.csproj.GenerateResource.cache
+C:\Users\Afanasiev_MA\Desktop\2018.12.19 Serp_1.5 (Березин)\UDP_FPGA\obj\Release\UDP_FPGA.csproj.CoreCompileInputs.cache
+C:\Users\Afanasiev_MA\Desktop\2018.12.19 Serp_1.5 (Березин)\UDP_FPGA\obj\Release\UDP_FPGA.csproj.CopyComplete
+C:\Users\Afanasiev_MA\Desktop\2018.12.19 Serp_1.5 (Березин)\UDP_FPGA\obj\Release\UDP_FPGA.exe
+C:\Users\Afanasiev_MA\Desktop\2018.12.19 Serp_1.5 (Березин)\UDP_FPGA\obj\Release\UDP_FPGA.pdb

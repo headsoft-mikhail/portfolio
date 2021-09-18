@@ -1,0 +1,5 @@
+D:\NIL-44\UsbTest2\DataSerialazer\bin\Release\DataSaver.dll
+D:\NIL-44\UsbTest2\DataSerialazer\bin\Release\DataSaver.pdb
+D:\NIL-44\UsbTest2\DataSerialazer\obj\Release\DataSerialazer.csprojResolveAssemblyReference.cache
+D:\NIL-44\UsbTest2\DataSerialazer\obj\Release\DataSaver.dll
+D:\NIL-44\UsbTest2\DataSerialazer\obj\Release\DataSaver.pdb

@@ -1,0 +1,420 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using ZedGraph;
+using DNmeasure;
+
+namespace UsbTest
+{
+    class FilterData
+    {
+        public alglib.complex data;
+        public FilterData Next { set; get; }
+    }
+    public partial class Form1 : Form
+    {
+        alglib.complex[] ch0;//, ch1, ch2, ch3;
+        //double[] ch0abs, ch1abs, ch2abs, ch3abs, time, frequencies;
+        StreamPlayer streamPlayer = new StreamPlayer(50000);
+
+        const int N = 15; //Длина фильтра
+        double Fd = 50000; //Частота дискретизации входных данных
+        double Fc = 100; //Частота полосы пропускания
+
+        LinkedList<alglib.complex> H;
+        LinkedListNode<alglib.complex> Hnode;
+
+        FilterData dataInFilterBufferStart;
+        FilterData dataInFilterBufferCurrent;
+        public Form1()
+        {
+            InitializeComponent();
+            Receiver40MHz.Attenuator0 = 0;
+            Receiver40MHz.Attenuator1 = 0;
+            Receiver40MHz.Attenuator2 = 0;
+            Receiver40MHz.Attenuator3 = 0;
+            Receiver40MHz.SampleFrequency = SampleFrequency.SampleFrequency50;
+            Receiver40MHz.Frequency = 1040000;
+            DataAnalyzer.Init();
+            //Receiver40MHz.DataReady += Receiver40MHz_DataReady;
+            ch0 = new alglib.complex[4096];
+            //ch1 = new alglib.complex[Receiver40MHz.DataPointsNumber];
+            //ch2 = new alglib.complex[Receiver40MHz.DataPointsNumber];
+            //ch3 = new alglib.complex[Receiver40MHz.DataPointsNumber];
+
+            //ch0abs = new double[Receiver40MHz.DataPointsNumber];
+            //ch1abs = new double[Receiver40MHz.DataPointsNumber];
+            //ch2abs = new double[Receiver40MHz.DataPointsNumber];
+            //ch3abs = new double[Receiver40MHz.DataPointsNumber];
+
+            //frequencies = new double[Receiver40MHz.DataPointsNumber];
+
+            //H = new LinkedList<alglib.complex>(PepareFilterParameters(N, Fd, Fc));
+
+
+            #region FilterData Init
+            //if (dataInFilterBufferStart == null)
+            //{
+            //    FilterData filterDataA = new FilterData();
+            //    FilterData filterDataB = new FilterData();
+            //    dataInFilterBufferStart = filterDataA;
+            //    filterDataA.Next = filterDataB;
+            //    for (int i = 1; i < N - 1; i++)
+            //    {
+            //        filterDataA = filterDataB;
+            //        filterDataB = new FilterData();
+            //        filterDataA.Next = filterDataB;
+            //    }
+            //    filterDataB.Next = dataInFilterBufferStart;
+            //}
+            //dataInFilterBufferCurrent = dataInFilterBufferStart;
+            //dataInFilterBufferStart.data = new alglib.complex(1, 2);
+            #endregion
+        }
+
+        private void Receiver40MHz_DataReady(object sender, EventArgs e)
+        {
+            if (InvokeRequired)
+            {
+                //    //Apply Blackman window
+                //    double W;
+                //    for (int n = 0; n < Receiver40MHz.DataPointsNumber; n++)
+                //    {
+                //        W = 0.42 - 0.5 * Math.Cos(2 * Math.PI * n / (Receiver40MHz.DataPointsNumber - 1)) + 0.08 * Math.Cos(4 * Math.PI * n / (Receiver40MHz.DataPointsNumber - 1));
+                //        Receiver40MHz.channelDataI0[n] *= W;
+                //        Receiver40MHz.channelDataI1[n] *= W;
+                //        Receiver40MHz.channelDataI2[n] *= W;
+                //        Receiver40MHz.channelDataI3[n] *= W;
+                //        Receiver40MHz.channelDataQ0[n] *= W;
+                //        Receiver40MHz.channelDataQ1[n] *= W;
+                //        Receiver40MHz.channelDataQ2[n] *= W;
+                //        Receiver40MHz.channelDataQ3[n] *= W;
+                //    }
+
+                //    FFT2.init(Receiver40MHz.DataPointsNumber);
+                //    FFT2.FFT(Receiver40MHz.channelDataI0, Receiver40MHz.channelDataQ0);
+                //    FFT2.FFT(Receiver40MHz.channelDataI1, Receiver40MHz.channelDataQ1);
+                //    FFT2.FFT(Receiver40MHz.channelDataI2, Receiver40MHz.channelDataQ2);
+                //    FFT2.FFT(Receiver40MHz.channelDataI3, Receiver40MHz.channelDataQ3);
+                //    time = Receiver40MHz.times;
+                //    for (int j = 0; j < Receiver40MHz.DataPointsNumber; j++)
+                //    {
+                //        frequencies[j] = ((double)j - Receiver40MHz.DataPointsNumber / 2) * (double)(Receiver40MHz.SampleFrequency) / 1000 / Receiver40MHz.DataPointsNumber + Receiver40MHz.Frequency / 1000;
+                //    }
+
+
+
+                //    int k = Receiver40MHz.DataPointsNumber / 2;
+                //    for (int i = 0; i < k; i++)
+                //    {
+                //        ch0[i] = new alglib.complex(Receiver40MHz.channelDataI0[i + k], Receiver40MHz.channelDataQ0[i + k]);
+                //        ch1[i] = new alglib.complex(Receiver40MHz.channelDataI1[i + k], Receiver40MHz.channelDataQ1[i + k]);
+                //        ch2[i] = new alglib.complex(Receiver40MHz.channelDataI2[i + k], Receiver40MHz.channelDataQ2[i + k]);
+                //        ch3[i] = new alglib.complex(Receiver40MHz.channelDataI3[i + k], Receiver40MHz.channelDataQ3[i + k]);
+
+                //        ch0[i + k] = new alglib.complex(Receiver40MHz.channelDataI0[i], Receiver40MHz.channelDataQ0[i]);
+                //        ch1[i + k] = new alglib.complex(Receiver40MHz.channelDataI1[i], Receiver40MHz.channelDataQ1[i]);
+                //        ch2[i + k] = new alglib.complex(Receiver40MHz.channelDataI2[i], Receiver40MHz.channelDataQ2[i]);
+                //        ch3[i + k] = new alglib.complex(Receiver40MHz.channelDataI3[i], Receiver40MHz.channelDataQ3[i]);
+                //    }
+
+                //    for (int i = 0; i < Receiver40MHz.DataPointsNumber; i++)
+                //    {
+                //        ch0abs[i] = ch0[i].Abs;
+                //        ch1abs[i] = ch1[i].Abs;
+                //        ch2abs[i] = ch2[i].Abs;
+                //        ch3abs[i] = ch3[i].Abs;
+                //    }
+
+                //    Invoke(new EventHandler(Receiver40MHz_DataReady), new object[] { sender, e });
+                //}
+                //else
+                //{
+                //    GraphPane pane = zedGraphControl.GraphPane;
+                //    pane.CurveList.Clear();
+                //    pane.AddCurve("I0", frequencies, ch0abs, Color.Black, SymbolType.None);
+                //    zedGraphControl.AxisChange();
+                //    zedGraphControl.Invalidate();
+
+                //    Receiver40MHz.SetDataRequestFlag();
+            }
+        }
+
+        //private void button1_Click(object sender, EventArgs e)
+        //{
+        //    //using (FileStream fileStream = new FileStream("outputFile.txt", FileMode.Open))
+        //    //{
+        //    //    double[] re0d, im0d;
+
+        //    //    double[] xData = new double[4096];
+        //    //    for (int i = 0; i < 4096; i++)
+        //    //    {
+        //    //        xData[i] = i;
+        //    //    }
+
+        //    //    List<alglib.complex> ch0List = new List<alglib.complex>();
+        //    //    List<double> re0List = new List<double>();
+        //    //    List<double> im0List = new List<double>();
+        //    //    char[] separator = new char[] { ' ' };
+        //    //    string str;
+        //    //    StreamReader streamReader = new StreamReader(fileStream);
+        //    //    int elNum = 0;
+        //    //    while ((str = streamReader.ReadLine()) != null)
+        //    //    {
+        //    //        string[] strArray = str.Split(separator);
+        //    //        //ch0List.Add(new alglib.complex(int.Parse(strArray[0]), int.Parse(strArray[1])));
+        //    //        re0List.Add(int.Parse(strArray[0]));
+        //    //        im0List.Add(int.Parse(strArray[1]));
+        //    //        elNum++;
+        //    //    }
+        //    //    //ch0 = ch0List.ToArray();
+        //    //    re0d = re0List.ToArray();
+        //    //    im0d = im0List.ToArray();
+
+
+        //    //    double frequencyShift = -13000;
+        //    //    double sampleFrequency = 50000;
+
+        //    //    double[] re0, im0;
+        //    //    re0 = new double[re0d.Length];
+        //    //    im0 = new double[im0d.Length];
+        //    //    double sinwt,coswt;
+        //    //    for (int i = 0; i < re0d.Length; i++)
+        //    //    {
+        //    //        sinwt = Math.Sin(2 * Math.PI * frequencyShift / sampleFrequency * i);
+        //    //        coswt = Math.Cos(2 * Math.PI * frequencyShift / sampleFrequency * i);
+
+        //    //        //ch0[i] = ch0[i] * new alglib.complex(, );
+        //    //        re0[i] = re0d[i ]* coswt - im0d[i] * sinwt;
+        //    //        im0[i] = re0d[i] * sinwt + im0d[i] * coswt;
+        //    //    }
+
+
+
+        //    //    //Apply Blackman window
+        //    //    int windowSize = 4096;
+        //    //    int winRange = 1800;
+        //    //    int val;
+        //    //    double[] W = new double[windowSize];
+        //    //    for (int n = 0; n < windowSize; n++)
+        //    //    {
+        //    //        if (n < winRange || n > windowSize - winRange + 1)
+        //    //        {
+        //    //            val = 0;
+        //    //        }
+        //    //        else
+        //    //        {
+        //    //            val = 1;
+        //    //        }
+        //    //        if (n < windowSize / 2)
+        //    //        {
+        //    //            W[n + windowSize / 2] = val;
+        //    //            //W[n+ windowSize / 2] = 0.42 - 0.5 * Math.Cos(2 * Math.PI * n / (windowSize - 1)) + 0.08 * Math.Cos(4 * Math.PI * n / (windowSize - 1));
+        //    //        }
+        //    //        else
+        //    //        {
+        //    //            W[n - windowSize / 2] = val;
+        //    //            //W[n- windowSize / 2] = 0.42 - 0.5 * Math.Cos(2 * Math.PI * n / (windowSize - 1)) + 0.08 * Math.Cos(4 * Math.PI * n / (windowSize - 1));
+        //    //        }
+        //    //    }
+        //    //    streamPlayer.PlayAsync();
+        //    //    double[] re0fft = new double[windowSize];
+        //    //    double[] im0fft = new double[windowSize];
+        //    //    double[] absData = new double[windowSize];
+        //    //    List<short> samples = new List<short>();
+        //    //    double maxVal = 0;
+        //    //    int curDataNum = 0;
+        //    //    for (int j = 0; j < 150; j++)
+        //    //    {
+        //    //        for (int i = 0; i < re0fft.Length; i++)
+        //    //        {
+        //    //            re0fft[i] = re0[curDataNum];
+        //    //            im0fft[i] = im0[curDataNum];
+        //    //            curDataNum++;
+        //    //        }
+                    
+                    
+        //    //        FFT2.init(windowSize);
+        //    //        FFT2.FFT(re0fft, im0fft, false);
+
+
+        //    //        for (int i = 0; i < re0fft.Length; i++)
+        //    //        {
+        //    //            re0fft[i] *= W[i];
+        //    //            im0fft[i] *= W[i];
+        //    //        }
+        //    //        FFT2.FFT(re0fft, im0fft, true);
+
+        //    //        for (int i = 0; i < re0fft.Length; i++)
+        //    //        {
+        //    //            absData[i] = re0fft[i];
+        //    //            if (absData[i] > maxVal) maxVal = absData[i];
+        //    //        }
+                    
+        //    //        for (int i = 0; i < 4096; i ++)
+        //    //        {
+        //    //            samples.Add((short)(absData[i] / 500000 * short.MaxValue));
+        //    //        }
+        //    //        streamPlayer.Write(samples.ToArray());
+        //    //        samples.Clear();
+        //    //    }
+                
+
+                
+                
+
+                
+                
+
+        //    }
+        //}
+
+        //private static alglib.complex[] PepareFilterParameters(int N, double Fd, double Fc)
+        //{
+
+        //    double[] Hreal = new double[N]; //Импульсная характеристика фильтра
+        //    double[] H_id = new double[N]; //Идеальная импульсная характеристика
+        //    double[] W = new double[N]; //Весовая функция
+        //    alglib.complex[] H = new alglib.complex[N];
+        //    //Расчет импульсной характеристики фильтра
+        //    //double Fc = (Fs + Fx) / (2 * Fd);
+        //    Fc /= Fd;
+        //    for (int i = 0; i < N; i++)
+        //    {
+        //        if (i == 0) H_id[i] = 2 * Math.PI * Fc;
+        //        else H_id[i] = Math.Sin(2 * Math.PI * Fc * i) / (Math.PI * i);
+        //        // весовая функция Блекмена
+        //        W[i] = 0.42 - 0.5 * Math.Cos((2 * Math.PI * i) / (N - 1)) + 0.08 * Math.Cos((4 * Math.PI * i) / (N - 1));
+        //        Hreal[i] = H_id[i] * W[i];
+        //    }
+
+        //    //Нормировка импульсной характеристики
+        //    double SUM = 0;
+        //    for (int i = 0; i < N; i++) SUM += Hreal[i];
+        //    for (int i = 0; i < N; i++) Hreal[i] /= SUM; //сумма коэффициентов равна 1 
+        //    for (int i = 0; i < N; i++)
+        //    {
+        //        H[i] = new alglib.complex(Hreal[i], 0);
+        //    }
+        //    return H;
+        //}
+
+        //private static double[] GetH(int N, double Fd, double Fc)
+        //{
+
+        //    double[] Hreal = new double[N]; //Импульсная характеристика фильтра
+        //    double[] H_id = new double[N]; //Идеальная импульсная характеристика
+        //    double[] W = new double[N]; //Весовая функция
+        //    alglib.complex[] H = new alglib.complex[N];
+        //    //Расчет импульсной характеристики фильтра
+        //    //double Fc = (Fs + Fx) / (2 * Fd);
+        //    Fc /= Fd;
+        //    for (int i = 0; i < N; i++)
+        //    {
+        //        if (i == 0) H_id[i] = 2 * Math.PI * Fc;
+        //        else H_id[i] = Math.Sin(2 * Math.PI * Fc * i) / (Math.PI * i);
+        //        // весовая функция Блекмена
+        //        W[i] = 0.42 - 0.5 * Math.Cos((2 * Math.PI * i) / (N - 1)) + 0.08 * Math.Cos((4 * Math.PI * i) / (N - 1));
+        //        Hreal[i] = H_id[i] * W[i];
+        //    }
+
+        //    //Нормировка импульсной характеристики
+        //    double SUM = 0;
+        //    for (int i = 0; i < N; i++) SUM += Hreal[i];
+        //    for (int i = 0; i < N; i++) Hreal[i] /= SUM; //сумма коэффициентов равна 1 
+
+        //    return Hreal;
+        //}
+
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            //streamPlayer.Stop();
+            //streamPlayer = new StreamPlayer(50000);
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        //void Filter(alglib.complex[] inData, alglib.complex[] outData)
+        //{
+        //    int sizeIn = inData.Length;
+        //    const int N = 25; //Длина фильтра
+        //    double Fd = 50000; //Частота дискретизации входных данных
+        //    double Fs = 1500; //Частота полосы пропускания
+        //    double Fx = 1500; //Частота полосы затухания
+
+        //    double[] H = new double[N]; //Импульсная характеристика фильтра
+        //    double[] H_id = new double[N]; //Идеальная импульсная характеристика
+        //    double[] W = new double[N]; //Весовая функция
+        //    double M_PI = 3.1415926;
+        //    //Расчет импульсной характеристики фильтра
+        //    double Fc = (Fs + Fx) / (2 * Fd);
+
+        //    for (int i = 0; i < N; i++)
+        //    {
+        //        if (i == 0) H_id[i] = 2 * M_PI * Fc;
+        //        else H_id[i] = Math.Sin(2 * M_PI * Fc * i) / (M_PI * i);
+        //        // весовая функция Блекмена
+        //        W[i] = 0.42 - 0.5 * Math.Cos((2 * M_PI * i) / (N - 1)) + 0.08 * Math.Cos((4 * M_PI * i) / (N - 1));
+        //        H[i] = H_id[i] * W[i];
+        //    }
+
+        //    //Нормировка импульсной характеристики
+        //    double SUM = 0;
+        //    for (int i = 0; i < N; i++) SUM += H[i];
+        //    for (int i = 0; i < N; i++) H[i] /= SUM; //сумма коэффициентов равна 1 
+
+        //    //Фильтрация входных данных
+        //    for (int i = 0; i < sizeIn; i++)
+        //    {
+        //        outData[i] = 0;
+        //        for (int j = 0; j < N - 1; j++)// та самая формула фильтра
+        //            if (i - j >= 0)
+        //                outData[i] += H[j] * inData[i - j];
+        //    }
+        //}
+    }
+}
+
+
+
+
+//double[] H = GetH(N, 50000, 2000);
+//                //Фильтрация входных данных
+//                for (int i = 0; i<ch0.Length; i++)
+//                {
+//                    filteredData[i] = 0;
+//                    for (int j = 0; j<N - 1; j++)// та самая формула фильтра
+//                        if (i - j >= 0)
+//                            filteredData[i] += H[j] * ch0[i - j];
+//                }
+
+
+
+
+//                ////Фильтрация входных данных
+//                //for (int i = 0; i < ch0.Length; i++)
+//                //{
+//                //    ////filteredData[i] = ch0[i];
+//    filteredData[i] = 0;
+//    Hnode = H.First;
+//    dataInFilterBufferCurrent.data = ch0[i];
+//    for (int j = 0; j < N - 1; j++)// та самая формула фильтра
+//    {
+//        filteredData[i] = Hnode.Value * dataInFilterBufferCurrent.data;
+//        Hnode = Hnode.Next;
+//        dataInFilterBufferCurrent = dataInFilterBufferCurrent.Next;
+//    }
+//    filteredData[i] = Hnode.Value * dataInFilterBufferCurrent.data;
+//    Hnode = Hnode.Next;
+//}

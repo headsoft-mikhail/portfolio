@@ -1,0 +1,102 @@
+syntax = "proto2";
+
+package WAYPOINT_ACTION_CTRL;
+
+enum ActionType
+{
+	HoldPoint = 0;
+	CircleInPoint = 1;
+	CourseInPoint = 2;
+	Drop = 3;
+	Measure = 4;
+	Shoot = 5;
+	Servo = 6;
+	PointInCoordinate = 7;
+}
+
+enum Priority
+{
+	AsPossible = 0; //Action can be perform during fly in point
+	InPoint = 1; //Action can be perform only when reach point 
+}
+
+message MoveToPointRequest
+{
+	optional double latitude = 1;
+	optional double longitude = 2;
+	optional float altitude = 3;
+	optional float course = 4;
+	optional float speed = 5;
+	repeated ActionInPoint actions = 6;
+}
+
+message ActionInPoint
+{
+	required ActionType type = 1;
+	
+	optional uint32 actionID = 2; //If many actions in point. Use in ActionFinished result type as progress
+	optional uint32 actionTime = 3; //As long action have to be perform. (ex. Shooting in 2 minutes)
+	optional uint32 actionsCount = 4 [default = 1]; //Number of same ActionType actions. (ex. CircleInPoint for 5 times)
+	optional uint32 subjID = 5; //Action subject id. For example number of servo, or videoCamera number.
+	optional Priority actionPriority = 6; //Action priority for moveToPoint
+	
+	optional CircleInPointProperties circleinPointProp = 7;
+	optional CourseInPointProperties courseinPointProp = 8;
+	optional ServoProperties servoProp = 9;
+	optional PointInCoordinateProperties pointInCoordProp = 10;
+}
+
+message CircleInPointProperties {
+	optional float radiusMeters = 1;
+	optional float azimuthDegrees = 2;
+}
+
+message CourseInPointProperties {
+	optional float azimuthDegrees = 1;
+}
+
+message ServoProperties {
+	optional float targetAngle = 1;
+}
+
+message PointInCoordinateProperties {
+    optional double latitude = 1;
+	optional double longitude = 2;
+}
+
+message MoveToPointRequestResult
+{
+	enum Result
+	{
+		Result_Undefined = 0;
+		Result_Accepted = 1;
+		Result_Rejected = 2;
+	}
+	optional Result result = 1 [default = Result_Undefined]; //Rejected - immediately, when NPU operator reject fly to point according to any conditions
+}
+
+message ActionInPointResult
+{
+	enum Result
+	{
+		ActionFinished = 0;
+		AllActionsFinished = 1;
+	}
+	
+	optional Result result = 1 [default = ActionFinished];
+	
+	optional uint32 actionID = 2; //For ActionFinished result type
+	optional bool success = 3; //false when action finished with any error
+}
+
+message Ctrl
+{
+	required uint32 boardId = 1;
+	
+	//Request fields
+	optional MoveToPointRequest request = 2;
+	
+	//Answer states
+	optional MoveToPointRequestResult requestResult = 3;
+	optional ActionInPointResult actionResult = 4;
+}

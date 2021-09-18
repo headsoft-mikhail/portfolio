@@ -1,0 +1,57 @@
+D:\NIL-44\UsbTest\DataSerialazer\bin\Debug\DataSaver.dll
+D:\NIL-44\UsbTest\DataSerialazer\bin\Debug\DataSaver.pdb
+D:\NIL-44\UsbTest\DataSerialazer\obj\Debug\DataSerialazer.csprojResolveAssemblyReference.cache
+D:\NIL-44\UsbTest\DataSerialazer\obj\Debug\DataSaver.dll
+D:\NIL-44\UsbTest\DataSerialazer\obj\Debug\DataSaver.pdb
+D:\NIL-44\DNmeasure\DataSerialazer\bin\Debug\DataSaver.dll
+D:\NIL-44\DNmeasure\DataSerialazer\bin\Debug\DataSaver.pdb
+D:\NIL-44\DNmeasure\DataSerialazer\obj\Debug\DataSerialazer.csprojResolveAssemblyReference.cache
+D:\NIL-44\DNmeasure\DataSerialazer\obj\Debug\DataSaver.dll
+D:\NIL-44\DNmeasure\DataSerialazer\obj\Debug\DataSaver.pdb
+D:\NIL-44\UsbTest6\DataSerialazer\bin\Debug\DataSaver.dll
+D:\NIL-44\UsbTest6\DataSerialazer\bin\Debug\DataSaver.pdb
+D:\NIL-44\UsbTest6\DataSerialazer\obj\Debug\DataSaver.dll
+D:\NIL-44\UsbTest6\DataSerialazer\obj\Debug\DataSaver.pdb
+F:\ReceiverLast\Interface\DataSerialazer\bin\Debug\DataSaver.dll
+F:\ReceiverLast\Interface\DataSerialazer\bin\Debug\DataSaver.pdb
+F:\ReceiverLast\Interface\DataSerialazer\obj\Debug\DataSaver.dll
+F:\ReceiverLast\Interface\DataSerialazer\obj\Debug\DataSaver.pdb
+D:\NIL-44\Interface\DataSerialazer\bin\Debug\DataSaver.dll
+D:\NIL-44\Interface\DataSerialazer\bin\Debug\DataSaver.pdb
+D:\NIL-44\Interface\DataSerialazer\obj\Debug\DataSaver.dll
+D:\NIL-44\Interface\DataSerialazer\obj\Debug\DataSaver.pdb
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\Interface\DataSerialazer\bin\Debug\DataSaver.dll
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\Interface\DataSerialazer\bin\Debug\DataSaver.pdb
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\Interface\DataSerialazer\obj\Debug\DataSerialazer.csprojResolveAssemblyReference.cache
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\Interface\DataSerialazer\obj\Debug\DataSaver.dll
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\Interface\DataSerialazer\obj\Debug\DataSaver.pdb
+F:\InterfaceDemo\DataSerialazer\bin\Debug\DataSaver.dll
+F:\InterfaceDemo\DataSerialazer\bin\Debug\DataSaver.pdb
+F:\InterfaceDemo\DataSerialazer\obj\Debug\DataSerialazer.csprojResolveAssemblyReference.cache
+F:\InterfaceDemo\DataSerialazer\obj\Debug\DataSaver.dll
+F:\InterfaceDemo\DataSerialazer\obj\Debug\DataSaver.pdb
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\2017.12.28 InterfaceDemo\DataSerialazer\bin\Debug\DataSaver.dll
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\2017.12.28 InterfaceDemo\DataSerialazer\bin\Debug\DataSaver.pdb
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\2017.12.28 InterfaceDemo\DataSerialazer\obj\Debug\DataSerialazer.csprojResolveAssemblyReference.cache
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\2017.12.28 InterfaceDemo\DataSerialazer\obj\Debug\DataSaver.dll
+z:\НИЛ-44\КВУКВ\!Receiver40MHzSoft\2017.12.28 InterfaceDemo\DataSerialazer\obj\Debug\DataSaver.pdb
+F:\2018.03.27 SW_Pelengator RotatorCOM + map\DataSerialazer\bin\Debug\DataSaver.dll
+F:\2018.03.27 SW_Pelengator RotatorCOM + map\DataSerialazer\bin\Debug\DataSaver.pdb
+F:\2018.03.27 SW_Pelengator RotatorCOM + map\DataSerialazer\obj\Debug\DataSerialazer.csprojResolveAssemblyReference.cache
+F:\2018.03.27 SW_Pelengator RotatorCOM + map\DataSerialazer\obj\Debug\DataSaver.dll
+F:\2018.03.27 SW_Pelengator RotatorCOM + map\DataSerialazer\obj\Debug\DataSaver.pdb
+C:\Users\NIO4\Desktop\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\DataSerialazer\bin\Debug\DataSaver.dll
+C:\Users\NIO4\Desktop\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\DataSerialazer\bin\Debug\DataSaver.pdb
+C:\Users\NIO4\Desktop\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\DataSerialazer\obj\Debug\DataSerialazer.csprojResolveAssemblyReference.cache
+C:\Users\NIO4\Desktop\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\DataSerialazer\obj\Debug\DataSaver.dll
+C:\Users\NIO4\Desktop\2018.03.28 SW_Pelengator RotatorCOM+Maps outOfMemoryCrash\DataSerialazer\obj\Debug\DataSaver.pdb
+F:\2018.03.28 SW_Pelengator 1.9\DataSerialazer\bin\Debug\DataSaver.dll
+F:\2018.03.28 SW_Pelengator 1.9\DataSerialazer\bin\Debug\DataSaver.pdb
+F:\2018.03.28 SW_Pelengator 1.9\DataSerialazer\obj\Debug\DataSerialazer.csprojResolveAssemblyReference.cache
+F:\2018.03.28 SW_Pelengator 1.9\DataSerialazer\obj\Debug\DataSaver.dll
+F:\2018.03.28 SW_Pelengator 1.9\DataSerialazer\obj\Debug\DataSaver.pdb
+C:\Users\Afanasiev_MA\Desktop\2018.04.28 SW_DN_Editor\DataSerialazer\bin\Debug\DataSaver.dll
+C:\Users\Afanasiev_MA\Desktop\2018.04.28 SW_DN_Editor\DataSerialazer\bin\Debug\DataSaver.pdb
+C:\Users\Afanasiev_MA\Desktop\2018.04.28 SW_DN_Editor\DataSerialazer\obj\Debug\DataSerialazer.csprojResolveAssemblyReference.cache
+C:\Users\Afanasiev_MA\Desktop\2018.04.28 SW_DN_Editor\DataSerialazer\obj\Debug\DataSaver.dll
+C:\Users\Afanasiev_MA\Desktop\2018.04.28 SW_DN_Editor\DataSerialazer\obj\Debug\DataSaver.pdb
