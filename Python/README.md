@@ -43,7 +43,7 @@
 - nltk
 - re
 
-[**Проект "Telegram schedule bot"**](https://github.com/headsoft-mikhail/portfolio/tree/master/Python/telegram_ML_bot)  
+[**Проект "Telegram schedule bot"**](https://github.com/headsoft-mikhail/portfolio/tree/master/Python/telegram_schedule_bot)  
 **Задача:** написать Telegram-бота - записную книжку. Задачи хранить в памяти приложения.
   
 **Решение:** Бот поддерживает набор команд: добавить запись, удалить запись, показать дела на дату, показать весь список задач, очистить список задач. 
