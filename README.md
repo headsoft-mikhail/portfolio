@@ -1,6 +1,7 @@
 ### Афанасьев Михаил Александрович  
 ### Backend-разработчик  
 **Email:** maafanasiev@mail.ru  
+**Резюме:** [docs.google](https://docs.google.com/document/d/1pp8Ww9YYiKehxh-aPw46KDdLeCGFfC1qGm01fW0GOWk/edit?usp=sharing)
 
 Изучаю курс Нетологии ["Python-разработчик с нуля"](https://netology.ru/programs/python#/)  
 Имею опыт написания прикладного ПО на Qt, Matlab, C#.  
