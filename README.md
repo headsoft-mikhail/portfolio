@@ -1,7 +1,7 @@
 ### Афанасьев Михаил Александрович  
 ### Backend-разработчик  
 **Email:** maafanasiev@mail.ru  
-**Резюме:** [docs.google](https://docs.google.com/document/d/1pp8Ww9YYiKehxh-aPw46KDdLeCGFfC1qGm01fW0GOWk/edit?usp=sharing)
+**Резюме:** [docs.google](https://docs.google.com/document/d/1CscuGfIlSxcoJB7qaMtAxdR-MvWfh59YkaSYzXGXnsQ)
 
 Высшее образование: СПбГЭТУ "ЛЭТИ", 2015, магистр, специальность - "Радиотехника"  
 Профессиональная переподготовка: Нетология, 2022, ["Python-разработчик с нуля"](https://netology.ru/programs/python#/)  
